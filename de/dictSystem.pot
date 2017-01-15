@@ -1,0 +1,395 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Title"
+msgstr "Linux Distribution Chooser"
+
+msgid "getresult"
+msgstr "Get result"
+
+msgid "answered"
+msgstr "Answered"
+
+msgid "welcomeTextHeader"
+msgstr "Welcome!"
+
+msgid "zerodistros"
+msgstr "No distros suitable :("
+
+msgid "Result"
+msgstr "Result"
+
+msgid "contact"
+msgstr "Contact"
+
+msgid "privacy"
+msgstr "Privacy"
+
+msgid "share"
+msgstr "Share"
+
+msgid "faq"
+msgstr "Frequently asked questions"
+
+msgid "NoResults"
+msgstr "No distributions could be determined!"
+
+msgid "Vendor"
+msgstr "A project made by"
+
+msgid "shareTitle"
+msgstr "Share"
+
+msgid "Suitable"
+msgstr "Suitable"
+
+msgid "about"
+msgstr "About the distrochooser"
+
+msgid "questionanswered"
+msgstr "answered"
+
+msgid "testCount"
+msgstr "Tests made until now:"
+
+msgid "installedDistros"
+msgstr "Currently available Distributions"
+
+msgid "stats"
+msgstr "Statistics"
+
+msgid "rankedDistros"
+msgstr "Distributions by popularity"
+
+msgid "MatrixHeader"
+msgstr "All answers at one sight!"
+
+msgid "ImageSource"
+msgstr "Image Source"
+
+msgid "TextSource"
+msgstr "Text Source"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Screenshots"
+msgstr "Screenshots"
+
+msgid "NoScreenshots"
+msgstr "No screenshots :("
+
+msgid "shareMyResultText"
+msgstr "Share my result"
+
+msgid "FindTheRightLinux"
+msgstr "Find the suitable Linux distribution"
+
+msgid "RelativeResults"
+msgstr "There was no 100 % match. I will display the results with the highest accordance."
+
+msgid "nextQuestion"
+msgstr "Next question"
+
+msgid "testCountCanvasTitle"
+msgstr "Tests made until now (this month)"
+
+msgid "distroResultStats"
+msgstr "Distro by results"
+
+msgid "uses"
+msgstr "Distrochooser is powered by"
+
+msgid "Refs"
+msgstr "The Distrochooser in the media"
+
+msgid "Radar"
+msgstr "Radar"
+
+msgid "ResultRatingHeader"
+msgstr "How happy are you with the result?"
+
+msgid "thanksForRating"
+msgstr "Thanks for your rating!"
+
+msgid "NotAllowed"
+msgstr "You can only give one answer for this question! "
+
+msgid "StartTest"
+msgstr "Start the test"
+
+msgid "submit-comment"
+msgstr "submit"
+
+msgid "free"
+msgstr "free licenses"
+
+msgid "portage"
+msgstr "portage-packagemanagement"
+
+msgid "guinstall"
+msgstr "Installation wizard"
+
+msgid "fits"
+msgstr "Suitable"
+
+msgid "doesntfit"
+msgstr "Does not fit or no answer given to this topic"
+
+msgid "expert"
+msgstr "Target group: Experts"
+
+msgid "advanced"
+msgstr "Target group: Advanced users"
+
+msgid "rpm"
+msgstr "RPM-Paketverwaltung"
+
+msgid "daily-use"
+msgstr "daily use"
+
+msgid "ui-packages"
+msgstr "graphical package management"
+
+msgid "linux-advanced"
+msgstr "Linux knowledge: Advanced"
+
+msgid "linux-expert"
+msgstr "Linux knowledge: Expert"
+
+msgid "fullinstall"
+msgstr "Complete install with additional tools"
+
+msgid "hdd-install"
+msgstr "installation on hard disk"
+
+msgid "bleedingedge"
+msgstr "Age of software: Bleeding edge"
+
+msgid "stable"
+msgstr "stable"
+
+msgid "gaming"
+msgstr "Supported by game developers"
+
+msgid "ui-ux-closed"
+msgstr "User Interface: Complete design concept"
+
+msgid "ux-before-privacy"
+msgstr "User expierience before privacy"
+
+msgid "apt"
+msgstr "Package management: APT"
+
+msgid "user-exchange"
+msgstr "multiple exchange plattforms with other users"
+
+msgid "linux-beginner"
+msgstr "Linux knowledge: Beginner"
+
+msgid "controlpanel"
+msgstr "System Control panel preinstalled"
+
+msgid "not-light"
+msgstr "Default desktop needs many resources "
+
+msgid "beginner"
+msgstr "Basic computer knowledge"
+
+msgid "ultra-stable"
+msgstr "Very stable"
+
+msgid "shellinstall"
+msgstr "Installation via shell possible"
+
+msgid "wiki"
+msgstr "Gain knowledge with wiki sites"
+
+msgid "tutorials"
+msgstr "Configuration using tutorials"
+
+msgid "baseinstall"
+msgstr "Base install without additional software possible"
+
+msgid "baseinstall"
+msgstr "Base install without additional software possible"
+
+msgid "windows-like"
+msgstr "Default desktop is Windows-like"
+
+msgid "light"
+msgstr "Suitable for old and small systems"
+
+msgid "mac-like"
+msgstr "Default desktop looks like Mac OS"
+
+msgid "non-free"
+msgstr "Proprietary or fee-based version existing, e. g. for enterprise use"
+
+msgid "apt-rpm"
+msgstr "Package management for apt and rpm packages"
+
+msgid "pacman"
+msgstr "pacman package manager"
+
+msgid "rescue"
+msgstr "Suitable for data and system rescue"
+
+msgid "live"
+msgstr "Can be used with a Live medium (e. g. CD, DVD or USB)"
+
+msgid "live-usb"
+msgstr "Can be booted via USB"
+
+msgid "live-optical"
+msgstr "Can be booted using CD or DVD"
+
+msgid "anonymous"
+msgstr "For anonymization purposes"
+
+msgid "comment"
+msgstr "You have feedback? Thank you!"
+
+msgid "oldTest"
+msgstr "This test was made with an old version of the distrochooser. Sadly old tests can redisplayed anymore because the questions changed. Sorry!"
+
+msgid "donation"
+msgstr "You like the Distrochooser? You can support me with a donation. Thank you!"
+
+msgid "fromsource"
+msgstr "Build program packages from source"
+
+msgid "excluded"
+msgstr "Excluded"
+
+msgid "why"
+msgstr "Why"
+
+msgid "not"
+msgstr "not"
+
+msgid "displayExcluded"
+msgstr "Display me also exluded distros."
+
+msgid "a"
+msgstr "A"
+
+msgid "comments"
+msgstr "thinks"
+
+msgid "pc-advanced"
+msgstr "Computer knowledge: Advanced"
+
+msgid "installer-defaults-wanted"
+msgstr "Default settings wanted at installation"
+
+msgid "installation-live"
+msgstr "Live Mode"
+
+msgid "installation-usb"
+msgstr "Working from USB sticks possible"
+
+msgid "installation-hdd"
+msgstr "Installation on hard disk possible"
+
+msgid "help-community"
+msgstr "Community can help troubleshooting problems"
+
+msgid "all-like"
+msgstr "User interface similar to other non-linux operating systems"
+
+msgid "pay-price"
+msgstr "Charged version available "
+
+msgid "installation-full"
+msgstr "Installation with all needed programs"
+
+msgid "license-unfree-if-needed"
+msgstr "Uses non-free licenses if needed"
+
+msgid "privacy-online-not-okay"
+msgstr "Does not connect to online services if the user does not init them"
+
+msgid "ux-closed"
+msgstr "Closed UI concept"
+
+msgid "programs-graphical"
+msgstr "Install programs via a graphical program"
+
+msgid "updates-stable"
+msgstr "Stable updates"
+
+msgid "usage-daily"
+msgstr "Suitable vor daily usage"
+
+msgid "pc-beginner"
+msgstr "Computer knowledge: Beginner"
+
+msgid "pc-beginner"
+msgstr "Computer knowledge: Beginner"
+
+msgid "usage-gaming"
+msgstr "Is supported by some game manufacturers"
+
+msgid "privacy-online-okay"
+msgstr "Connects to online services to improve user expierience"
+
+msgid "pay-nothing"
+msgstr "Free to use"
+
+msgid "license-free"
+msgstr "Uses mostly free licenses"
+
+msgid "usage-anon"
+msgstr "Made for anonymization purposes"
+
+msgid "programs-shell"
+msgstr "Software installation mostly via shell"
+
+msgid "usage-rescue"
+msgstr "Suitable for data rescue"
+
+msgid "updates-unstable"
+msgstr "Fast, but maybe unstable updates"
+
+msgid "pc-expert"
+msgstr "Computer knowledge: Expert"
+
+msgid "help-wiki"
+msgstr "Help with troubleshooting mostly with wiki articles and tutorials"
+
+msgid "installation-base"
+msgstr "Installs only base operating system"
+
+msgid "linux-experts"
+msgstr "Linux knowledge: Expert"
+
+msgid "NotComplied"
+msgstr "Not fullfied"
+
+msgid "clear"
+msgstr "Clear answer"
+
+msgid "pc-old"
+msgstr "Suitable Variant for older systems existing"
+
+msgid "license-free"
+msgstr "uses mostly free licenses"
+
+msgid "calculating"
+msgstr "calculating..."
+
+msgid "thanksForRating"
+msgstr "Thanks for rating!"
+
+msgid "container"
+msgstr "Applications are executed in isolated containers to improve security"
+
+msgid "no-systemd"
+msgstr "Offers editions without systemd"
+
+msgid "multipackage"
+msgstr "Able to install packages of other distributions without additional efford"
+
