@@ -2,21 +2,15 @@
 
 You want to support the [distrochooser](https://distrochooser.de)? You can create a translation in your language!
 
+The translation is in gettext format (`.po`) which can be edited with any Gettext-Editor (e. g. Poedit).
+
 ## Current languages
 
-- German
-- English
-- Dutch (in progress)
+- de 
+- en (see `/en/`)
 
-## Syntax
+# Thank you!
 
-The *.csv files containing a dump of the database.  The file has mostly the structure
-`DBIndex;LanguageKey;Value`.
+# Contributors
 
-You can replace the english translation values with your translation. I will merge the new translation as a new one into the database. Please keep the `DBIndex` and other index columns.
-
-To get the translation merged, please open a pull request with a description of your translation to tell me, what language it is and which 2-char language code I should use for it.
-
-Please also add the new language to the list in this readme.
-
-# Thank you :)
+(you will be added to the list when your translation is finished)
