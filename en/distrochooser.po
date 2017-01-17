@@ -21,14 +21,14 @@ msgid "answered"
 msgstr ""
 
 # Original: <h1 id="StartWelcomeTitle"> <img class="largelogo hidden-xs" src="./assets/tux.png" alt="Welcome to the distrochooser"></h1>
-            <p id="StartText">This test should help you to find the suitable Linux Distribution.<br> The test will ask you simple questions to include the suitable distributions<br>
-<ul class="list">
-	<li>You can leave questions unanswered</li>
-	<li>You can get the result at any time</li>
-<li>Use the <a href="#" class="glyphicon glyphicon-star mark-important important"></a>-icon, to give more weight to the answer</li>
-	<li>You can answer the questions in the order you want</li>
-        <li>The amount of answers you give increases the quality of the result</li>
-</ul>
+#            <p id="StartText">This test should help you to find the suitable Linux Distribution.<br> The test will ask you simple questions to include the suitable distributions<br>
+#<ul class="list">
+# 	<li>You can leave questions unanswered</li>
+#	<li>You can get the result at any time</li>
+#	<li>Use the <a href="#" class="glyphicon glyphicon-star mark-important important"></a>-icon, to give more weight to the answer</li>
+#	<li>You can answer the questions in the order you want</li>
+#        <li>The amount of answers you give increases the quality of the result</li>
+#</ul>
 msgid "welcomeText"
 msgstr ""
 
@@ -89,10 +89,10 @@ msgid "testCount"
 msgstr ""
 
 # Original: The Linux Distribution Chooser tries to help new users to get an overview about suitable distributions. The service only offers Distributions which are suitable to the answers you give. If the answers where too unrealistic, the Distribution Chooser may offer no result. 
-</br>
-The old Linux Distribution Chooser calculates a different result and lists the distributions with an approximate result. </br>
-</br>
-This service should help to give an overview for beginners in Linux. It is possible that this service returns not 100 % suitable results when your answers exceed a realistic complexity limit. 
+# </br>
+# The old Linux Distribution Chooser calculates a different result and lists the distributions with an approximate result. </br>
+# </br>
+# This service should help to give an overview for beginners in Linux. It is possible that this service returns not 100 % suitable results when your answers exceed a realistic complexity limit. 
 
 msgid "aboutText"
 msgstr ""
@@ -901,9 +901,7 @@ msgstr ""
 msgid "Kubuntu"
 msgstr ""
 
-# Original: Slackware is a Linux distribution created by Patrick Volkerding in 1993. Originally based on Softlanding Linux System, Slackware has been the basis for many other Linux distributions, most notably the first versions of SUSE Linux, and is the oldest currently being maintained.
-
-Slackware aims for design stability and simplicity and to be the most "Unix-like" Linux distribution. It makes as few modifications as possible to software packages from upstream and tries not to anticipate use cases or preclude user decisions.
+# Original: Slackware is a Linux distribution created by Patrick Volkerding in 1993. Originally based on Softlanding Linux System, Slackware has been the basis for many other Linux distributions, most notably the first versions of SUSE Linux, and is the oldest currently being maintained. Slackware aims for design stability and simplicity and to be the most "Unix-like" Linux distribution. It makes as few modifications as possible to software packages from upstream and tries not to anticipate use cases or preclude user decisions.
 msgid "Slackware"
 msgstr ""
 
