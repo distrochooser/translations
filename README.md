@@ -24,7 +24,7 @@ The folder `/en/` contains the an empty gettext-file (`*.po`), listing the value
 - it
 - es
 - ru
-
+- add more :)
 
 # Contributors
 
