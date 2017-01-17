@@ -6,14 +6,25 @@ You want to support the [distrochooser](https://distrochooser.de)? You can creat
 
 The translation is in gettext format (`.po`) which can be edited with any Gettext-Editor (e. g. Poedit).
 
-Just look into the sample folder `/en`. Please create a new folder named `$languagecode` and put the `distrochooser.po` file in it. Happy translating!
+The folder `/en/` contains the an empty gettext-file (`*.po`), listing the values with the original english strings. You can copy this folder and rename it into an two-letter [ISO639-1](https://en.wikipedia.org/wiki/ISO_639-1)-Code, e. g. "fr" for french. 
 
-2 Strings, `welcomeText` and `aboutText` are HTML-templates. Just copy the markdown and Replace the human-readable parts.
+## Remarks
+
+- 2 Strings, `welcomeText` and `aboutText` are HTML-templates. Just copy the markdown and Replace the human-readable parts
+- One string construct is build by several strings to get 'A $foo-User thinks'. You can ignore this value if you are getting trouble with this
 
 ## Current languages
 
-- de 
-- en (see `/en/`)
+- de is developer's native language and is not listed in this repo
+- en will be translated by me
+
+## Language wishlist
+
+- fr
+- it
+- es
+- ru
+
 
 # Contributors
 
