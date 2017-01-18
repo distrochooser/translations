@@ -6,11 +6,11 @@ You want to support the [distrochooser](https://distrochooser.de)? You can creat
 
 The translation is in gettext format (`.po`) which can be edited with any Gettext-Editor (e. g. Poedit).
 
-The folder `/en/` contains the an empty gettext-file (`*.po`), listing the values with the original english strings. You can copy this folder and rename it into an two-letter [ISO639-1](https://en.wikipedia.org/wiki/ISO_639-1)-Code, e. g. "fr" for french. 
+If you want to start a new translation, just copy a existing folder. Don't forget to rename it to the new language code (e. g. de_DE for german) and to change the header field in the `.po` file.
 
 ## Remarks
 
-- 2 Strings, `welcomeText` and `aboutText` are HTML-templates. Just copy the markdown and Replace the human-readable parts
+- Please re-use HTML if present
 - One string construct is build by several strings to get 'A $foo-User thinks'. You can ignore this value if you are getting trouble with this
 
 ## Current languages

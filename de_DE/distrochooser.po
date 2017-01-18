@@ -1,0 +1,700 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: de_DE\n"
+
+
+msgid "Title"
+msgstr "Linux Auswahlhilfe"
+
+msgid "getresult"
+msgstr "Auswerten"
+
+msgid "answered"
+msgstr "Beantwortet"
+
+msgid "welcomeTextHeader"
+msgstr "Willkommen!"
+
+msgid "zerodistros"
+msgstr "Keine Distribution passend :("
+
+msgid "Result"
+msgstr "Ergebnis"
+
+msgid "contact"
+msgstr "Kontakt"
+
+msgid "privacy"
+msgstr "Datenschutz"
+
+msgid "share"
+msgstr "Teilen"
+
+msgid "faq"
+msgstr "Häufig gestellte Fragen"
+
+msgid "NoResults"
+msgstr "Es konnten keine Distributionen anhand der Antworten ermittelt werden!"
+
+msgid "Vendor"
+msgstr "Ein Projekt von"
+
+msgid "shareTitle"
+msgstr "Teilen"
+
+msgid "Suitable"
+msgstr "Passend"
+
+msgid "about"
+msgstr "Über den Distrochooser"
+
+msgid "questionanswered"
+msgstr "beantwortet"
+
+msgid "testCount"
+msgstr "Bisher gemachte Tests: "
+
+msgid "aboutText"
+msgstr "Der Linux Distribution Chooser soll helfen, Anfängern in der Linux Welt einen Überblick über geeignete Distributionen zu verschaffen. Der Distrochooser präsentiert dabei nur die Menge an Vorschlägen, die anhand der Antworten eingeschränkt werden.</br>Im Gegensatz zur \"alten\" Version des Distrochoosers werden Distributionen, die unpassend sind, ausgefiltert. Daher ist es möglich, dass bei zu extremen Kombinationen keine Resultate ermittelt werden können.</br></br>Der Distrochooser macht nur Vorschläge und soll eine Orientierungshilfe bieten, um sich als Anfänger in der Welt von Linux orientieren zu können. Daher kann es passieren, dass nicht ganz passende Ergebnisse geliefert werden, wenn die Komplexität der gegebenen Antwort ein realistisches Maß übersteigt."
+
+msgid "installedDistros"
+msgstr "Aktuell einbezogene Distributionen"
+
+msgid "stats"
+msgstr "Statistiken"
+
+msgid "rankedDistros"
+msgstr "Distributionen nach Beliebtheit"
+
+msgid "MatrixHeader"
+msgstr "Alle Antworten auf einen Blick!"
+
+msgid "ImageSource"
+msgstr "Bildquelle"
+
+msgid "TextSource"
+msgstr "Textquelle"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Screenshots"
+msgstr "Screenshots"
+
+msgid "NoScreenshots"
+msgstr "Leider keine Screenshots :("
+
+msgid "shareMyResultText"
+msgstr "Mein Ergebnis teilen"
+
+msgid "FindTheRightLinux"
+msgstr "Finde die richtige Linux-Distribution"
+
+msgid "RelativeResults"
+msgstr "Es konnte keine 100 % passende Distribution gefunden werden. Daher zeige ich hier die Ergebnisse mit der größten Übereinstimmung an."
+
+msgid "nextQuestion"
+msgstr "Nächste Frage"
+
+msgid "testCountCanvasTitle"
+msgstr "Bisher gemachte Tests (diesen Monat)"
+
+msgid "distroResultStats"
+msgstr "Beliebte Distributionen nach Testergebnis"
+
+msgid "uses"
+msgstr "Distrochooser wird ermöglicht durch"
+
+msgid "Refs"
+msgstr "Die Linux Auswahlhilfe in den Medien"
+
+msgid "Radar"
+msgstr "Radar"
+
+msgid "ResultRatingHeader"
+msgstr "Wie zufrieden bist du mit dem Ergebnis?"
+
+msgid "thanksForRating"
+msgstr "Danke für Deine Bewertung"
+
+msgid "NotAllowed"
+msgstr "Die Frage erlaubt nur eine Antwort!"
+
+msgid "StartTest"
+msgstr "Test starten"
+
+msgid "submit-comment"
+msgstr "absenden"
+
+msgid "free"
+msgstr "verwendet freie Lizenzen"
+
+msgid "portage"
+msgstr "portage-paketverwaltung"
+
+msgid "guinstall"
+msgstr "Installation über grafische Oberfläche"
+
+msgid "fits"
+msgstr "Trifft zu"
+
+msgid "doesntfit"
+msgstr "Trifft nicht zu oder Du hast hierzu nichts gesagt"
+
+msgid "expert"
+msgstr "Zielgruppe: Experten"
+
+msgid "advanced"
+msgstr "Zielgruppe: Fortgeschrittene"
+
+msgid "rpm"
+msgstr "RPM-Paketverwaltung"
+
+msgid "daily-use"
+msgstr "Tägliche Nutzung"
+
+msgid "ui-packages"
+msgstr "Grafisches Paketmanagement"
+
+msgid "linux-advanced"
+msgstr "Linuxkenntnisse: Fortgeschritten"
+
+msgid "linux-expert"
+msgstr "Linuxkenntnisse: Experte"
+
+msgid "fullinstall"
+msgstr "Komplette Installation mit Zusatzprogrammen"
+
+msgid "hdd-install"
+msgstr "Installationsziel: Festplatte"
+
+msgid "bleedingedge"
+msgstr "Alter der Software: Hochaktuell"
+
+msgid "stable"
+msgstr "stabil"
+
+msgid "gaming"
+msgstr "Unterstützt durch Spielehersteller"
+
+msgid "ui-ux-closed"
+msgstr "Oberfläche: Geschlossenes Designkonzept"
+
+msgid "ux-before-privacy"
+msgstr "Komfort vor Datenschutz"
+
+msgid "apt"
+msgstr "Paketmanagement: APT"
+
+msgid "user-exchange"
+msgstr "Mehrfache Austauschmöglichkeit mit anderen Usern vorhanden"
+
+msgid "linux-beginner"
+msgstr "Linuxkenntnisse: Anfänger"
+
+msgid "controlpanel"
+msgstr "Systemsteuerungsähnliches Programm vorinstalliert"
+
+msgid "not-light"
+msgstr "Standardoberfläche benötigt viele Ressourcen"
+
+msgid "beginner"
+msgstr "Zielgruppe: Anfänger"
+
+msgid "ultra-stable"
+msgstr "Äußerst stabil"
+
+msgid "shellinstall"
+msgstr "Installation über die Shell möglich"
+
+msgid "wiki"
+msgstr "Informationen über Wiki's beziehen"
+
+msgid "tutorials"
+msgstr "System und Programme mit Tutorials einrichten"
+
+msgid "baseinstall"
+msgstr "Grundlegende Installation ohne Zusatzprogramme möglich"
+
+msgid "windows-like"
+msgstr "Standardoberfläche erinnert an Windows"
+
+msgid "light"
+msgstr "Eignet sich für alte Rechner oder Systeme mit wenig verfügbaren Ressourcen"
+
+msgid "mac-like"
+msgstr "Standardoberfläche erinnert an Mac OS"
+
+msgid "non-free"
+msgstr "Geschlossene oder kostenpflichtige Variante vorhanden (z. B. für Unternehmenseinsatz)"
+
+msgid "apt-rpm"
+msgstr "Paketmanagement für APT und RPM vorhanden"
+
+msgid "pacman"
+msgstr "Pacman Paketmanager"
+
+msgid "rescue"
+msgstr "Für Daten- und Systemrettung geeinget"
+
+msgid "live"
+msgstr "Von einem Live-Medium (CD, DVD, USB) benutzbar"
+
+msgid "live-usb"
+msgstr "Von USB startbar"
+
+msgid "live-optical"
+msgstr "Kann von CD oder DVD gestartet werden"
+
+msgid "anonymous"
+msgstr "Dient der Benutzeranonymisierung"
+
+msgid "comment"
+msgstr "Du hast Feedback? Gerne!"
+
+msgid "oldTest"
+msgstr "Dieser Test wurde mit einer alten Version des Distrochoosers erstellt. Da sich die Fragen geändert haben, funktioniert dieser leider nicht mehr. Sorry!"
+
+msgid "donation"
+msgstr "Du möchtest den Distrochooser unterstützen? Hier kannst Du spenden! Danke!"
+
+msgid "fromsource"
+msgstr "Programmpakete aus Sourcecode bauen"
+
+msgid "excluded"
+msgstr "Unpassend"
+
+msgid "why"
+msgstr "Warum"
+
+msgid "not"
+msgstr "nicht"
+
+msgid "displayExcluded"
+msgstr "Auch unpassende Distributionen anzeigen."
+
+msgid "a"
+msgstr "Ein"
+
+msgid "comments"
+msgstr "denkt"
+
+msgid "pc-advanced"
+msgstr "Computerkenntnisse: Fortgeschritten"
+
+msgid "installer-defaults-wanted"
+msgstr "Voreinstellungen bei Installation gewünscht"
+
+msgid "installation-live"
+msgstr "Live-Test möglich"
+
+msgid "installation-usb"
+msgstr "USB-Betrieb möglich"
+
+msgid "installation-hdd"
+msgstr "Installation auf Festplatte möglich"
+
+msgid "help-community"
+msgstr "Gemeinschaft kann bei Problemen helfen"
+
+msgid "all-like"
+msgstr "Ähnelt verschiedenen Betriebssystemen"
+
+msgid "pay-price"
+msgstr "Kostenpflichtige Version verfügbar"
+
+msgid "installation-full"
+msgstr "Installation samt aller notwendigen Programme"
+
+msgid "license-unfree-if-needed"
+msgstr "Benutzt unfreie Lizenzen, wenn nötig"
+
+msgid "privacy-online-not-okay"
+msgstr "Datenschutz: Keine Verbindungen zu Onlinediensten aufbauen, wenn nicht gewünscht"
+
+msgid "ux-closed"
+msgstr "Geschlossenes Designkonzept"
+
+msgid "programs-graphical"
+msgstr "Installation von Programmen über eine grafische Oberfläche"
+
+msgid "updates-stable"
+msgstr "Stabile Updates"
+
+msgid "usage-daily"
+msgstr "Geeignet für täglichen Gebrauch"
+
+msgid "pc-beginner"
+msgstr "PC-Kenntnisse: Anfänger"
+
+msgid "usage-gaming"
+msgstr "Wird von manchen Spieleherstellern unterstützt"
+
+msgid "privacy-online-okay"
+msgstr "Baut Verbindungen zu Onlinediensten auf, um Benutzererfahrung zu verbessern"
+
+msgid "pay-nothing"
+msgstr "Kostenlose Distribution"
+
+msgid "license-free"
+msgstr "Benutzt vorwiegend freie Lizenzen"
+
+msgid "usage-anon"
+msgstr "Entwickelt für Zwecke der Anonymisierung"
+
+msgid "programs-shell"
+msgstr "Installation von Programmen vorwiegend über die Konsole"
+
+msgid "usage-rescue"
+msgstr "Geeignet für Datenrettung"
+
+msgid "updates-unstable"
+msgstr "Schnelle, aber möglicherweise instabile Updates"
+
+msgid "pc-expert"
+msgstr "PC-Kenntnisse: Experte"
+
+msgid "help-wiki"
+msgstr "Hilfe vorwiegend in Form von Wiki-Artikeln und Tutorials"
+
+msgid "installation-base"
+msgstr "Installiert nur das Basisbetriebssytem"
+
+msgid "linux-experts"
+msgstr "Linuxkenntnisse: Experte"
+
+msgid "NotComplied"
+msgstr "Nicht erfüllt"
+
+msgid "clear"
+msgstr "Antworten löschen"
+
+msgid "pc-old"
+msgstr "Es gibt passende Varianten für ältere Systeme"
+
+msgid "calculating"
+msgstr "Ausrechnen..."
+
+msgid "container"
+msgstr "Anwendungen werden isoliert in \"Container\" ausgeführt"
+
+msgid "no-systemd"
+msgstr "Es gibt Varianten ohne systemd"
+
+msgid "multipackage"
+msgstr "Kann Pakete anderer Distributionen ohne zusätzlichen Aufwand installieren"
+
+msgid "introText"
+msgstr "Dieser Test soll Dir helfen, die für Deine Zwecke am besten geeignete Linux-Distribution zu finden. <br> Dabei stellt Dir der Test einfache Fragen, um z. B. ungeeignete Distributionen auszuschließen.<br>"
+
+msgid "can-skip-questions"
+msgstr "Du kannst Fragen auslassen"
+
+msgid "can-get-result-anytime"
+msgstr "Du kannst jederzeit ein Zwischenergebnis einholen"
+
+msgid "can-get-result-anyorder"
+msgstr "Du kannst Fragen in beliebiger Reihenfolge beantworten"
+
+msgid "can-delete"
+msgstr "Antworten können mit Klicken auf das rote <span style=\"color:darkred\" class=\"glyphicon glyphicon-remove\"></span> entfernt werden"
+
+msgid "can-mark-important"
+msgstr "<li>Benutze das <a href=\"#\" class=\"glyphicon glyphicon-star mark-important important\"></a>-Symbol, wenn dir eine Antwort besonders wichtig ist</li>"
+
+msgid "answer3011"
+msgstr "Ich kenne mich noch nicht so gut mit dem Computer aus und benötige noch oft Hilfe von anderen Nutzern."
+
+msgid "answer3012"
+msgstr "Ich kenne schon etwas mit dem Computer aus und kann manche Probleme schon selbst lösen."
+
+msgid "answer3013"
+msgstr "Ich kann Probleme mit meinem Computer selbst beheben."
+
+msgid "answer3021"
+msgstr "Ich habe kaum/ keine Erfahrungen mit Linux gemacht."
+
+msgid "answer3022"
+msgstr "Ich habe schon etwas Erfahrung mit Linux."
+
+msgid "answer3023"
+msgstr "Ich kann auf eine große Erfahrung mit Linux zurückgreifen."
+
+msgid "answer3031"
+msgstr "Das ist mir wichtig, damit ich nichts falsch machen kann."
+
+msgid "answer3032"
+msgstr "Darauf lege ich keinen großen Wert. Ich setzte die Parameter selbst."
+
+msgid "answer3041"
+msgstr "Ich möchte Linux \"klassisch\" auf meiner Festplatte des Computers installieren."
+
+msgid "answer3042"
+msgstr "Ich möchte Linux auf einem USB-Stick installieren."
+
+msgid "answer3043"
+msgstr "Ich möchte Linux gerne vorher von USB/ DVD ausprobieren können"
+
+msgid "answer3051"
+msgstr "Ich komme auch damit klar, Anleitungen und Tutorials aus Wikis zur Problemlösung heran zu ziehen."
+
+msgid "answer3052"
+msgstr "Ich möchte mich lieber mit anderen Usern austauschen, die mir bei meinem Problemen helfen."
+
+msgid "answer3061"
+msgstr "Ich bervorzuge eine an Windows erinnernde Oberfläche."
+
+msgid "answer3062"
+msgstr "Ich bervorzuge eine an macOS erinnernde Oberfläche."
+
+msgid "answer3063"
+msgstr "Das ist mir egal."
+
+msgid "answer3071"
+msgstr "Ich bin bereit, einen Beitrag zu zahlen."
+
+msgid "answer3072"
+msgstr "Ich bevorzuge eine kostenlose Distribution."
+
+msgid "answer3081"
+msgstr "Ich möchte, dass alle häufig benötigten Programme direkt mitinstalliert werden, damit ich direkt loslegen kann."
+
+msgid "answer3082"
+msgstr "Ich möchte die Programme selbst auswählen und installieren."
+
+msgid "answer3091"
+msgstr "Die Distribution sollte als eines der Ziele die Verwendung freier Lizenzen haben"
+
+msgid "answer3092"
+msgstr "Ich möchte unfreie Lizenzen nur dann benutzen, wenn es nicht anders möglich ist."
+
+msgid "answer3093"
+msgstr "Das ist mir egal"
+
+msgid "answer3101"
+msgstr "Wenn es meine Benutzererfahrung verbessert, bin ich damit einverstanden."
+
+msgid "answer3102"
+msgstr "Ich möchte das nicht."
+
+msgid "answer3111"
+msgstr "Das ist mir wichtig."
+
+msgid "answer3112"
+msgstr "Das ist mir egal."
+
+msgid "answer3121"
+msgstr "Ich möchte Programme über eine Art \"App Store\" installieren."
+
+msgid "answer3122"
+msgstr "Ich möchte Programme über die Shell mit der Paketverwaltung installieren oder aus dem Sourcecode bauen."
+
+msgid "answer3131"
+msgstr "Ich möchte Aktualisierungen möglichst schnell, auch wenn das Probleme mit sich bringen könnte."
+
+msgid "answer3132"
+msgstr "Ich möchte Aktualisierungen erst dann, wenn sie wirklich stabil sind, auch wenn dies länger dauert."
+
+msgid "answer3141"
+msgstr "Ich möchte Linux für den täglichen Gebrauch nutzen."
+
+msgid "answer3142"
+msgstr "Ich möchte Linux für Zwecke des anonymen Surfens nutzen."
+
+msgid "answer3143"
+msgstr "Ich möchte Linux zur Datenrettung einsetzen"
+
+msgid "answer3144"
+msgstr "Ich bevorzuge eine Distribution, die auch von Spieleherstellern unterstützt wird."
+
+msgid "answer3151"
+msgstr "Mein PC ist durchaus noch aktuell."
+
+msgid "answer3152"
+msgstr "Mein Computer ist schon etwas älter (mehr als 2-3 Jahre)."
+
+msgid "answer3161"
+msgstr "Anwendunger sollen per Standard isoliert ausgeführt werden, auch wenn dies für die Benutzerfreundlichkeit nachträglich sein sollte. "
+
+msgid "answer3162"
+msgstr "Ich weiß was \"systemd\" ist und möchte dieses meiden. "
+
+msgid "answer3163"
+msgstr "Ich möchte Pakete anderer Distributionen ohne Mehraufwand installieren"
+
+msgid "301Text"
+msgstr "Kenntnisse: Erfahrungen mit dem PC"
+
+msgid "302Text"
+msgstr "Kenntnisse: Erfahrungen mit verschiedenen Betriebssystemen"
+
+msgid "303Text"
+msgstr "Installation: Vorgaben"
+
+msgid "304Text"
+msgstr "Installation: Ziel"
+
+msgid "305Text"
+msgstr "Konfiguration: Hilfe"
+
+msgid "306Text"
+msgstr "Distributionen: Benutzungskonzepte"
+
+msgid "307Text"
+msgstr "Distributionen: Preis"
+
+msgid "308Text"
+msgstr "Distributionen: Umfang"
+
+msgid "309Text"
+msgstr "Distributionen: Idiologie"
+
+msgid "310Text"
+msgstr "Distributionen: Datenschutz"
+
+msgid "311Text"
+msgstr "Distributionen: Benutzererfahrung"
+
+msgid "312Text"
+msgstr "Software: Verwaltung"
+
+msgid "313Text"
+msgstr "Software: Updates"
+
+msgid "314Text"
+msgstr "Verwendung: Alltagsszenario"
+
+msgid "315Text"
+msgstr "Installation: Rechneralter"
+
+msgid "316Text"
+msgstr "Distribution: Besonderheiten"
+
+msgid "301Help"
+msgstr "Wie gut kenne ich mich mit dem Computer selbst aus?"
+
+msgid "302Help"
+msgstr "Wie gut kenne ich mich mit verschiedenen Betriebssystemen aus? Habe ich bereits Erfahrungen mit Linux gemacht?"
+
+msgid "303Help"
+msgstr "Trifft diese Aussage zu? \"Mir ist es wichtig, dass Einstellungen bei der Installation vorab belegt sind, damit ich nichts falsch machen kann.\""
+
+msgid "304Help"
+msgstr "Linux lässt sich auf unterschiedliche Weise nutzen. Man kann es auf der Festplatte installieren, über einen USB-Stick nutzen oder über eine so genannte \"\"Live-CD\"\" (oder USB-Stick) ausprobieren, ohne es auf dem PC zu installieren."
+
+msgid "305Help"
+msgstr "Für manche Distributionen muss man eher im Distributions-Wiki nachschlagen. Andere setzen mehr auf die Community zur Hilfestellung. Ich bevorzuge folgendes:"
+
+msgid "306Help"
+msgstr "Für Linux gibt es verschiedene Oberflächen (\"\"Desktops\"\") mit verschiedenen Benutzungskonzepten. Manche Distributionen verwenden verschiedene Desktops als Standard. Es ist wichtig zu wissen, ob hier gewisse Konzepte bevorzugt werden."
+
+msgid "307Help"
+msgstr "Ein Großteil der Distributionen ist kostenlos. Es gibt aber auch (Varianten) von Distributionen, die gegen einen Preis erworben werden, dafür aber z. B. Support bieten."
+
+msgid "308Help"
+msgstr "Distributionen unterscheiden sich darin, was bei der Installation mitinstalliert wird. So bringen manche ein vollständiges Paket an Software mit (Webbrowser, Textverarbeitung etc.), andere installieren nur das Grundsystem."
+
+msgid "309Help"
+msgstr "Bei der \"Idiologie\" von Distributionen gibt es regelmäßig hitzige Diskussionen. Manche Distributionen verwenden vorwiegend oder ausschließlich Programme unter freien Lizenzen (z. B. \"GPL\"), welche den Quelltext freigeben und keine Nutzung oder Modifikation ausschließen, sofern bestimmte Bedingungen erfüllt werden. Andere Distributionen erlauben auch \"unfreie\" Programme und Pakete, bei denen dies nicht möglich ist. Grafikkartentreiber sind oft solche \"unfreien\" Programme. Häufig kann man solche \"unfreien\" Pakete aber auch unter Distributionen installieren, die nur auf freie Software setzen, was aber einen Aufwand bringt."
+
+msgid "310Help"
+msgstr "Manche Distributionen nutzen Onlinedienste, um die Benutzererfahrung zu verbessern."
+
+msgid "311Help"
+msgstr "Es gibt Distributionen, die ihr Benutzungskonzept komplett einheitlich haben."
+
+msgid "312Help"
+msgstr "Unter Linux werden Programme häufig über eine Paketverwaltung installiert und aktualisiert. Manche Programme werden aus ihrem Quellcode erstellt und dann installiert. Welchen Weg bevorzuge ich?"
+
+msgid "313Help"
+msgstr "Wann Updates für Programmpakete auf den Distributionen erscheinen hängt von den Zielen der Distribution ab. Manche Distribution bieten schnelle Updates, was sich aber negativ auf die Stabiltität des Systems auswirken kann."
+
+msgid "314Help"
+msgstr "Manche Distributionen werden für einen bestimmten Zweck, manche für den alltäglichen Gebrauch vorgesehen. Welches Szenario trifft auf meine Ansprüche zu?"
+
+msgid "315Help"
+msgstr "Manche Distributionen laufen auf älteren Rechnern nicht. Daher ist es wichtig zu wissen, wie alt das System ist, auf dem Linux installiert werden soll."
+
+msgid "316Help"
+msgstr "Manche Distributionen verfügen über spezielle Ansätze, die sich von der großen Menge der Distributionen unterscheiden. Welche dieser Features möchte ich nutzen (wenn überhaupt)? "
+
+msgid "Arch Linux"
+msgstr "Arch Linux ist eine i686- und AMD64-optimierte Linux-Distribution nach dem KISS-Prinzip. Aufgrund dieses minimalistischen Ansatzes ist Arch Linux als Distribution für fortgeschrittene Benutzer zu sehen, da auf grafische Installations- und Konfigurationshilfen zu Gunsten der Einfachheit verzichtet wird."
+
+msgid "Ubuntu"
+msgstr "Die Entwickler verfolgen mit Ubuntu das Ziel, ein einfach zu installierendes und leicht zu bedienendes Betriebssystem mit aufeinander abgestimmter Software zu schaffen. Dies soll unter anderem dadurch erreicht werden, dass für jede Aufgabe genau ein Programm zur Verfügung gestellt wird. Das Projekt wird vom Software-Hersteller Canonical Ltd. gesponsert, das vom südafrikanischen Unternehmer Mark Shuttleworth gegründet wurde"
+
+msgid "Manjaro"
+msgstr "Manjaro ist eine auf Arch Linux basierende Linux-Distribution, die in Deutschland, Frankreich und Österreich entwickelt wird. Es ist in erster Linie ein freies Betriebssystem für Personal Computer welches auf Benutzerfreundlichkeit ausgerichtet ist. Wie seine Basis, Arch Linux, nutzt es ein Rolling-Release-Modell."
+
+msgid "Linux Mint"
+msgstr "Linux Mint ist eine Linux-Distribution, die es in zwei Varianten gibt. Die erste Variante, die Haupt-Ausgabe, basiert auf der Distribution Ubuntu. Die zweite Variante, Linux Mint Debian Edition (LMDE) genannt, beruht auf Debian testing. </br>Linux Mint enthält im Gegensatz zu Ubuntu in der Standard-Ausgabe bereits Codecs für verschlüsselte DVDs, MP3 oder DivX sowie Plugins wie Adobe Flash und Oracle Java. Zudem ist NDISwrapper für die Unterstützung von WLAN-Karten ohne eigenen Linux-Treiber vorinstalliert und es gibt einige Programme und Anleitungen, um die Kommunikation mit Windows-Systemen auf dem gleichen oder anderen Computern zu vereinfachen. Technisch benutzt man die Paketquellen von Ubuntu sowie eine weitere, eigene mit den veränderten und zusätzlichen Paketen. Dadurch sind für die Benutzer von Linux Mint alle Aktualisierungen von Ubuntu ebenfalls verfügbar."
+
+msgid "Debian"
+msgstr "Debian ist ein seit 1993 gemeinschaftlich entwickeltes, freies Betriebssystem. Debian GNU/Linux, das auf den grundlegenden Systemwerkzeugen des GNU-Projektes sowie dem Linux-Kernel basiert, ist eine der ältesten, einflussreichsten und am weitesten verbreiteten GNU/Linux-Distributionen. Das heute bekannteste Debian-GNU/Linux-Derivat ist Ubuntu."
+
+msgid "Mageia"
+msgstr "Mageia ist eine Linux-Distribution, die im September 2010 als Abspaltung von Mandriva Linux ins Leben gerufen wurde. Die Systemkonfiguration wird bei Mageia Linux mit eigenen Werkzeugen im Rahmen der „Drak-Tools“ konfiguriert – hierzu steht eine zentrale grafische Oberfläche (genannt „Mageia-Kontrollzentrum“) zur Verfügung."
+
+msgid "Fedora"
+msgstr "Fedora ist eine RPM-basierte Linux-Distribution. Ziel der Entwickler der Distribution ist es, freie Software zu fördern und ein Betriebssystem für eine möglichst vielfältige Zielgruppe zu gestalten. Organisiert wird die Entwicklung in der Online-Community des Fedora-Projekts, das vom Unternehmen Red Hat angeführt wird. Fedora ist der direkte Nachfolger von Red Hat Linux. Das englische Wort Fedora bezeichnet eine spezielle Art des Filzhuts, das Markenzeichen des Unternehmens Red Hat."
+
+msgid "openSuse"
+msgstr "openSUSE, ehemals SUSE Linux und SuSE Linux Professional, ist eine Linux-Distribution des Unternehmens SUSE Linux GmbH. Sie wird insbesondere in Deutschland verbreitet eingesetzt. Der Fokus der Entwickler liegt darauf, ein stabiles und benutzerfreundliches Betriebssystem mit großer Zielgruppe für Desktop und Server zu erschaffen."
+
+msgid "elementary OS"
+msgstr "elementary ist ein im Jahr 2007 entstandenes freies Software-Projekt, das ursprünglich eine Sammlung von Programmen und Designs für Ubuntu zusammenstellte, welche sich stark am „Look and Feel“ von Mac OS X orientierten. Seit März 2011 gibt es eine eigene Ubuntu-basierende Linux-Distribution unter dem Namen elementary OS."
+
+msgid "PCLinuxOS"
+msgstr "Laut verschiedener Tests zeichnet sich PCLinuxOS durch seine Einfachheit und Benutzerfreundlichkeit sowie die überdurchschnittlich gute Hardwareerkennung aus. Von Heimanwendern oft benutzte Software wie Codecs für Multimediadateien, Flash und Java ist bei PCLinuxOS vorinstalliert, und als Standard-Arbeitsumgebung kommt KDE Plasma Desktop mit dem von Debian stammenden Paketverwaltungs-Tool APT in der Variante APT-RPM und dessen grafischem Aufsatz Synaptic zum Einsatz."
+
+msgid "CentOS"
+msgstr "CentOS (Community ENTerprise Operating System) ist eine Linux-Distribution, die auf der Distribution Red Hat Enterprise Linux (RHEL) des Unternehmens Red Hat aufbaut. Die Distribution wird von einer offenen Gruppe von freiwilligen Entwicklern betreut, gepflegt und weiterentwickelt.CentOS ist hinter Debian und Ubuntu die dritthäufigste verwendete Linux-Distribution für Web-Server."
+
+msgid "Puppy Linux"
+msgstr "Puppy Linux ist eine platzsparende und schnelle Linux-Distribution, die unter anderem direkt von einer Live-CD betrieben werden kann. Aus Quelltext kompiliert, basiert Puppy auf keiner anderen Linux-Distribution.Der Name leitet sich von dem inzwischen verschwundenen Chihuahua Puppy (dt.: Welpe) des australischen Projektgründers Barry Kauler ab.Ein Ziel des Betriebssystems ist es, auch von Benutzern ohne Linuxkenntnisse sofort genutzt werden zu können. Die Entwickler versuchen dies durch unkomplizierte, benutzerfreundliche Bedienung und breite Hardwareunterstützung zu erreichen."
+
+msgid "Knoppix"
+msgstr "Knoppix ist eine freie GNU/Linux-Distribution, deren Fokus auf dem Live-Betrieb liegt. Sie wird von Klaus Knopper entwickelt, von dessen Namen sich die Benennung Knoppix ableitet. Knoppix liegt hin und wieder Computerzeitschriften bei und basiert auf einer Mischung aus Debian unstable und testing. Sie wurde vom deutschen Bundesamt für Sicherheit in der Informationstechnik unterstützt und verteilt."
+
+msgid "Gentoo Linux"
+msgstr "Gentoo Linux ist eine quellbasierte Linux-Distribution für fortgeschrittene Linux-Benutzer, die ihr System komplett individuell einrichten möchten. Voraussetzung dafür ist die Bereitschaft, sich mit den Abläufen eines Linux-Systems und der ausführlichen Dokumentation auseinanderzusetzen. Gentoo ist ein Warenzeichen der Gentoo Foundation, Inc., einer Non-Profit-Organisation."
+
+msgid "Antergos"
+msgstr "Antergos (ehemals Cinnarch) ist eine Linux-Distribution aus Galicien, die auf dem Betriebssystem Arch Linux basiert. Es wird die Arbeitsumgebung Gnome als Standard eingerichtet, aber es kann auch mit Cinnamon, MATE, Openbox oder Xfce installiert werden."
+
+msgid "Bedrock Linux"
+msgstr "Bedrock Linux ist eine Distribution, die versucht, die Vorteile verschiedener Distributionen miteinander zu verbinden. So ist es möglich, die stabilen Pakete aus Debian zu verwenden und gleichzeitig auch auf die neusten Arch-Pakete Zugriff zu besitzen."
+
+msgid "Tails"
+msgstr "The Amnesic Incognito Live System (Tails) ist eine auf Debian basierende Linux-Distribution, welche darauf abzielt, die Privatsphäre und Anonymität des Nutzers zu schützen. Jede ausgehende Verbindung geht durch das Tor-Netzwerk, direkte Verbindungen werden standardmäßig geblockt. Das System kann direkt von einer Live-DVD oder einem USB-Stick gebootet werden und hinterlässt so keine Spuren auf dem Arbeitsrechner, außer explizit erwünscht."
+
+msgid "Zorin OS"
+msgstr "Zorin OS ist eine auf Ubuntu basierende Distribution, die sich an Linux Einsteiger richtet. Die Oberfläche erinnert an die von Windows, um Einsteigern die Orientierung erleichtern zu können."
+
+msgid "Xubuntu"
+msgstr "Xubuntu ist ein von Canonical Ltd. veröffentlichtes Derivat des Betriebssystems Ubuntu und wird von einer freien Community gepflegt. Bei Ubuntu handelt es sich um eine freie und kostenlose Linux-Distribution, die wiederum von Debian abstammt. Xubuntu verwendet die Xfce-Desktopumgebung, die vor allem für ihre Stabilität und ressourcenschonende Arbeitsweise bekannt ist."
+
+msgid "Lubuntu"
+msgstr "Lubuntu ist ein offizielles Derivat der Linux-Distribution Ubuntu, das LXDE als Desktop-Umgebung nutzt. Das Betriebssystem ist auf alte und schwache Hardware ausgelegt, so läuft beispielsweise die Live-CD auch auf einem Pentium II mit 350 MHz und 128 MB RAM (Stand 2011). Durch die Verwendung des Openbox-Fenstermanagers braucht diese Linux-Distribution noch weniger Arbeitsspeicher als Xubuntu."
+
+msgid "Kubuntu"
+msgstr "Kubuntu ist ein Derivat der Linux-Distribution Ubuntu, bei dem als Desktopumgebung die KDE Plasma Workspaces statt Unity verwendet wird. Ubuntu bedeutet auf Zulu etwa „Menschlichkeit“ und bezeichnet eine afrikanische Philosophie. Das „k“ ist hierbei eine Präposition und steht für die Abkürzung von „KDE“. "
+
+msgid "Slackware"
+msgstr "Slackware [ˈslækweə(ɹ)] ist die älteste aktive Linux-Distribution und die erste, die große weltweite Verbreitung fand. Wegen dieses frühen Erfolges und des konsequenten Verzichts auf unnötigen Ballast nach dem KISS-Prinzip bildete Slackware die Grundlage für andere bekannte Distributionen wie z. B. SuSE Linux. Slackware ist für die Verwendung mit i486-kompatiblen (ursprünglich i386-kompatiblen) und x86 64-Architekturen sowie Alpha- und SPARC-Architekturen bestimmt."
+
+msgid "Ubuntu MATE"
+msgstr "Die Variante Ubuntu MATE verwendet die MATE an Stelle von Unity. Ab Version 14.10 ist Ubuntu MATE eine von Canonical offiziell anerkannte Variante.Ubuntu MATE ist eine stabile, leicht zu bedienendes Betriebssystem mit einer konfigurierbare Arbeitsumgebung. Ideal für diejenigen, die das Beste aus ihren Desktops, Laptops und Netbooks möchten und bevorzugen eine traditionelle Desktop-Metapher. Mit bescheidenen Hardware-Anforderungen ist es für moderne Arbeitsplätze und älterer Hardware gleichermaßen geeignet."
+
+msgid "Ubuntu GNOME"
+msgstr "Ubuntu GNOME (ursprünglich Ubuntu GNOME Remix) ist eine Ubuntu Variante mit einer puren GNOME-Installation basierend auf den Ubuntu Repositories."
+
+msgid "NixOS Linux"
+msgstr "NixOS ist eine auf dem Nix Packetmanager basierende Linux Distribution. Das Hauptmerkmal dieser Linux Distribution ist die deklarative Konfiguration - jede Komponente des Systems wird mit ein und der selben Konfigurationssprache (Nix) konfiguriert. Dies reicht von dem Bootloader bis hin zu zur Desktopoberfläche."
+

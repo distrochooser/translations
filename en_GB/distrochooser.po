@@ -1,0 +1,694 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: en_GB\n"
+
+
+msgid "Title"
+msgstr "Linux Distribution Chooser"
+
+msgid "getresult"
+msgstr "Get result"
+
+msgid "answered"
+msgstr "Answered"
+
+msgid "welcomeTextHeader"
+msgstr "Welcome!"
+
+msgid "zerodistros"
+msgstr "No distros suitable :("
+
+msgid "Result"
+msgstr "Result"
+
+msgid "contact"
+msgstr "Contact"
+
+msgid "privacy"
+msgstr "Privacy"
+
+msgid "share"
+msgstr "Share"
+
+msgid "faq"
+msgstr "Frequently asked questions"
+
+msgid "NoResults"
+msgstr "No distributions could be determined!"
+
+msgid "Vendor"
+msgstr "A project made by"
+
+msgid "shareTitle"
+msgstr "Share"
+
+msgid "Suitable"
+msgstr "Suitable"
+
+msgid "about"
+msgstr "About the distrochooser"
+
+msgid "questionanswered"
+msgstr "answered"
+
+msgid "testCount"
+msgstr "Tests made until now:"
+
+msgid "aboutText"
+msgstr "The Linux Distribution Chooser tries to help new users to get an overview about suitable distributions. The service only offers Distributions which are suitable to the answers you give. If the answers where too unrealistic, the Distribution Chooser may offer no result. </br>The old Linux Distribution Chooser calculates a different result and lists the distributions with an approximate result. </br></br>This service should help to give an overview for beginners in Linux. It is possible that this service returns not 100 % suitable results when your answers exceed a realistic complexity limit. "
+
+msgid "installedDistros"
+msgstr "Currently available Distributions"
+
+msgid "stats"
+msgstr "Statistics"
+
+msgid "rankedDistros"
+msgstr "Distributions by popularity"
+
+msgid "MatrixHeader"
+msgstr "All answers at one sight!"
+
+msgid "ImageSource"
+msgstr "Image Source"
+
+msgid "TextSource"
+msgstr "Text Source"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Screenshots"
+msgstr "Screenshots"
+
+msgid "NoScreenshots"
+msgstr "No screenshots :("
+
+msgid "shareMyResultText"
+msgstr "Share my result"
+
+msgid "FindTheRightLinux"
+msgstr "Find the suitable Linux distribution"
+
+msgid "RelativeResults"
+msgstr "There was no 100 % match. I will display the results with the highest accordance."
+
+msgid "nextQuestion"
+msgstr "Next question"
+
+msgid "testCountCanvasTitle"
+msgstr "Tests made until now (this month)"
+
+msgid "distroResultStats"
+msgstr "Distro by results"
+
+msgid "uses"
+msgstr "Distrochooser is powered by"
+
+msgid "Refs"
+msgstr "The Distrochooser in the media"
+
+msgid "Radar"
+msgstr "Radar"
+
+msgid "ResultRatingHeader"
+msgstr "How happy are you with the result?"
+
+msgid "thanksForRating"
+msgstr "Thanks for your rating!"
+
+msgid "NotAllowed"
+msgstr "You can only give one answer for this question! "
+
+msgid "StartTest"
+msgstr "Start the test"
+
+msgid "submit-comment"
+msgstr "submit"
+
+msgid "free"
+msgstr "free licenses"
+
+msgid "portage"
+msgstr "portage-packagemanagement"
+
+msgid "guinstall"
+msgstr "Installation wizard"
+
+msgid "fits"
+msgstr "Suitable"
+
+msgid "doesntfit"
+msgstr "Does not fit or no answer given to this topic"
+
+msgid "expert"
+msgstr "Target group: Experts"
+
+msgid "advanced"
+msgstr "Target group: Advanced users"
+
+msgid "rpm"
+msgstr "RPM-Paketverwaltung"
+
+msgid "daily-use"
+msgstr "daily use"
+
+msgid "ui-packages"
+msgstr "graphical package management"
+
+msgid "linux-advanced"
+msgstr "Linux knowledge: Advanced"
+
+msgid "linux-expert"
+msgstr "Linux knowledge: Expert"
+
+msgid "fullinstall"
+msgstr "Complete install with additional tools"
+
+msgid "hdd-install"
+msgstr "installation on hard disk"
+
+msgid "bleedingedge"
+msgstr "Age of software: Bleeding edge"
+
+msgid "stable"
+msgstr "stable"
+
+msgid "gaming"
+msgstr "Supported by game developers"
+
+msgid "ui-ux-closed"
+msgstr "User Interface: Complete design concept"
+
+msgid "ux-before-privacy"
+msgstr "User expierience before privacy"
+
+msgid "apt"
+msgstr "Package management: APT"
+
+msgid "user-exchange"
+msgstr "multiple exchange plattforms with other users"
+
+msgid "linux-beginner"
+msgstr "Linux knowledge: Beginner"
+
+msgid "controlpanel"
+msgstr "System Control panel preinstalled"
+
+msgid "not-light"
+msgstr "Default desktop needs many resources "
+
+msgid "beginner"
+msgstr "Basic computer knowledge"
+
+msgid "ultra-stable"
+msgstr "Very stable"
+
+msgid "shellinstall"
+msgstr "Installation via shell possible"
+
+msgid "wiki"
+msgstr "Gain knowledge with wiki sites"
+
+msgid "tutorials"
+msgstr "Configuration using tutorials"
+
+msgid "baseinstall"
+msgstr "Base install without additional software possible"
+
+msgid "windows-like"
+msgstr "Default desktop is Windows-like"
+
+msgid "light"
+msgstr "Suitable for old and small systems"
+
+msgid "mac-like"
+msgstr "Default desktop looks like Mac OS"
+
+msgid "non-free"
+msgstr "Proprietary or fee-based version existing, e. g. for enterprise use"
+
+msgid "apt-rpm"
+msgstr "Package management for apt and rpm packages"
+
+msgid "pacman"
+msgstr "pacman package manager"
+
+msgid "rescue"
+msgstr "Suitable for data and system rescue"
+
+msgid "live"
+msgstr "Can be used with a Live medium (e. g. CD, DVD or USB)"
+
+msgid "live-usb"
+msgstr "Can be booted via USB"
+
+msgid "live-optical"
+msgstr "Can be booted using CD or DVD"
+
+msgid "anonymous"
+msgstr "For anonymization purposes"
+
+msgid "comment"
+msgstr "You have feedback? Thank you!"
+
+msgid "oldTest"
+msgstr "This test was made with an old version of the distrochooser. Sadly old tests can redisplayed anymore because the questions changed. Sorry!"
+
+msgid "donation"
+msgstr "You like the Distrochooser? You can support me with a donation. Thank you!"
+
+msgid "fromsource"
+msgstr "Build program packages from source"
+
+msgid "excluded"
+msgstr "Excluded"
+
+msgid "why"
+msgstr "Why"
+
+msgid "not"
+msgstr "not"
+
+msgid "displayExcluded"
+msgstr "Display me also exluded distros."
+
+msgid "a"
+msgstr "A"
+
+msgid "comments"
+msgstr "thinks"
+
+msgid "pc-advanced"
+msgstr "Computer knowledge: Advanced"
+
+msgid "installer-defaults-wanted"
+msgstr "Default settings wanted at installation"
+
+msgid "installation-live"
+msgstr "Live Mode"
+
+msgid "installation-usb"
+msgstr "Working from USB sticks possible"
+
+msgid "installation-hdd"
+msgstr "Installation on hard disk possible"
+
+msgid "help-community"
+msgstr "Community can help troubleshooting problems"
+
+msgid "all-like"
+msgstr "User interface similar to other non-linux operating systems"
+
+msgid "pay-price"
+msgstr "Charged version available "
+
+msgid "installation-full"
+msgstr "Installation with all needed programs"
+
+msgid "license-unfree-if-needed"
+msgstr "Uses non-free licenses if needed"
+
+msgid "privacy-online-not-okay"
+msgstr "Does not connect to online services if the user does not init them"
+
+msgid "ux-closed"
+msgstr "Closed UI concept"
+
+msgid "programs-graphical"
+msgstr "Install programs via a graphical program"
+
+msgid "updates-stable"
+msgstr "Stable updates"
+
+msgid "usage-daily"
+msgstr "Suitable vor daily usage"
+
+msgid "pc-beginner"
+msgstr "Computer knowledge: Beginner"
+
+msgid "usage-gaming"
+msgstr "Is supported by some game manufacturers"
+
+msgid "privacy-online-okay"
+msgstr "Connects to online services to improve user expierience"
+
+msgid "pay-nothing"
+msgstr "Free to use"
+
+msgid "license-free"
+msgstr "Uses mostly free licenses"
+
+msgid "usage-anon"
+msgstr "Made for anonymization purposes"
+
+msgid "programs-shell"
+msgstr "Software installation mostly via shell"
+
+msgid "usage-rescue"
+msgstr "Suitable for data rescue"
+
+msgid "updates-unstable"
+msgstr "Fast, but maybe unstable updates"
+
+msgid "pc-expert"
+msgstr "Computer knowledge: Expert"
+
+msgid "help-wiki"
+msgstr "Help with troubleshooting mostly with wiki articles and tutorials"
+
+msgid "installation-base"
+msgstr "Installs only base operating system"
+
+msgid "linux-experts"
+msgstr "Linux knowledge: Expert"
+
+msgid "NotComplied"
+msgstr "Not fullfied"
+
+msgid "clear"
+msgstr "Clear answer"
+
+msgid "pc-old"
+msgstr "Suitable Variant for older systems existing"
+
+msgid "calculating"
+msgstr "calculating..."
+
+msgid "container"
+msgstr "Applications are executed in isolated containers to improve security"
+
+msgid "no-systemd"
+msgstr "Offers editions without systemd"
+
+msgid "multipackage"
+msgstr "Able to install packages of other distributions without additional efford"
+
+msgid "introText"
+msgstr "This test should help you to find the suitable Linux Distribution.<br> The test will ask you simple questions to include the suitable distributions<br>"
+
+msgid "can-skip-questions"
+msgstr "You can leave questions unanswered"
+
+msgid "can-get-result-anytime"
+msgstr "You can get the result at any time"
+
+msgid "can-get-result-anyorder"
+msgstr "You can answer the questions in the order you want"
+
+msgid "can-delete"
+msgstr "You can click on the red <span style=\"color:darkred\" class=\"glyphicon glyphicon-remove\"></span> to remove answers"
+
+msgid "can-mark-important"
+msgstr "Us ethe<a href=\"#\" class=\"glyphicon glyphicon-star mark-important important\"></a> symbol to tell me that an answer is important to you"
+
+msgid "answer3011"
+msgstr "I often need help by other users troubleshooting problems with my computer."
+
+msgid "answer3012"
+msgstr "I am already able to solve some problems with my computer by myself."
+
+msgid "answer3013"
+msgstr "I can troubleshoot problems with my computer by myself."
+
+msgid "answer3021"
+msgstr "I do not have any or just a little knowledge about Linux."
+
+msgid "answer3022"
+msgstr "I already used Linux for some time."
+
+msgid "answer3023"
+msgstr "I have a good knowledge about the Linux operating system."
+
+msgid "answer3031"
+msgstr "I want default preset values in the installation assistant."
+
+msgid "answer3032"
+msgstr "I do not need preset values in installation assistants or at the configuration of the system."
+
+msgid "answer3041"
+msgstr "I want to install Linux the \"classical way\" on my computers hard disk."
+
+msgid "answer3042"
+msgstr "I want to install Linux on a USB flash drive."
+
+msgid "answer3043"
+msgstr "I want to test linux first by booting from USB or DVD"
+
+msgid "answer3051"
+msgstr "I am able to solve my problems using guides from wiki pages or tutorials."
+
+msgid "answer3052"
+msgstr "I prefer asking other users for help."
+
+msgid "answer3061"
+msgstr "I prefer a windows like user interface."
+
+msgid "answer3062"
+msgstr "I prefer a macOS like user interface."
+
+msgid "answer3063"
+msgstr "I do not prefer any user interface style."
+
+msgid "answer3071"
+msgstr "I can afford a fee to use the distribution."
+
+msgid "answer3072"
+msgstr "I prefer a free-to-use distribution."
+
+msgid "answer3081"
+msgstr "I prefer a distribution shipping all the programs I need to start working immediate after installation."
+
+msgid "answer3082"
+msgstr "I want to select the programs to install by myself."
+
+msgid "answer3091"
+msgstr "I want to use free licenses as much as I can"
+
+msgid "answer3092"
+msgstr "I want to use unfree software only if I need to."
+
+msgid "answer3093"
+msgstr "I do not care"
+
+msgid "answer3101"
+msgstr "If it improves my user expierience, I agree with using such online services."
+
+msgid "answer3102"
+msgstr "I do not want this."
+
+msgid "answer3111"
+msgstr "This is important to me"
+
+msgid "answer3112"
+msgstr "I do not care."
+
+msgid "answer3121"
+msgstr "I want to install my programs using a kind of \"App store\"."
+
+msgid "answer3122"
+msgstr "I want to install my programs using the package management or building from source."
+
+msgid "answer3131"
+msgstr "I prefer fast updates."
+
+msgid "answer3132"
+msgstr "I prefer stable updates."
+
+msgid "answer3141"
+msgstr "I want to use Linux for daily use."
+
+msgid "answer3142"
+msgstr "I want to use Linux for anonymous web browsing."
+
+msgid "answer3143"
+msgstr "I want to use Linux for data rescue."
+
+msgid "answer3144"
+msgstr "I prefer a distribution which is upported by game publishers."
+
+msgid "answer3151"
+msgstr "My computer is not very old."
+
+msgid "answer3152"
+msgstr "My computer is older than 2 to 3 years."
+
+msgid "answer3161"
+msgstr "I wish to run all applications in isolated containers. I am aware that this may cause the distribution more difficult to use."
+
+msgid "answer3162"
+msgstr "I know what 'systemd' is and wish to avoid that."
+
+msgid "answer3163"
+msgstr "I wish to install packages from other distributions without additional efford"
+
+msgid "301Text"
+msgstr "Computer knowledge"
+
+msgid "302Text"
+msgstr "Operating system knowledge"
+
+msgid "303Text"
+msgstr "Installation: Presets"
+
+msgid "304Text"
+msgstr "Installation: Target"
+
+msgid "305Text"
+msgstr "Configuration: Help source"
+
+msgid "306Text"
+msgstr "Distributions: User expierience concept"
+
+msgid "307Text"
+msgstr "Distributions: Price"
+
+msgid "308Text"
+msgstr "Distributions: Scope"
+
+msgid "310Text"
+msgstr "Distributions: Privacy"
+
+msgid "311Text"
+msgstr "Distributions: User Expierience concept"
+
+msgid "312Text"
+msgstr "Software: Administration"
+
+msgid "313Text"
+msgstr "Software: Updates"
+
+msgid "314Text"
+msgstr "Software: Use case"
+
+msgid "315Text"
+msgstr "Installation: How old is my computer?"
+
+msgid "316Text"
+msgstr "Distribution: Special features"
+
+msgid "301Help"
+msgstr "How would I rate my knowledge using my computer?"
+
+msgid "302Help"
+msgstr "How would I rate my knowledge with Linux itself?"
+
+msgid "303Help"
+msgstr "Do you agree with the thesis \"I want as much configuration values set with defaults so I cannot do anything wrong.\""
+
+msgid "304Help"
+msgstr "Linux can be used on several ways. You can install it \"the classical way\" on your computer harddrive or use it from an USB. For testing, you can run it in a \"Live\"-Mode without touching your computers data."
+
+msgid "305Help"
+msgstr "Some distributions prefer articles in wikis for troubleshooting. What do I prefer?"
+
+msgid "306Help"
+msgstr "Linux can use a lot of different User Interfaces (\"Desktops\"). Many distributions ship one desktop as default. It is important to know if there are any preferences for a concept."
+
+msgid "307Help"
+msgstr "Most distributions are free. Some distributions offer additional support for an (initial) fee."
+
+msgid "308Help"
+msgstr "Different Distributions install a different amount of programs. Some are installing a complete amount of programs to work \"out of the box\". Other distributions installing only a base install to let the user decide what software to use."
+
+msgid "310Help"
+msgstr "Some distributions use online services to improve the user expierience. This may affect the privacy of the user."
+
+msgid "311Help"
+msgstr "Some distributions are shipping programs or desktops with own themes to create an closed user expierience."
+
+msgid "312Help"
+msgstr "On Linux you can install software on different ways. You can build software from the sourcecode or install them via packages. What do I prefer?"
+
+msgid "313Help"
+msgstr "Some distributions offer faster updates, which can affect system stability. What do you prefer?"
+
+msgid "314Help"
+msgstr "Some distributions are made for a special purpose, some for daily use. What do you need?"
+
+msgid "315Help"
+msgstr "It is important to know how old is the system because some distributions won't run on old computers."
+
+msgid "316Help"
+msgstr "Some distributions may use special features, such as security enhancements. Which of the following features do I want to use (if any)? "
+
+msgid "Arch Linux"
+msgstr "Arch Linux (or Arch /ˈɑrtʃ/) is a Linux-based operating system for i686 and x86-64 computers. It is composed predominantly of free and open source software, and supports community involvement.  The design approach of the development team focuses on elegance, code correctness, minimalism, and simplicity, and expects the user to be willing to make some effort to understand the system's operation. A package manager written specifically for Arch Linux, pacman, is used to install, remove and update software packages.  Arch Linux uses a rolling release model, such that a regular system update is all that is needed to obtain the latest Arch software; the installation images released by the Arch team are simply up-to-date snapshots of the main system components."
+
+msgid "Ubuntu"
+msgstr "Ubuntu (/uːˈbuːntuː/ oo-boon-too) is a Debian-based Linux operating system, with Unity as its default desktop environment (GNOME was the previous desktop environment). It is based on free software and named after the Southern African philosophy of ubuntu (literally, \"human-ness\"), which often is translated as \"humanity towards others\" or \"the belief in a universal bond of sharing that connects all humanity\".  According to some metrics, Ubuntu is the most popular desktop Linux distribution to date. See Installed base section.  Development of Ubuntu is led by Canonical Ltd., a company owned by South African entrepreneur Mark Shuttleworth. Canonical generates revenue through the sale of technical support and other services related to Ubuntu. The Ubuntu project is publicly committed to the principles of open source development; people are encouraged to use free software, study how it works, improve upon it, and distribute it."
+
+msgid "Manjaro"
+msgstr "Manjaro Linux, or just Manjaro (pronounced like Kilimanjaro), is a Linux distribution, with Xfce as its default user interface. It is a primarily free software operating system for personal computers aimed at ease of use. Like its base, Arch Linux, it uses a rolling release model."
+
+msgid "Linux Mint"
+msgstr "Linux Mint is a 32- and 64-bit Linux distribution for desktop computers, based on either Ubuntu or Debian. Its stated aim is to be a \"modern, elegant and comfortable operating system which is both powerful and easy to use.\" Mint provides full out-of-the-box multimedia support by including some proprietary software such as Adobe Flash. Mint's motto is \"from freedom came elegance\".  New versions of Linux Mint have been released approximately every six months. The first release, named \"Ada\", was released in 2006. The 17th release, \"Qiana\", was released on May 31, 2014. Support for older releases usually ends shortly after the next version is released, but there have been releases with long-term support, with v17.x supported for five years, ending in April 2019."
+
+msgid "Debian"
+msgstr "Debian (/ˈdɛbiən/) is an operating system which is composed primarily of free software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project. Debian is one of the most popular Linux distributions for personal computers and network servers, and has been used as a base for several other Linux distributions.  Debian was first announced in 1993 by Ian Murdock, and the first stable release was made in 1996. The development is carried out over the Internet by a team of volunteers guided by a project leader and three foundational documents. New distributions are updated continually, and the next candidate is released after a time-based freeze.  As one of the earliest Linux distributions, it was envisioned that Debian was to be developed openly in the spirit of Linux and GNU. This vision drew the attention and support of the Free Software Foundation, which sponsored the project for the first part of its life."
+
+msgid "Mageia"
+msgstr "Mageia is a Linux computer operating system, distributed as free and open source software. It is forked from the Mandriva Linux distribution.  The first release of the software distribution, Mageia 1, took place in June 2011."
+
+msgid "Fedora"
+msgstr "Fedora /fɨˈdɒr.ə/ (formerly Fedora Core) is an operating system based on the Linux kernel, developed by the community-supported Fedora Project and owned by Red Hat. Fedora contains software distributed under a free and open source license and aims to be on the leading edge of such technologies.  Linus Torvalds, author of the Linux kernel, uses Fedora on all his computers."
+
+msgid "openSuse"
+msgstr "openSUSE /ˌoʊpənˈsuːzə/ is a general purpose operating system built on top of the Linux kernel, developed by the community-supported openSUSE Project and sponsored by SUSE and a number of other companies. After Novell acquired SUSE Linux in January 2004,[4] Novell decided to release the SUSE Linux Professional product as a 100% open source project.[5] In 2011 The Attachmate Group acquired Novell and split Novell and SUSE into two autonomous subsidiary companies. SUSE offers products and services around SUSE Linux Enterprise—their commercial offering that is based on openSUSE Linux.  The initial release of the community project was a beta version of SUSE Linux 10.0, and as of November 19, 2013 the current stable release is openSUSE 13.1."
+
+msgid "elementary OS"
+msgstr "elementary OS is a Linux distribution based on Ubuntu. It makes use of a desktop with its own shell named Pantheon, and is deeply integrated with other elementary OS applications like Plank (a dock), Midori (the default web browser) and Scratch (a simple text editor). This distribution uses Gala as its window manager, which is based on Mutter.  The distribution initially started as a set of themes and applications designed for Ubuntu which later turned into its own Linux distro. Being Ubuntu-based, it is compatible with its repositories and packages. It uses Ubuntu's own software center to handle installation/removal of software, though its own software center is in the making. Its user interface aims at being intuitive for new users without consuming too many resources."
+
+msgid "PCLinuxOS"
+msgstr "PCLinuxOS, often shortened to PCLOS, is a Linux distribution, with KDE Plasma Desktop as its default user interface. It is a primarily free software operating system for personal computers aimed at ease of use. It is considered a rolling release."
+
+msgid "CentOS"
+msgstr "CentOS (abbreviated from Community Enterprise Operating System) is a Linux distribution that attempts to provide a free, enterprise-class, community-supported computing platform which aims to be 100% binary compatible with its upstream source, Red Hat Enterprise Linux (RHEL). In January 2014, it was announced that CentOS was officially joining forces with Red Hat while staying independent from RHEL, under a new CentOS Governing Board.  The first CentOS release in May 2004, numbered as CentOS version 2, was forked from RHEL version 2.1AS.[1] As of versions 5.10 and 6.5, CentOS officially supports x86-64 and x86 architectures (with Physical Address Extension (PAE) required for the latter), while a beta release is expected to be available for the PowerPC architecture."
+
+msgid "Puppy Linux"
+msgstr "Puppy Linux operating system is a lightweight Linux distribution that focuses on ease of use and minimal memory footprint. The entire system can be run from RAM with current versions generally taking up about 130 MB, allowing the boot medium to be removed after the operating system has started. Applications such as AbiWord (word documents), Gnumeric (spreadsheets) and MPlayer (multimedia player) are included, along with a choice of lightweight web browsers. The distribution was originally developed by Barry Kauler and other members of the community. The tool Woof can build a Puppy Linux distribution from the binary packages of other Linux distributions."
+
+msgid "Knoppix"
+msgstr "Knoppix, or KNOPPIX (/knɒpɪks/ knop-iks),[2] is an operating system based on Debian designed to be run directly from a CD / DVD (Live CD) or a USB flash drive (Live USB), one of the first of its kind for any operating system. Knoppix was developed by Linux consultant Klaus Knopper. When starting a program, it is loaded from the removable medium and decompressed into a RAM drive. The decompression is transparent and on-the-fly.  Although Knoppix is primarily designed to be used as a Live CD, it can also be installed on a hard disk like a typical operating system. Computers that support booting from USB devices can load Knoppix from a live USB flash drive or memory card.  There are two main editions of Knoppix: the traditional Compact Disc (700 megabytes) edition and the DVD (4.7 gigabytes) \"Maxi\" edition. Each of these main editions have two language-specific editions: English and German."
+
+msgid "Gentoo Linux"
+msgstr "Gentoo Linux (/ˈdʒɛntuː/ jen-too[2]) is a computer operating system based on the Linux kernel and built using the Portage package management system. It is distributed as free and open source software. Unlike a binary software distribution, the source code is compiled locally according to the user's preferences and is often optimized for the specific type of computer. Precompiled binaries are available for some very large packages and for packages whose source code has not been released.  The \"Gentoo\" name comes from the fast-swimming Gentoo penguin. It was chosen to reflect the potential speed improvements of machine-specific optimization. Gentoo package management is designed to be modular, portable, easy to maintain, and flexible. Gentoo is sometimes described as a meta-distribution, \"because of its near-unlimited adaptability\", in that the majority of users have configurations and sets of installed programs which are unique to themselves."
+
+msgid "Antergos"
+msgstr "Antergos (previously known as Cinnarch) is a Linux distribution of Galician origin based on the Arch Linux operating system. It uses the GNOME 3 desktop environment by default but it can also be used with Cinnamon, Razor-qt and Xfce. It was released on July 2012 as Cinnarch and by May 2013 it ranked among the top 30 most popular distributions at Distrowatch. The Galician word Antergos (meaning: ancestors) was chosen \"to link the past with the present\"."
+
+msgid "Bedrock Linux"
+msgstr "Bedrock Linux is a Linux distribution created with the aim of making most of the (often seemingly mutually-exclusive) benefits of various other Linux distributions available simultaneously and transparently."
+
+msgid "Tails"
+msgstr "Tails or The Amnesic Incognito Live System is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity. All its outgoing connections are forced to go through Tor, and direct (non-anonymous) connections are blocked. The system is designed to be booted as a live DVD or live USB, and will leave no trace (digital footprint) on the machine unless explicitly told to do so. The Tor Project has provided most of the financial support for its development."
+
+msgid "Zorin OS"
+msgstr "Zorin OS is an Ubuntu based Distribution for Linux newcomers. The user interface reminds on Windows to make an orientation more easy."
+
+msgid "Xubuntu"
+msgstr "Xubuntu (/zuːˈbuːntuː/ zoo-boon-too) is a Canonical Ltd.–recognized, community-maintained derivative of the Ubuntu operating system. It uses the Xfce desktop environment, instead of Ubuntu's Unity"
+
+msgid "Lubuntu"
+msgstr "Lubuntu (/lʊˈbʊntuː/ loo-buun-too) is a lightweight Linux operating system based on Ubuntu but using the LXDE desktop environment in place of Ubuntu's Unity shell and GNOME desktop. LXDE is touted as being \"lighter, less resource hungry and more energy-efficient\"."
+
+msgid "Kubuntu"
+msgstr "Kubuntu (/kuːˈbuːntuː/ koo-boon-too) is an official derivative of the Ubuntu operating system which uses the KDE Plasma Desktop instead of the Unity graphical environment. As part of the Ubuntu project, Kubuntu uses the same underlying systems, every package in Kubuntu shares the same repositories as Ubuntu, and it is released regularly on the same schedule as Ubuntu."
+
+msgid "Slackware"
+msgstr "Slackware is a Linux distribution created by Patrick Volkerding in 1993. Originally based on Softlanding Linux System, Slackware has been the basis for many other Linux distributions, most notably the first versions of SUSE Linux, and is the oldest currently being maintained. Slackware aims for design stability and simplicity and to be the most \"Unix-like\" Linux distribution. It makes as few modifications as possible to software packages from upstream and tries not to anticipate use cases or preclude user decisions."
+
+msgid "Ubuntu MATE"
+msgstr "Ubuntu MATE is a stable, easy-to-use operating system with a configurable desktop environment. Ideal for those who want the most out of their desktops, laptops and netbooks and prefer a traditional desktop metaphor. With modest hardware requirements it is suitable for modern workstations and older hardware alike."
+
+msgid "Ubuntu GNOME"
+msgstr "Ubuntu GNOME (formerly Ubuntu GNOME Remix) is a mostly pure GNOME desktop experience built from the Ubuntu repositories. Our first (unofficial) release was 12.10 (Quantal Quetzal), released in October 2012."
+
+msgid "NixOS Linux"
+msgstr "NixOS is a Linux distribution based on the nix package manager. The main feature of this distribution is the declarative configuration - every component of the system, from the bootloader to the desktop is configured with the same manager (Nix). "
+
