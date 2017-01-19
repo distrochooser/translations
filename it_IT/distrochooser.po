@@ -1,3 +1,4 @@
+
 msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -708,6 +709,10 @@ msgstr ""
 msgid "answer3163"
 msgstr ""
 
+# Original was: I prefer to do as many settings using graphical interfaces by myself
+msgid "answer3033"
+msgstr ""
+
 # Original was: Computer knowledge
 msgid "301Text"
 msgstr ""
@@ -776,7 +781,7 @@ msgstr ""
 msgid "302Help"
 msgstr ""
 
-# Original was: Do you agree with the thesis \"I want as much configuration values set with defaults so I cannot do anything wrong.\"
+# Original was: How many details do you wish to change during installation or initial setup?
 msgid "303Help"
 msgstr ""
 

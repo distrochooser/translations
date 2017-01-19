@@ -1,3 +1,4 @@
+
 msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -5,7 +6,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Language: de_DE\n"
+"Language: "de_DE"\n"
 
 
 msgid "Title"
@@ -432,10 +433,10 @@ msgid "answer3023"
 msgstr "Ich kann auf eine große Erfahrung mit Linux zurückgreifen."
 
 msgid "answer3031"
-msgstr "Das ist mir wichtig, damit ich nichts falsch machen kann."
+msgstr "Es sollte so viel wie möglich automatisch eingerichtet werden"
 
 msgid "answer3032"
-msgstr "Darauf lege ich keinen großen Wert. Ich setzte die Parameter selbst."
+msgstr "Ich nehme die meisten Einstellungen über die Kommandozeile vor, ich brauche dafür keine weitere Unterstützung vom System."
 
 msgid "answer3041"
 msgstr "Ich möchte Linux \"klassisch\" auf meiner Festplatte des Computers installieren."
@@ -533,6 +534,9 @@ msgstr "Ich weiß was \"systemd\" ist und möchte dieses meiden. "
 msgid "answer3163"
 msgstr "Ich möchte Pakete anderer Distributionen ohne Mehraufwand installieren"
 
+msgid "answer3033"
+msgstr "Ich bevorzuge viele Auswahlmöglichkeiten und möchte viele Dinge über die graphische Oberfläche konfigurieren können."
+
 msgid "301Text"
 msgstr "Kenntnisse: Erfahrungen mit dem PC"
 
@@ -588,7 +592,7 @@ msgid "302Help"
 msgstr "Wie gut kenne ich mich mit verschiedenen Betriebssystemen aus? Habe ich bereits Erfahrungen mit Linux gemacht?"
 
 msgid "303Help"
-msgstr "Trifft diese Aussage zu? \"Mir ist es wichtig, dass Einstellungen bei der Installation vorab belegt sind, damit ich nichts falsch machen kann.\""
+msgstr "Wie detailliert sollten die Einstellungsmöglichkeiten bei der Installation und Ersteinrichtung sein?"
 
 msgid "304Help"
 msgstr "Linux lässt sich auf unterschiedliche Weise nutzen. Man kann es auf der Festplatte installieren, über einen USB-Stick nutzen oder über eine so genannte \"\"Live-CD\"\" (oder USB-Stick) ausprobieren, ohne es auf dem PC zu installieren."

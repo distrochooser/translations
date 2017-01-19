@@ -1,3 +1,4 @@
+
 msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -5,7 +6,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Language: de_DE\n"
+"Language: "en_GB"\n"
 
 
 msgid "Title"
@@ -533,6 +534,9 @@ msgstr "I know what 'systemd' is and wish to avoid that."
 msgid "answer3163"
 msgstr "I wish to install packages from other distributions without additional efford"
 
+msgid "answer3033"
+msgstr "I prefer to do as many settings using graphical interfaces by myself"
+
 msgid "301Text"
 msgstr "Computer knowledge"
 
@@ -585,7 +589,7 @@ msgid "302Help"
 msgstr "How would I rate my knowledge with Linux itself?"
 
 msgid "303Help"
-msgstr "Do you agree with the thesis \"I want as much configuration values set with defaults so I cannot do anything wrong.\""
+msgstr "How many details do you wish to change during installation or initial setup?"
 
 msgid "304Help"
 msgstr "Linux can be used on several ways. You can install it \"the classical way\" on your computer harddrive or use it from an USB. For testing, you can run it in a \"Live\"-Mode without touching your computers data."
