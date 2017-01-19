@@ -5,7 +5,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Language: en_GB\n"
+"Language: de_DE\n"
 
 
 msgid "Title"
@@ -60,7 +60,7 @@ msgid "testCount"
 msgstr "Tests made until now:"
 
 msgid "aboutText"
-msgstr "The Linux Distribution Chooser tries to help new users to get an overview about suitable distributions. The service only offers Distributions which are suitable to the answers you give. If the answers where too unrealistic, the Distribution Chooser may offer no result. </br>The old Linux Distribution Chooser calculates a different result and lists the distributions with an approximate result. </br></br>This service should help to give an overview for beginners in Linux. It is possible that this service returns not 100 % suitable results when your answers exceed a realistic complexity limit. "
+msgstr "The Linux Distribution Chooser tries to help new users to get an overview about suitable distributions. The service only offers Distributions which are suitable to the answers you give. If the answers where too unrealistic, the Distribution Chooser may offer no result. </br>The old Linux Distribution Chooser calculates a different result and lists the distributions with an approximate result. </br></br>This service should help to give an overview for beginners in Linux. It is possible that this service returns not 100 % suitable results when your answers exceed a realistic complexity limit"
 
 msgid "installedDistros"
 msgstr "Currently available Distributions"
@@ -96,7 +96,7 @@ msgid "FindTheRightLinux"
 msgstr "Find the suitable Linux distribution"
 
 msgid "RelativeResults"
-msgstr "There was no 100 % match. I will display the results with the highest accordance."
+msgstr "There was no 100 % match. I will display the results with the highest accordance"
 
 msgid "nextQuestion"
 msgstr "Next question"
@@ -406,6 +406,12 @@ msgstr "You can click on the red <span style=\"color:darkred\" class=\"glyphicon
 
 msgid "can-mark-important"
 msgstr "Us ethe<a href=\"#\" class=\"glyphicon glyphicon-star mark-important important\"></a> symbol to tell me that an answer is important to you"
+
+msgid "excludes"
+msgstr "Answer excludes"
+
+msgid "displayFilters"
+msgstr "Show annotations"
 
 msgid "answer3011"
 msgstr "I often need help by other users troubleshooting problems with my computer."

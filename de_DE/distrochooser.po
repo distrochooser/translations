@@ -57,10 +57,10 @@ msgid "questionanswered"
 msgstr "beantwortet"
 
 msgid "testCount"
-msgstr "Bisher gemachte Tests: "
+msgstr "Bisher gemachte Tests"
 
 msgid "aboutText"
-msgstr "Der Linux Distribution Chooser soll helfen, Anfängern in der Linux Welt einen Überblick über geeignete Distributionen zu verschaffen. Der Distrochooser präsentiert dabei nur die Menge an Vorschlägen, die anhand der Antworten eingeschränkt werden.</br>Im Gegensatz zur \"alten\" Version des Distrochoosers werden Distributionen, die unpassend sind, ausgefiltert. Daher ist es möglich, dass bei zu extremen Kombinationen keine Resultate ermittelt werden können.</br></br>Der Distrochooser macht nur Vorschläge und soll eine Orientierungshilfe bieten, um sich als Anfänger in der Welt von Linux orientieren zu können. Daher kann es passieren, dass nicht ganz passende Ergebnisse geliefert werden, wenn die Komplexität der gegebenen Antwort ein realistisches Maß übersteigt."
+msgstr "Der Linux Distribution Chooser soll helfen, Anfängern in der Linux Welt einen Überblick über geeignete Distributionen zu verschaffen. Der Distrochooser präsentiert dabei nur die Menge an Vorschlägen, die anhand der Antworten eingeschränkt werden.</br>Im Gegensatz zur \"alten\" Version des Distrochoosers werden Distributionen, die unpassend sind, ausgefiltert. Daher ist es möglich, dass bei zu extremen Kombinationen keine Resultate ermittelt werden können.</br></br>Der Distrochooser macht nur Vorschläge und soll eine Orientierungshilfe bieten, um sich als Anfänger in der Welt von Linux orientieren zu können. Daher kann es passieren, dass nicht ganz passende Ergebnisse geliefert werden, wenn die Komplexität der gegebenen Antwort ein realistisches Maß übersteigt"
 
 msgid "installedDistros"
 msgstr "Aktuell einbezogene Distributionen"
@@ -96,7 +96,7 @@ msgid "FindTheRightLinux"
 msgstr "Finde die richtige Linux-Distribution"
 
 msgid "RelativeResults"
-msgstr "Es konnte keine 100 % passende Distribution gefunden werden. Daher zeige ich hier die Ergebnisse mit der größten Übereinstimmung an."
+msgstr "Es konnte keine 100 % passende Distribution gefunden werden. Daher zeige ich hier die Ergebnisse mit der größten Übereinstimmung an"
 
 msgid "nextQuestion"
 msgstr "Nächste Frage"
@@ -406,6 +406,12 @@ msgstr "Antworten können mit Klicken auf das rote <span style=\"color:darkred\"
 
 msgid "can-mark-important"
 msgstr "<li>Benutze das <a href=\"#\" class=\"glyphicon glyphicon-star mark-important important\"></a>-Symbol, wenn dir eine Antwort besonders wichtig ist</li>"
+
+msgid "excludes"
+msgstr "Antwort schließt aus"
+
+msgid "displayFilters"
+msgstr "Erklärungen zeigen"
 
 msgid "answer3011"
 msgstr "Ich kenne mich noch nicht so gut mit dem Computer aus und benötige noch oft Hilfe von anderen Nutzern."
