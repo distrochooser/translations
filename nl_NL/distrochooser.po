@@ -5,7 +5,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Language: de_DE\n"
+"Language: "nl_NL"\n"
 
 
 # Original was: Linux Distribution Chooser
@@ -76,11 +76,7 @@ msgstr ""
 msgid "testCount"
 msgstr ""
 
-# Original was: The Linux Distribution Chooser tries to help new users to get an overview about suitable distributions. The service only offers Distributions which are suitable to the answers you give. If the answers where too unrealistic, the Distribution Chooser may offer no result. 
-</br>
-The old Linux Distribution Chooser calculates a different result and lists the distributions with an approximate result. </br>
-</br>
-This service should help to give an overview for beginners in Linux. It is possible that this service returns not 100 % suitable results when your answers exceed a realistic complexity limit
+# Original was: The Linux Distribution Chooser tries to help new users to get an overview about suitable distributions. The service only offers Distributions which are suitable to the answers you give. If the answers where too unrealistic, the Distribution Chooser may offer no result. </br>The old Linux Distribution Chooser calculates a different result and lists the distributions with an approximate result. </br></br>This service should help to give an overview for beginners in Linux. It is possible that this service returns not 100 % suitable results when your answers exceed a realistic complexity limit
 msgid "aboutText"
 msgstr ""
 
@@ -536,11 +532,11 @@ msgstr ""
 msgid "can-get-result-anyorder"
 msgstr ""
 
-# Original was: You can click on the red <span style="color:darkred" class="glyphicon glyphicon-remove"></span> to remove answers
+# Original was: You can click on the red <span style=\"color:darkred\" class=\"glyphicon glyphicon-remove\"></span> to remove answers
 msgid "can-delete"
 msgstr ""
 
-# Original was: Us ethe<a href="#" class="glyphicon glyphicon-star mark-important important"></a> symbol to tell me that an answer is important to you
+# Original was: Us ethe<a href=\"#\" class=\"glyphicon glyphicon-star mark-important important\"></a> symbol to tell me that an answer is important to you
 msgid "can-mark-important"
 msgstr ""
 
@@ -584,7 +580,7 @@ msgstr ""
 msgid "answer3032"
 msgstr ""
 
-# Original was: I want to install Linux the "classical way" on my computers hard disk.
+# Original was: I want to install Linux the \"classical way\" on my computers hard disk.
 msgid "answer3041"
 msgstr ""
 
@@ -660,7 +656,7 @@ msgstr ""
 msgid "answer3112"
 msgstr ""
 
-# Original was: I want to install my programs using a kind of "App store".
+# Original was: I want to install my programs using a kind of \"App store\".
 msgid "answer3121"
 msgstr ""
 
@@ -780,11 +776,11 @@ msgstr ""
 msgid "302Help"
 msgstr ""
 
-# Original was: Do you agree with the thesis "I want as much configuration values set with defaults so I cannot do anything wrong."
+# Original was: Do you agree with the thesis \"I want as much configuration values set with defaults so I cannot do anything wrong.\"
 msgid "303Help"
 msgstr ""
 
-# Original was: Linux can be used on several ways. You can install it "the classical way" on your computer harddrive or use it from an USB. For testing, you can run it in a "Live"-Mode without touching your computers data.
+# Original was: Linux can be used on several ways. You can install it \"the classical way\" on your computer harddrive or use it from an USB. For testing, you can run it in a \"Live\"-Mode without touching your computers data.
 msgid "304Help"
 msgstr ""
 
@@ -792,7 +788,7 @@ msgstr ""
 msgid "305Help"
 msgstr ""
 
-# Original was: Linux can use a lot of different User Interfaces ("Desktops"). Many distributions ship one desktop as default. It is important to know if there are any preferences for a concept.
+# Original was: Linux can use a lot of different User Interfaces (\"Desktops\"). Many distributions ship one desktop as default. It is important to know if there are any preferences for a concept.
 msgid "306Help"
 msgstr ""
 
@@ -800,7 +796,7 @@ msgstr ""
 msgid "307Help"
 msgstr ""
 
-# Original was: Different Distributions install a different amount of programs. Some are installing a complete amount of programs to work "out of the box". Other distributions installing only a base install to let the user decide what software to use.
+# Original was: Different Distributions install a different amount of programs. Some are installing a complete amount of programs to work \"out of the box\". Other distributions installing only a base install to let the user decide what software to use.
 msgid "308Help"
 msgstr ""
 
@@ -836,7 +832,7 @@ msgstr ""
 msgid "Arch Linux"
 msgstr ""
 
-# Original was: Ubuntu (/uːˈbuːntuː/ oo-boon-too) is a Debian-based Linux operating system, with Unity as its default desktop environment (GNOME was the previous desktop environment). It is based on free software and named after the Southern African philosophy of ubuntu (literally, "human-ness"), which often is translated as "humanity towards others" or "the belief in a universal bond of sharing that connects all humanity".  According to some metrics, Ubuntu is the most popular desktop Linux distribution to date. See Installed base section.  Development of Ubuntu is led by Canonical Ltd., a company owned by South African entrepreneur Mark Shuttleworth. Canonical generates revenue through the sale of technical support and other services related to Ubuntu. The Ubuntu project is publicly committed to the principles of open source development; people are encouraged to use free software, study how it works, improve upon it, and distribute it.
+# Original was: Ubuntu (/uːˈbuːntuː/ oo-boon-too) is a Debian-based Linux operating system, with Unity as its default desktop environment (GNOME was the previous desktop environment). It is based on free software and named after the Southern African philosophy of ubuntu (literally, \"human-ness\"), which often is translated as \"humanity towards others\" or \"the belief in a universal bond of sharing that connects all humanity\".  According to some metrics, Ubuntu is the most popular desktop Linux distribution to date. See Installed base section.  Development of Ubuntu is led by Canonical Ltd., a company owned by South African entrepreneur Mark Shuttleworth. Canonical generates revenue through the sale of technical support and other services related to Ubuntu. The Ubuntu project is publicly committed to the principles of open source development; people are encouraged to use free software, study how it works, improve upon it, and distribute it.
 msgid "Ubuntu"
 msgstr ""
 
@@ -844,7 +840,7 @@ msgstr ""
 msgid "Manjaro"
 msgstr ""
 
-# Original was: Linux Mint is a 32- and 64-bit Linux distribution for desktop computers, based on either Ubuntu or Debian. Its stated aim is to be a "modern, elegant and comfortable operating system which is both powerful and easy to use." Mint provides full out-of-the-box multimedia support by including some proprietary software such as Adobe Flash. Mint's motto is "from freedom came elegance".  New versions of Linux Mint have been released approximately every six months. The first release, named "Ada", was released in 2006. The 17th release, "Qiana", was released on May 31, 2014. Support for older releases usually ends shortly after the next version is released, but there have been releases with long-term support, with v17.x supported for five years, ending in April 2019.
+# Original was: Linux Mint is a 32- and 64-bit Linux distribution for desktop computers, based on either Ubuntu or Debian. Its stated aim is to be a \"modern, elegant and comfortable operating system which is both powerful and easy to use.\" Mint provides full out-of-the-box multimedia support by including some proprietary software such as Adobe Flash. Mint's motto is \"from freedom came elegance\".  New versions of Linux Mint have been released approximately every six months. The first release, named \"Ada\", was released in 2006. The 17th release, \"Qiana\", was released on May 31, 2014. Support for older releases usually ends shortly after the next version is released, but there have been releases with long-term support, with v17.x supported for five years, ending in April 2019.
 msgid "Linux Mint"
 msgstr ""
 
@@ -880,15 +876,15 @@ msgstr ""
 msgid "Puppy Linux"
 msgstr ""
 
-# Original was: Knoppix, or KNOPPIX (/knɒpɪks/ knop-iks),[2] is an operating system based on Debian designed to be run directly from a CD / DVD (Live CD) or a USB flash drive (Live USB), one of the first of its kind for any operating system. Knoppix was developed by Linux consultant Klaus Knopper. When starting a program, it is loaded from the removable medium and decompressed into a RAM drive. The decompression is transparent and on-the-fly.  Although Knoppix is primarily designed to be used as a Live CD, it can also be installed on a hard disk like a typical operating system. Computers that support booting from USB devices can load Knoppix from a live USB flash drive or memory card.  There are two main editions of Knoppix: the traditional Compact Disc (700 megabytes) edition and the DVD (4.7 gigabytes) "Maxi" edition. Each of these main editions have two language-specific editions: English and German.
+# Original was: Knoppix, or KNOPPIX (/knɒpɪks/ knop-iks),[2] is an operating system based on Debian designed to be run directly from a CD / DVD (Live CD) or a USB flash drive (Live USB), one of the first of its kind for any operating system. Knoppix was developed by Linux consultant Klaus Knopper. When starting a program, it is loaded from the removable medium and decompressed into a RAM drive. The decompression is transparent and on-the-fly.  Although Knoppix is primarily designed to be used as a Live CD, it can also be installed on a hard disk like a typical operating system. Computers that support booting from USB devices can load Knoppix from a live USB flash drive or memory card.  There are two main editions of Knoppix: the traditional Compact Disc (700 megabytes) edition and the DVD (4.7 gigabytes) \"Maxi\" edition. Each of these main editions have two language-specific editions: English and German.
 msgid "Knoppix"
 msgstr ""
 
-# Original was: Gentoo Linux (/ˈdʒɛntuː/ jen-too[2]) is a computer operating system based on the Linux kernel and built using the Portage package management system. It is distributed as free and open source software. Unlike a binary software distribution, the source code is compiled locally according to the user's preferences and is often optimized for the specific type of computer. Precompiled binaries are available for some very large packages and for packages whose source code has not been released.  The "Gentoo" name comes from the fast-swimming Gentoo penguin. It was chosen to reflect the potential speed improvements of machine-specific optimization. Gentoo package management is designed to be modular, portable, easy to maintain, and flexible. Gentoo is sometimes described as a meta-distribution, "because of its near-unlimited adaptability", in that the majority of users have configurations and sets of installed programs which are unique to themselves.
+# Original was: Gentoo Linux (/ˈdʒɛntuː/ jen-too[2]) is a computer operating system based on the Linux kernel and built using the Portage package management system. It is distributed as free and open source software. Unlike a binary software distribution, the source code is compiled locally according to the user's preferences and is often optimized for the specific type of computer. Precompiled binaries are available for some very large packages and for packages whose source code has not been released.  The \"Gentoo\" name comes from the fast-swimming Gentoo penguin. It was chosen to reflect the potential speed improvements of machine-specific optimization. Gentoo package management is designed to be modular, portable, easy to maintain, and flexible. Gentoo is sometimes described as a meta-distribution, \"because of its near-unlimited adaptability\", in that the majority of users have configurations and sets of installed programs which are unique to themselves.
 msgid "Gentoo Linux"
 msgstr ""
 
-# Original was: Antergos (previously known as Cinnarch) is a Linux distribution of Galician origin based on the Arch Linux operating system. It uses the GNOME 3 desktop environment by default but it can also be used with Cinnamon, Razor-qt and Xfce. It was released on July 2012 as Cinnarch and by May 2013 it ranked among the top 30 most popular distributions at Distrowatch. The Galician word Antergos (meaning: ancestors) was chosen "to link the past with the present".
+# Original was: Antergos (previously known as Cinnarch) is a Linux distribution of Galician origin based on the Arch Linux operating system. It uses the GNOME 3 desktop environment by default but it can also be used with Cinnamon, Razor-qt and Xfce. It was released on July 2012 as Cinnarch and by May 2013 it ranked among the top 30 most popular distributions at Distrowatch. The Galician word Antergos (meaning: ancestors) was chosen \"to link the past with the present\".
 msgid "Antergos"
 msgstr ""
 
@@ -908,7 +904,7 @@ msgstr ""
 msgid "Xubuntu"
 msgstr ""
 
-# Original was: Lubuntu (/lʊˈbʊntuː/ loo-buun-too) is a lightweight Linux operating system based on Ubuntu but using the LXDE desktop environment in place of Ubuntu's Unity shell and GNOME desktop. LXDE is touted as being "lighter, less resource hungry and more energy-efficient".
+# Original was: Lubuntu (/lʊˈbʊntuː/ loo-buun-too) is a lightweight Linux operating system based on Ubuntu but using the LXDE desktop environment in place of Ubuntu's Unity shell and GNOME desktop. LXDE is touted as being \"lighter, less resource hungry and more energy-efficient\".
 msgid "Lubuntu"
 msgstr ""
 
@@ -916,7 +912,7 @@ msgstr ""
 msgid "Kubuntu"
 msgstr ""
 
-# Original was: Slackware is a Linux distribution created by Patrick Volkerding in 1993. Originally based on Softlanding Linux System, Slackware has been the basis for many other Linux distributions, most notably the first versions of SUSE Linux, and is the oldest currently being maintained. Slackware aims for design stability and simplicity and to be the most "Unix-like" Linux distribution. It makes as few modifications as possible to software packages from upstream and tries not to anticipate use cases or preclude user decisions.
+# Original was: Slackware is a Linux distribution created by Patrick Volkerding in 1993. Originally based on Softlanding Linux System, Slackware has been the basis for many other Linux distributions, most notably the first versions of SUSE Linux, and is the oldest currently being maintained. Slackware aims for design stability and simplicity and to be the most \"Unix-like\" Linux distribution. It makes as few modifications as possible to software packages from upstream and tries not to anticipate use cases or preclude user decisions.
 msgid "Slackware"
 msgstr ""
 
