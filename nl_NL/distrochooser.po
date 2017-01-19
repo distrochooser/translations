@@ -6,7 +6,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Language: "nl_NL"\n"
+"Language: nl_NL\n"
 
 
 # Original was: Linux Distribution Chooser
