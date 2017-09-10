@@ -418,7 +418,7 @@ msgid "answer3011"
 msgstr "Ich kenne mich noch nicht so gut mit dem Computer aus und benötige noch oft Hilfe von anderen Nutzern."
 
 msgid "answer3012"
-msgstr "Ich kenne schon etwas mit dem Computer aus und kann manche Probleme schon selbst lösen."
+msgstr "Ich kenne mich schon etwas mit dem Computer aus und kann manche Probleme bereits selbst lösen."
 
 msgid "answer3013"
 msgstr "Ich kann Probleme mit meinem Computer selbst beheben."
