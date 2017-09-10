@@ -640,21 +640,16 @@ msgid "Ubuntu"
 msgstr "Die Entwickler verfolgen mit Ubuntu das Ziel, ein einfach zu installierendes und leicht zu bedienendes Betriebssystem mit aufeinander abgestimmter Software zu schaffen. Dies soll unter anderem dadurch erreicht werden, dass für jede Aufgabe genau ein Programm zur Verfügung gestellt wird. Das Projekt wird vom Software-Hersteller Canonical Ltd. gesponsert, das vom südafrikanischen Unternehmer Mark Shuttleworth gegründet wurde"
 
 msgid "Manjaro"
-msgstr "Manjaro ist eine auf Arch Linux basierende Linux-Distribution, die in Deutschland, Frankreich und Österreich entwickelt wird. Es ist in erster Linie ein freies Betriebssystem für Personal Computer welches auf Benutzerfreundlichkeit ausgerichtet ist. 
-Wie seine Basis, Arch Linux, nutzt es ein Rolling-Release-Modell."
+msgstr "Manjaro ist eine auf Arch Linux basierende Linux-Distribution, die in Deutschland, Frankreich und Österreich entwickelt wird. Es ist in erster Linie ein freies Betriebssystem für Personal Computer welches auf Benutzerfreundlichkeit ausgerichtet ist. Wie seine Basis, Arch Linux, nutzt es ein Rolling-Release-Modell."
 
 msgid "Linux Mint"
-msgstr "Linux Mint ist eine Linux-Distribution, die es in zwei Varianten gibt. Die erste Variante, die Haupt-Ausgabe, basiert auf der Distribution Ubuntu. Die zweite Variante, Linux Mint Debian Edition (LMDE) genannt, beruht auf Debian testing. 
-</br>
-Linux Mint enthält im Gegensatz zu Ubuntu in der Standard-Ausgabe bereits Codecs für verschlüsselte DVDs, MP3 oder DivX sowie Plugins wie Adobe Flash und Oracle Java. Zudem ist NDISwrapper für die Unterstützung von WLAN-Karten ohne eigenen Linux-Treiber vorinstalliert und es gibt einige Programme und Anleitungen, um die Kommunikation mit Windows-Systemen auf dem gleichen oder anderen Computern zu vereinfachen. Technisch benutzt man die Paketquellen von Ubuntu sowie eine weitere, eigene mit den veränderten und zusätzlichen Paketen. Dadurch sind für die Benutzer von Linux Mint alle Aktualisierungen von Ubuntu ebenfalls verfügbar."
+msgstr "Linux Mint ist eine Linux-Distribution, die es in zwei Varianten gibt. Die erste Variante, die Haupt-Ausgabe, basiert auf der Distribution Ubuntu. Die zweite Variante, Linux Mint Debian Edition (LMDE) genannt, beruht auf Debian testing. </br>Linux Mint enthält im Gegensatz zu Ubuntu in der Standard-Ausgabe bereits Codecs für verschlüsselte DVDs, MP3 oder DivX sowie Plugins wie Adobe Flash und Oracle Java. Zudem ist NDISwrapper für die Unterstützung von WLAN-Karten ohne eigenen Linux-Treiber vorinstalliert und es gibt einige Programme und Anleitungen, um die Kommunikation mit Windows-Systemen auf dem gleichen oder anderen Computern zu vereinfachen. Technisch benutzt man die Paketquellen von Ubuntu sowie eine weitere, eigene mit den veränderten und zusätzlichen Paketen. Dadurch sind für die Benutzer von Linux Mint alle Aktualisierungen von Ubuntu ebenfalls verfügbar."
 
 msgid "Debian"
 msgstr "Debian ist ein seit 1993 gemeinschaftlich entwickeltes, freies Betriebssystem. Debian GNU/Linux, das auf den grundlegenden Systemwerkzeugen des GNU-Projektes sowie dem Linux-Kernel basiert, ist eine der ältesten, einflussreichsten und am weitesten verbreiteten GNU/Linux-Distributionen. Das heute bekannteste Debian-GNU/Linux-Derivat ist Ubuntu."
 
 msgid "Mageia"
-msgstr "Mageia ist eine Linux-Distribution, die im September 2010 als Abspaltung von Mandriva Linux ins Leben gerufen wurde. 
-
-Die Systemkonfiguration wird bei Mageia Linux mit eigenen Werkzeugen im Rahmen der „Drak-Tools“ konfiguriert – hierzu steht eine zentrale grafische Oberfläche (genannt „Mageia-Kontrollzentrum“) zur Verfügung."
+msgstr "Mageia ist eine Linux-Distribution, die im September 2010 als Abspaltung von Mandriva Linux ins Leben gerufen wurde. Die Systemkonfiguration wird bei Mageia Linux mit eigenen Werkzeugen im Rahmen der „Drak-Tools“ konfiguriert – hierzu steht eine zentrale grafische Oberfläche (genannt „Mageia-Kontrollzentrum“) zur Verfügung."
 
 msgid "Fedora"
 msgstr "Fedora ist eine RPM-basierte Linux-Distribution. Ziel der Entwickler der Distribution ist es, freie Software zu fördern und ein Betriebssystem für eine möglichst vielfältige Zielgruppe zu gestalten. Organisiert wird die Entwicklung in der Online-Community des Fedora-Projekts, das vom Unternehmen Red Hat angeführt wird. Fedora ist der direkte Nachfolger von Red Hat Linux. Das englische Wort Fedora bezeichnet eine spezielle Art des Filzhuts, das Markenzeichen des Unternehmens Red Hat."
@@ -669,15 +664,10 @@ msgid "PCLinuxOS"
 msgstr "Laut verschiedener Tests zeichnet sich PCLinuxOS durch seine Einfachheit und Benutzerfreundlichkeit sowie die überdurchschnittlich gute Hardwareerkennung aus. Von Heimanwendern oft benutzte Software wie Codecs für Multimediadateien, Flash und Java ist bei PCLinuxOS vorinstalliert, und als Standard-Arbeitsumgebung kommt KDE Plasma Desktop mit dem von Debian stammenden Paketverwaltungs-Tool APT in der Variante APT-RPM und dessen grafischem Aufsatz Synaptic zum Einsatz."
 
 msgid "CentOS"
-msgstr "CentOS (Community ENTerprise Operating System) ist eine Linux-Distribution, die auf der Distribution Red Hat Enterprise Linux (RHEL) des Unternehmens Red Hat aufbaut. Die Distribution wird von einer offenen Gruppe von freiwilligen Entwicklern betreut, gepflegt und weiterentwickelt.
-
-CentOS ist hinter Debian und Ubuntu die dritthäufigste verwendete Linux-Distribution für Web-Server."
+msgstr "CentOS (Community ENTerprise Operating System) ist eine Linux-Distribution, die auf der Distribution Red Hat Enterprise Linux (RHEL) des Unternehmens Red Hat aufbaut. Die Distribution wird von einer offenen Gruppe von freiwilligen Entwicklern betreut, gepflegt und weiterentwickelt.CentOS ist hinter Debian und Ubuntu die dritthäufigste verwendete Linux-Distribution für Web-Server."
 
 msgid "Puppy Linux"
-msgstr "Puppy Linux ist eine platzsparende und schnelle Linux-Distribution, die unter anderem direkt von einer Live-CD betrieben werden kann. Aus Quelltext kompiliert, basiert Puppy auf keiner anderen Linux-Distribution.
-Der Name leitet sich von dem inzwischen verschwundenen Chihuahua Puppy (dt.: Welpe) des australischen Projektgründers Barry Kauler ab.
-
-Ein Ziel des Betriebssystems ist es, auch von Benutzern ohne Linuxkenntnisse sofort genutzt werden zu können. Die Entwickler versuchen dies durch unkomplizierte, benutzerfreundliche Bedienung und breite Hardwareunterstützung zu erreichen."
+msgstr "Puppy Linux ist eine platzsparende und schnelle Linux-Distribution, die unter anderem direkt von einer Live-CD betrieben werden kann. Aus Quelltext kompiliert, basiert Puppy auf keiner anderen Linux-Distribution.Der Name leitet sich von dem inzwischen verschwundenen Chihuahua Puppy (dt.: Welpe) des australischen Projektgründers Barry Kauler ab.Ein Ziel des Betriebssystems ist es, auch von Benutzern ohne Linuxkenntnisse sofort genutzt werden zu können. Die Entwickler versuchen dies durch unkomplizierte, benutzerfreundliche Bedienung und breite Hardwareunterstützung zu erreichen."
 
 msgid "Knoppix"
 msgstr "Knoppix ist eine freie GNU/Linux-Distribution, deren Fokus auf dem Live-Betrieb liegt. Sie wird von Klaus Knopper entwickelt, von dessen Namen sich die Benennung Knoppix ableitet. Knoppix liegt hin und wieder Computerzeitschriften bei und basiert auf einer Mischung aus Debian unstable und testing. Sie wurde vom deutschen Bundesamt für Sicherheit in der Informationstechnik unterstützt und verteilt."
@@ -710,14 +700,11 @@ msgid "Slackware"
 msgstr "Slackware [ˈslækweə(ɹ)] ist die älteste aktive Linux-Distribution und die erste, die große weltweite Verbreitung fand. Wegen dieses frühen Erfolges und des konsequenten Verzichts auf unnötigen Ballast nach dem KISS-Prinzip bildete Slackware die Grundlage für andere bekannte Distributionen wie z. B. SuSE Linux. Slackware ist für die Verwendung mit i486-kompatiblen (ursprünglich i386-kompatiblen) und x86 64-Architekturen sowie Alpha- und SPARC-Architekturen bestimmt."
 
 msgid "Ubuntu MATE"
-msgstr "Die Variante Ubuntu MATE verwendet die MATE an Stelle von Unity. Ab Version 14.10 ist Ubuntu MATE eine von Canonical offiziell anerkannte Variante.
-
-Ubuntu MATE ist eine stabile, leicht zu bedienendes Betriebssystem mit einer konfigurierbare Arbeitsumgebung. Ideal für diejenigen, die das Beste aus ihren Desktops, Laptops und Netbooks möchten und bevorzugen eine traditionelle Desktop-Metapher. Mit bescheidenen Hardware-Anforderungen ist es für moderne Arbeitsplätze und älterer Hardware gleichermaßen geeignet."
+msgstr "Die Variante Ubuntu MATE verwendet die MATE an Stelle von Unity. Ab Version 14.10 ist Ubuntu MATE eine von Canonical offiziell anerkannte Variante.Ubuntu MATE ist eine stabile, leicht zu bedienendes Betriebssystem mit einer konfigurierbare Arbeitsumgebung. Ideal für diejenigen, die das Beste aus ihren Desktops, Laptops und Netbooks möchten und bevorzugen eine traditionelle Desktop-Metapher. Mit bescheidenen Hardware-Anforderungen ist es für moderne Arbeitsplätze und älterer Hardware gleichermaßen geeignet."
 
 msgid "Ubuntu GNOME"
 msgstr "Ubuntu GNOME (ursprünglich Ubuntu GNOME Remix) ist eine Ubuntu Variante mit einer puren GNOME-Installation basierend auf den Ubuntu Repositories."
 
 msgid "NixOS Linux"
-msgstr "NixOS ist eine auf dem Nix Packetmanager basierende Linux Distribution. 
-Das Hauptmerkmal dieser Linux Distribution ist die deklarative Konfiguration - jede Komponente des Systems wird mit ein und der selben Konfigurationssprache (Nix) konfiguriert. Dies reicht von dem Bootloader bis hin zu zur Desktopoberfläche."
+msgstr "NixOS ist eine auf dem Nix Packetmanager basierende Linux Distribution. Das Hauptmerkmal dieser Linux Distribution ist die deklarative Konfiguration - jede Komponente des Systems wird mit ein und der selben Konfigurationssprache (Nix) konfiguriert. Dies reicht von dem Bootloader bis hin zu zur Desktopoberfläche."
 
