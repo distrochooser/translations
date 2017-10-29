@@ -6,7 +6,9 @@ You want to support the [distrochooser](https://distrochooser.de)? You can help 
 
 ## How-To
 
-You can use the translation boilerplate from `en.csv`. The column `translation` contains the user displayed translation. You have questions and/ or a translation value is unclear? Feel free to open an issue!
+You can use the translation boilerplate from `en.csv`. The column `translation` contains the user displayed translation. Please choose an unique identifier for your translation and open a pull request.
+
+You have questions and/ or a translation value is unclear? Feel free to open an issue!
 
 **Thank you!**
 
