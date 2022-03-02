@@ -1,0 +1,209 @@
+val,langCode,translation
+a.2033.text,id,Saya sering memerlukan bantuan dari pengguna lain untuk mengatasi masalah pada komputer.
+a.2034.text,id,Saya mampu menyelesaikan beberapa permasalahan pada komputer sendiri.
+a.2035.text,id,Saya mampu menyelesaikan permasalahan pada komputer sendiri
+a.2036.text,id,Saya hanya tahu sedikit/tidak tahu sama sekali mengenai Linux
+a.2037.text,id,Saya sudah menggunakan Linux untuk tujuan tertentu
+a.2038.text,id,Saya cukup tahu mengenai sistem operasi Linux
+a.2039.text,id,Saya ingin menggunakan setelan bawaan dari instalasi
+a.2040.text,id,Saya tidak memerlukan setelan bawaan dari instalasi atau saat melakukan pengaturan sistem
+a.2041.text,id,Saya lebih suka melakukan setelan menggunakan antarmuka grafis sendiri
+a.2042.text,id,Saya ingin menginstal Linux dengan “cara klasik” di hard disk komputer saya
+a.2043.text,id,Saya ingin menginstal Linux menggunakan USB Flash Drive
+a.2044.text,id,Saya ingin mencoba Linux dengan boot melalui USB atau DVD tanpa mengubah apapun pada komputer saya.
+a.2045.text,id,Saya mampu menyelesaikan permasalahan menggunakan panduan dari halaman wiki atau tutorial
+a.2046.text,id,Saya lebih suka meminta bantuan kepada pengguna lain
+a.2047.text,id,Saya lebih suka tampilan antarmuka seperti Windows
+a.2048.text,id,Saya lebih suka tampilan antarmuka seperti MacOS
+a.2049.text,id,Saya tidak memiliki kecenderungan terhadap tampilan antarmuka
+a.2050.text,id,Saya mampu menggunakan distribusi berbayar
+a.2051.text,id,Saya lebih suka distribusi gratis
+a.2052.text,id,Saya lebih suka distro menyediakan semua program yang saya perlukan untuk langsung bekerja setelah instalasi
+a.2053.text,id,Saya ingin memilih program untuk diinstal sendiri
+a.2054.text,id,Saya ingin menggunakan lisensi bebas sebisa mungkin
+a.2055.text,id,Saya tidak apa-apa dengan lisensi tidak bebas selama sistem saya bekerja.
+a.2056.text,id,"Jika hal ini memperbaiki pengalaman pengguna saya, saya setuju dengan menggunakan layanan online"
+a.2057.text,id,Saya tidak ingin ini.
+a.2058.text,id,Hal ini penting bagi saya.
+a.2059.text,id,"Saya tidak suka dengan ini. Saya akan menginstal ikon, gambar latar, dan tema sendiri."
+a.2060.text,id,Saya ingin menginstal program saya menggunakan semacam “App Store”
+a.2061.text,id,Saya ingin menginstal perangkat lunak menggunakan perintah terminal
+a.2062.text,id,Saya lebih suka pembaruan yang cepat
+a.2063.text,id,Saya lebih suka pembaruan yang stabil
+a.2064.text,id,Saya ingin menggunakan Linux untuk keperluan sehari-hari
+a.2065.text,id,Saya ingin menggunakan Linux untuk menjelajah internet secara anonim
+a.2066.text,id,Saya ingin menggunakan Linux untuk menyelamatkan data
+a.2067.text,id,Saya lebih suka distribusi yang didukung oleh pengembang game
+a.2068.text,id,Saya ingin menggunakan distribusi untuk keperluan sains
+a.2069.text,id,Komputer saya seharusnya mendukung arsitektur 64-bit (Komputer 5 tahun terakhir seharusnya mempunyai dukungan ini)
+a.2070.text,id,Saya tidak yakin mengenai ini atau komputer saya sudah ada masalah performa
+a.2071.text,id,Saya ingin menjalankan semua aplikasi dalam lingkungan terisolasi. Saya sadar hal ini akan mempersulit pengunaan distribusi
+a.2072.text,id,Saya tahu apa itu “systemd” dan ingin menghindarinya
+a.2073.text,id,Saya ingin menginstal package dari distribusi lain tanpa usaha lebih
+a.2074.text,id,Saya tidak ingin menggunakan package manager. Saya ingin menginstall semuanya melalui sumber
+all-like,id,Konsep UI serupa dengan sistem operasi lain
+container,id,Aplikasi dijalankan di lingkungan terisolasi
+d.1.description,id,"Arch Linux adalah sistem operasi berbasis Linux untuk komputer i686 dan x86-64. Arch Linux tersusun dengan perangkat lunak yang kebanyakan bebas dan bersumber terbuka serta memiliki keterlibatan komunitas. Pendekatan desain oleh tim pengembang berfokus pada keeleganan, kode yang benar, minimalisme, dan kesederhanaan, serta mengharapkan pengguna untuk ingin berusaha memahami cara kerja sistem. Pacman adalah package manager yang dibuat khusus untuk Arch Linux digunakan untuk menginstal, menghapus, serta memperbarui package perangkat lunak. Arch Linux memiliki model rolling release, dimana sistem diperbarui secara rutin untuk mencapai sistem Arch Linux terbaru. Instalasi yang dipublikasi oleh tim Arch merupakan snapshot terbaru dari komponen sistem utama."
+d.10.description,id,"PCLinuxOS (PCLOS) adalah sebuah distribusi Linux, dengan KDE Plasma sebagai tampilan antarmuka bawaannya. PCLOS merupakan sistem operasi bebas untuk komputer pribadi dengan tujuan penggunaan yang mudah. PCLOS dianggap sebagai distribusi rolling release."
+d.11.description,id,"CentOS (singkatan dari Community Enterprise Operating System) adalah distribusi Linux yang mencoba untuk menyediakan sistem dengan perangkat lunak bebas, berkelas enterprise, dengan dukungan komunitas yang bertujuan untuk mencapai 100% kompatibilitas biner dengan sumbernya, yaitu Red Hat Enterprise Linux (RHEL). Pada Januari 2014, diumumkan bahwa CentOS akan bekerja sama dengan Red Hat dan tetap mandiri dari RHEL, dalam pemerintahan CentOS yang baru. CentOS pertama rilis pada Mei 2004, dengan nomor versi CentOS 2, dicabangkan dari RHEL versi 2.1AS. Mulai versi 5.10 dan 6.5 CentOS secara resmi mendukung arsitektur x86-64 dan x86 *dengan Physical Address Extension (PAE) yang diperlukan oleh x86), sementara itu rilis beta diharapkan tersdia untuk arsitektur PowerPC."
+d.12.description,id,"Sistem operasi Puppy merupakan distribusi Linux yang ringan berfokus pada kemudahan penggunaan dan jejak memori yang minimal. Seluruh sistem operasi dapat dijalankan dari RAM dengan versi saat ini memakan 130 MB, memungkinkan media boot dilepas setelah sistem opearsi berjalan. Aplikas iseperti AbiWord, GNUmeric, dan Mplayer tersedia, dengan pilihan browser web ringan. Distribusi ini awalnya dikembangkan oleh Barry Kauler dan anggota komunitas lainnya. Woof dapat membangun distribusi Puppy Linux dari package biner distribusi Linux liannya."
+d.13.description,id,"Knoppix adalah sistem operasi berbasis Debian yang didesain untuk dapat berjalan langsung dari CD/DVD/USB, salah satu pendahulu untuk sistem operasi seperti ini. Knoppix dikembangkan oleh konsultan Linux, Klaus Knopper. Saat memulai program Knoppix dimasukan dari media yang dapat dilepas dan didecompress ke RAM. Proses Dekompressi transparan dan on-the-fly. Meskipun Knoppix didesain untuk Live CD, Knoppix juga dapat diinstal pada hard disk seperti sistem operasi pada umumnya. Komputer yang mendukung booting dari USB dapat memasukkan Knoppix dari live USB atau Memori card. Ada dua edisi Knoppix, Edisi CD (700MB) dan DVD (4,7GB). Setiap edisi utama ini mempunyai dua bahasa, Bahasa Inggris, dan Bahasa Jerman."
+d.14.description,id,"Gentoo Linux adalah sistem operasi komputer berdasarkan kernel Linux dan dibangun menggunaka sistem manajemen package Portage. Gentoo Linux didistribusikan sebagai perangkat lunak bebas dan bersumber terbuka. Tidak seperti distribusi biner, kode sumber dikompilasi secara lokal berdasarkan preferensi pengguna dan sering dioptimasi untuk komputer khusus. Biner yang sudah dikompilasi tersedia untuk beberapa package yang sangat besar dan untuk package yang kode sumbernya tidak dirilis. Nama Gentoo berasal dari pinguin Gentoo yang berenang sangat cepat. Gentoo dipilih untuk mencerminkan potensi perkembangan kecepatan optimasi khusus pada mesin. Package management Gentoo didesain untuk menjadi modular, portable, mudah dikelola, dan fleksibel. Gentoo sering dideskripsikan sebagai meta-distribusi karena adaptabilitas yang sangat tinggi, dalam artian sebagian besar pengguna memiliki pengaturan dan kumpulan program yang unik pada mereka saja."
+d.15.description,id,"Antergos (sebelumnya dikenal sebagai Cinnarch) adalah sebuah distribusi Linux dengan asal usul Galician berbasis oada sistem operasi Arch Linux. Antergos menggunakan GNOME 3 bawaan tetapi juga dapat digunakan dengan Cinnamon, Razor-qt, dan Xfce. Dirilis pada Juli 2012 sebagai Cinnarch dan pada Mei 2013 Antergos merupakan top 30 distro terpopuler di Distrowatch. Kata Gallican, Antergos (berarti: leluhur) dipilih untuk menghubungkan masa lalu dan masa kini."
+d.16.description,id,Bedrock Linux adalah sebuah distribusi Linux yang dibuat dengan tujuan untuk menyediakan semua keuntungan dari distribusi linux lain tersedia secara bersamaan dan transparan.
+d.17.description,id,"Tails atau The Amnesic Incognito Live System adalah distribusi Linux bebasis Debian yang berfokus pada keamanan dengan tujuan untuk menjaga privasi dan anonimitas. Semua koneksi keluar dipaksa untuk melalui Tor, dan koneksi langsung (non-anonim) diblokir. Sistem ini didesain untuk diboot melalui DVD/USB secara live, dan tidak akan meninggalkan jejal digital pada mesin kecuali secara eksplisit diperintahkan. Project Tor membiayai dukungan finansian untuk pengembangannya."
+d.18.description,id,Zorin OS adalah disribusi berbasis Ubuntu untuk pengguna baru Linux. Tampilan antarmuka serupa dengan Windows untuk mempermudah pengenalan sistem.
+d.19.description,id,Xubuntu adalah distro turunan Ubuntu yang dikelola oleh komunitas dan diakui oleh Canonical Ltd. Xubuntu menggunakan Xfce daripada Unity milik Ubuntu.
+d.2.description,id,"Ubuntu adalah sistem operasi Linux berbasis Debian, dengan Unity sebagai lingkungan desktop bawaannya (GNOME sebelumnya digunakan sebagai lingkungan desktop). Ubuntu berdasarkan perangkat lunak bebas dan namanya berasal dari filosofi Afrika Selatan, Ubuntu (yang berarti kemanusiaan), dan diterjemahkan seagai kemanusiaan terhadap yang lain atau kepercayaan terhadap ikatan universal berbagi yang menghubungkan semua manusia. Berdasarkan beberapa metrik, Ubuntu merupakan distribusi desktop Linux terpopuler hingga saat ini. Pengembangan ubuntu dipimpin oleh Canonical Ltd, sebuah perusahaan yang dimiliki oleh pengusaha Afrika Selatan, Mark Shuttleworth. Canonical memperoleh penghasilan melalui penjualan dukungan teknis dan layanan lain yang berkaitan dengan Ubuntu. Project Ubuntu secara umum dilakukan dengan prinsip pengembangan sumber terbuka, orang-orang diharapkan untuk menggunakan perangkat lunak bebas, mempelajari cara kerja, mengembangkan, dan menyebarkannya."
+d.20.description,id,Lubuntu adalah distribusi Linux yang ringan berbasis Ubuntu tetapi menggunakan LXDE daripada Unity milik Ubuntu dan GNOME. LXDE is anggap lebih ringan dan lebih efisien.
+d.21.description,id,"Kubuntu adalah turunan Ubuntu resmi yang menggunakan KDE daripada Unity. Sebagai bagian dari Ubuntu Project, Kubuntu menggunakan sistem yang sama, setiap package pada Kubuntu memiliki repositori yang sama dengan Ubuntu, dan dirilis secara rutin dengan jadwal yang sama dengan Ubuntu."
+d.22.description,id,"Slackware adalah distribusi Linux yang dibuat oleh Patrick Volkerding pada 1993. Awalnya berbasis pada Softlanding Linux System, Slackware telah menjadi basis untuk banyak distribusi Linux, terutama versi pertama SUSE Linux, dan saat ini merupakan distribusi Linux paling tua yang masih dikelola. Slackware bertujuan untuk stabilitas desain dan kesederhanaan utuk menjadi distribusi Linux yang paling mirip Unix. Hal ini membuat sedikit modifikasi yang memungkinkan pada package perangkat lunak dari sumber dan mencoba untuk tidak mementingkan kasus penggunaan ataupun keputusan pengguna."
+d.23.description,id,"Ubuntu MATE sistem operasi yang stabil dan mudah digunakan dengan lingkungan dekstop yang dapat diatur. Cocok untuk orang yang ingin memaksimalkan sistem dan lebih senang dengan metafor desktop tradisional. Dengan keperluan perangkat yang sederhana, Ubuntu MATE cocok digunakan untuk komputer modern dan lama."
+d.24.description,id,"Ubuntu GNOME (sebelumnya Ubuntu GNOME Remix) adalah pengalaman desktop GNOME yang murni dibangun dari Repositori Ubuntu. Rilis pertama (tidak resmi) adalah 12.10 (Quantal Quetzal), yang dirilis pada Oktober 2012."
+d.25.description,id,"NixOS adalah distribusi Linux berdasarkan package manager nix. Fitur utama dari distribusi ini adlah konfigurasi deklaratif untuk setiap komponen pada sistem, dari bootloader hingga desktop dikonfigurasi menggunakan package manager yang sama."
+d.26.description,id,KDE neon adalah repositori perangakt lunak yang dikembangkan secara cepat. Kebanyakan pengguna akan ingin menggunakan package yang dibangun dari perangakt lunak yang dirilis yang akan segera tersedia. Kontributor KDE dan penguji dapat menggunakan package ang dibangun melalui KDE Git. KDE neon menggunakan Ubuntu LTS terbaru sebagai dasarnya.
+d.27.description,id,Linux From Scratch adalah project yang menyediakan instruksi yang rinci untuk membangun sistem Linux anda sendiri sepenuhnya melalui sumber.
+d.28.description,id,"Red Hat Enterprise Linux (RHEL) adalah sebuah distribusi Linux yang digunakan untuk bisnis, menawarkan stabilitas tinggi dan dukungan luas oleh pengembang perangkat lunak independen."
+d.29.description,id,"Qubes OS menjalankan semua aplikas idalam lingkungan virtual. Lingkungan tersebut dapat berbasis Fedora, Debian, Whonix atau Windows. Dengan teknik isolasi ini, keamanan yang lebih baik diberikan kepada pengguna."
+d.3.description,id,"Manjaro Linux, atau cukup Manjaro (diucapkan seperti Kilimanjaro), adalah distribusi Linux, dengan Xfce sebagai antarmuka bawaan. Manjaro merupakan sistem opearsi bebas untuk komputer pribadi dengan tujuan untuk kemudahan pengguna. Seperti Arch Linux yang merupakan basisnya, Manjaro menggunakan model rolling release."
+d.30.description,id,"Scientific Linux adalah distribusi turunan dari Red Hat Enterprise Linux (RHEL). Distribusi ini didesain untuk tujuan sains, terlebih laigi kompatibel dengan RHEL. Pembaruan RHEL dicocokkan untuk Scientific Linux dengan jeda beberapa bulan. Scientific Linux kompatibel dengan RHEL secara biner."
+d.31.description,id,Void Linux adalah distribusi Linux baru yang tidak memiliki hubungan dengan distribusi lain. Program dihubungkan dengan musl atau libc. Package manager XBPS memungkinkan pengguna untuk menginstal program dari sumber atau biner. Void Linux menggunakan runit daripada systemd.
+d.32.description,id,"Devuan percabangan dari Debian dan tidak menggunakan systemd. Sebagai penggantinya dapat menggunakan runit, sysvinit, dan yang lainnya."
+d.33.description,id,"openSuse Tumbleweed adalah distribusi rolling release berdasarkan pada openSUSE Factory. Distribusi ini memiliki pembaruan yang cepat dan menawarkan perangkat lunak yang lebih baru dibandingkan dengan edisi lain openSUSE. OpenSUSE Tumbleweed disarankan untuk pengguna dengan pengalaman menggunakan openSUSE, tetapi bukan untuk pemula Linux."
+d.34.description,id,"Solus OS distribusi Linux yang ramah pemula. Memiliki desktop bawaan Budgie yang dikembangkan sendiri dengan tujuan pengalaman out-of-the-box, Distribusi ini hanya mendukung sistem 64-bit."
+d.4.description,id,"Linux Mint adalah distribusi Linux 32-bit dan 64-bit untuk komputer desktop berbasis Ubuntu atau Debian. Linux Mint dimulai dengan tujuan untuk menjadi sistem operasi yang modern, elegan , dan nyaman yang kuat dan mudah digunakan. Mint menyediakan dukungan multimedia out-of-the-box dengan menambahkan perangkat lunak tidak bebas seperti Adobe Flash. Motto Mint adalah dari kebebasan tibalah keeleganan. Versi baru Linux Mint telah dirilis kurang-lebih setiap enam bulan. Rilis pertama dinamakan “Ada” dirilis pada 2006. Rilis ke-17 “Qiana” dirilis pada 31 Mei 2014. Dukungan untuk rilis lama biasa berakhir setelah versi baru rilis, tetapi telah ada rilis dengan dukungan jangka panjang, dengan versi 17 didukung selama 5 tahun, dan berakhir pada April 2019."
+d.5.description,id,"Debian adalah sistem operasi yang terdiri dari perangkat lunak bebas, kebanyakan berada dibawah lisensi GNU General Public License, dan dikembangkan oleh sekelompok orang sebagai Debian Project. Debian adalah salah satu distribusi Linux yang paling populer untuk komputer pribadi dan jaringan server, dan telah digunakan sebagai basis kebanyakan distribusi Linux. Debian pertama kali diumumkan pada 1993 oleh Ian Murdock, dan rilis stabil pertama dibuat pada 1996. Pengembangan dilakukan melalui internet oleh tim relawan yang dibina oleh pemimpin project dan tiga dokumen fondasi. Distribusi baru secara terus-menerus diperbarui, dan kandidat selanjutnya dirilis setelah pembekuan berbasis waktu. Sebagai salah satu distribusi Linux pertama, Ada pandangan Debian dikembangakan secara terbuka dengan semangat Linux dan GNU. Pandangan ini menarik perhatian dan dukungan Free Software Foundation, yang mensponsori project pada awal masanya."
+d.6.description,id,"Mageia adalah sistem operasi Linux yang disebarkan sebagai perangkat lunak bebas dan bersumber terbuka. Mageia merupaan percabangan dari distribusi Mandriva. Rilis pertama dari distribusi perangkat lunak, Mageia 1, terjadi pada Juni 2011."
+d.7.description,id,"Fedora (sebelumnya Fedora Core) adalah sebuah sistem operasi berbasis pada kernel Linux, dikembangkan oleh Fedora Project yang didukung komunitas dan dimiliki oleh Red Hat. Fedora memiliki perangkat lunak yang terdistribusi dengan lisensi bebas dan bersumber terbuka dan bertujuan untuk memimpin teknologi tersebut. Linus Torvalds, pembuat kernel Linux, menggunakan Fedora pada semua komputernya."
+d.8.description,id,"openSUSE adakag sistem operasi umum dibangun diatas kernel Linux, dikembangkan oleh openSUSE Project yang didukung oleh komunitas dan disponsori oleh SUSE dan beberapa perusahaan lain. Setelah Novell memperoleh SUSE Linux pada Januari 2004, Novell memutuskan untuk merilis produk SUSE Linux Preofessional sebagai project sumber terbuka 100%. Pada 2011 The Attachmate Group memperoleh Novell dan memecah Novell dan SUSE menjadi dua anak perusahaan. SUSE menawarkan produk dan layanan berpusat pada SUSE Linux Enterprise, penawaran komersial berdasarkan pada openSUSE Linux. Rilis awal komunitas adalah versi beta dari SUSE Linux 10.0, dan pada 19 November 2013 rilis stabil adalah openSUSE 13.1"
+d.9.description,id,"elementary OS distribusi Linux berbasis Ubuntu. elementary OS menggunakan desktop buatan sendiri bernama Pantheon, dan terintegrasi dengan aplikasi elementary OS yang lain seperti Plank, Midori, dan Scratch. Distribusi ini menggunakan Gala sebagai window manager, yang berbasis Mutter. Distribusi ini awalnya dimulai sebagai sekumpulan tema dan aplikasi yang didesain untuk Ubuntu yang kemudian menjadi distribusi Linux sendiri. Karena berbasis Ubuntu,  elementary OS kompatibel dengan repositori dan package ubuntu. Elementary OS menggunakan pusat perangkat lunak Ubuntu untuk mengurus instalasi dan pelepasan perangkat lunak, meskipun pusat perangkat lunak mereka sendiri sedang dalam pembuatan. Antarmuka penggunanya bertujuan untuk menjadi intuitif bagi pengguna baru tanpa memakan banyak sumber daya."
+fromsource,id,Program didapat melalui kode sumber
+help-community,id,Bantuan menggunakan komunitas
+help-wiki,id,Bantuan menggunakan wiki
+important,id,Penting!
+installation-base,id,Instal hanya inti sistem operasi saja
+installation-full,id,"Instal perangkat lunak tambahan, seperti browser web"
+installation-hdd,id,Dapat diinstal pada hard disk
+installation-live,id,Dapat menguji live
+installation-usb,id,Dapat diinstal pada USB
+installer-defaults-wanted,id,Bantuan instalasi dengan setelan bawaan
+installer-hdd,id,Dapat diinstal pada hard disk
+installer-no-defaults,id,Instalasi: Tanpa setelan
+installer-no-defaults-wanted,id,Konfigurasi bawaan yang sedikit saat instalasi
+license-free,id,Menggunakan lisensi bebas seperti GNU GPL
+license-unfree-if-needed,id,Menggunakan perangkat lunak dengan lisensi tidak bebas
+license-unfree-if-needed,id,Menggunakan perangkat lunak sumber tertutup jika diperlukan
+linux-advanced,id,Pengetahuan Linux: Ahli
+linux-beginner,id,Pengetahuan Linux: Pemula
+linux-expert,id,Pengetahuan Linux: Profesional
+mac-like,id,Tampilan bawaan seperti MacOS
+multipackage,id,Dapat menginstal package dari distribusi lain
+no-package-manager,id,Aplikasi diinstal dengan membangunnya dari kode sumber
+no-systemd,id,Beberapa varian tidak menggunakan systemd
+notimportant,id,Kurang Penting
+pay-nothing,id,Varian dapat digunakan gratis
+pay-price,id,"Varian berbayar tersedia, contoh: penggunaan perusahaan"
+pc-advanced,id,Pengetahuan Komputer: Ahli
+pc-beginner,id,Pengetahuan Komputer: Pemula
+pc-expert,id,Pengetahuan Komputer: Profesional
+pc-old,id,Varian untuk komputer lama tersedia
+pc-up-to-date,id,Memerlukan komputer dengan komponen up-to-date. Tidak bekerja pada CPU 32-bit
+privacy-online-not-okay,id,"Tidak terhubung dnegan perusahaan pihak ketiga dibelakang layar, seperti halaman pencarian"
+privacy-online-okay,id,Terhubung dengan perusahaan pencarian dibelakang layar
+programs-graphical,id,Pengelolaan perangkat lunak melalui tools seperti App Store
+programs-shell,id,Pengelolaan perangkat lunak sebagian besar melalui perintah shell
+q.1.text,id,Bagaimana saya menilai pengetahuan berkomputer saya?
+q.1.title,id,Pengetahuan Komputer
+q.10.text,id,"Beberapa distribusi menggunakan layanan online untuk mengembangkan pengelaman pengguna. Hal ini dapat mempengarui privasi pengguna, karena pengguna dapat dilacak menggunakan fitur online semacam ini."
+q.10.title,id,Distribusi: Privasi
+q.11.text,id,Beberapa distribusi menyediakan program atau desktop dengan temanya sendiri atau ikon untuk mewujudkan sebuah pengalaman pengguna
+q.11.title,id,"Distribusi: Setelan Tema, Ikon, dan Gambar Latar"
+q.12.text,id,Pada Linux anda dapat menginstal perangkat lunak dengan beberapa cara. Anda dapat membangunnya melalui kode sumber atau menginstalnya melalui package manager. Yang mana yang anda suka?
+q.12.title,id,Perangkat Lunak: Administrasi
+q.13.text,id,Beberapa distribusi menawarkan pembaruan yang lebih cepat yang dapat mempengaruhi kestabilan sistem. Yang mana yang anda suka?
+q.13.title,id,Perangkat Lunak: Pembaruan
+q.14.text,id,"Beberapa distribusi dibuat dengan tujuan khusus, beberapa untuk penggunaan harian. Apa yang anda perlukan?"
+q.14.title,id,Perangkat Lunak: Kasus Penggunaan
+q.15.text,id,"Penting untuk mengetahui berapa lama sebuah sistem karena beberapa distribusi tidak dapat berjalan pada sistem lama. Alasan utama adalah karena dukungan untuk teknologi lama telah dihentikan, seperi arsitektur 32-bit demi arsitektur 64-bit."
+q.15.title,id,Instalasi: Dukungan Perangkat Keras
+q.16.text,id,"Beberapa distribusi menggunakan fitur khusus, seperti keamanan tambahan. Dari fitur-fitur berikut yang mana yang anda ingin gunakan (apabila ada)?"
+q.16.title,id,Distribusi: Fitus khusus
+q.2.text,id,Bagaimana saya menilai pengetahuan Linux saya?
+q.2.title,id,Pengetahuan Linux
+q.3.text,id,Berapa banyak preferensi yang ingin anda ubah sendiri saat instalasi? Berapa banyak konfigurasi yang ingin anda isi dengan nilai bawaan?
+q.3.title,id,Instalasi: Setelan
+q.4.text,id,Kebanyakan distribusi memungkinkan untuk memulai dari USB atau DVD untuk menguji distribusi tanpa mengubah apapun pada komputer anda. Beberapa distribusi dapat diinstal pada USB itu sendiri dengan data dan setelah tersimpan.
+q.4.title,id,Instalasi: Perlu Pengujian Live?
+q.5.text,id,Beberapa distribusi lebih suka artikel wiki untuk mengatasi masalah. Yang mana yang anda suka?
+q.5.title,id,Konfigurasi: Sumber Bantuan
+q.6.text,id,Linux dapat menggunakan banyak tampilan pengguna yang berbeda. Banyak distribusi menyediakan satu desktop bawaan. Penting untuk mengetahui jika ada preferensi pada sebuah konsep. Anda dapat berpindah dan menginstal desktop baru kapan saja.
+q.6.title,id,Distribusi: Konsep Pengalaman Pengguna
+q.7.text,id,Kebanyakan distribusi gratis. Beberapa juga menawarkan dukungan tambahan dengan biaya.
+q.7.title,id,Distribusi: Biaya
+q.8.text,id,Distribusi yang berbeda menginstal jumlah program yang berbeda. Beberapa menginstal sekumpulan program agar dapat langsung digunakan. Beberapa distribusi lain hanya menginstal sistem dasar dan membiarkan pengguna menentukan perangkat lunak mana yang digunakan.
+q.8.title,id,Distribusi: Cakupan
+q.9.text,id,"Ideologi sebuah distribusi selalu menjadi perdebatan. Ada distribusi yang hanya menggunakan lisensi bebas, dan ada juga yang menggunakan lisensi tidak bebas. Lisensi bebas memungkinkan pengguna untuk mengubah, menyebarkan, dan menggunakan perangkat lunak untuk tujuan apapun. Ada contoh kasus dimana distribusi harus menggunakan lisensi tidak bebas, contohnya driver. Perangkat lunak tidak bebas tidak menyebarkan kode sumbernya dan modifikasi juga tidak diperbolehkan.
+
+Penting untuk mengetahui jika anda memiliki preferensi mengenai model lisensi."
+q.9.title,id,Distribusi: Ideologi
+share,id,Bagiakn hasil saya
+sys.3,id,"Situs in berisikan tes lama, dibuat menggunakan versi distrochooser.de sebelumnya. Anda dapat mengakses tes lama ini <a href='#link#'>disini</a>"
+sys.3link,id,Disini
+sys.3link,id,Disini
+sys.3link,id,Disini
+sys.abort,id,Batalkan
+sys.about,id,Mengenai project ini
+sys.about.short,id,Tentang
+sys.answered,id,Terjawab
+sys.back,id,Kembali
+sys.backshort,id,Kembali
+sys.can-delete,id,Anda dapat menghapus jawaban kapan saja
+sys.can-get-result-anyorder,id,Anda dapat menjawab tanpa memikirkan urutan
+sys.can-get-result-anytime,id,Anda dapat selalu mengklik “Dapatkan hasil”
+sys.can-mark-important,id,Anda dapat membobotkan kriteria pada akhir tes untuk menekankan apa yang penting bagi anda
+sys.can-skip-questions,id,Anda dapat selalu melewatkan pertanyaan
+sys.clear,id,Bersihkan
+sys.contact,id,Kontak
+sys.displayexcluded,id,Tampilkan pengecualian
+sys.excludedbytag,id,Pertanyaan ini terlalu jauh dari profil keperluan anda. Anda dapat menjawab atau melewatkannya.
+sys.getresult,id,Dapatkan hasil
+sys.imagesource,id,Sumber gambar
+sys.important,id,Penting
+sys.intro,id,Selamat datang
+sys.intro,id,Selamat datang! Tes ini akan membantu anda memilih distribusi Linux yang cocok untuk anda
+sys.lang,id,Bahasa
+sys.links,id,Situs
+sys.next,id,Lanjut
+sys.nodistros,id,Kami tidak dapat memperhitungkan daftar berdasarkan jawaban yang anda berikan
+sys.nodistrostext,id,Tolong perbarui jawaban dan bobot anda agar kami dapat melakukan perhitungan untuk anda
+sys.notags,id,Kami tidak dapat menemukan apapun berdasarkan keperluan anda
+sys.notimportant,id,Tidak penting
+sys.or,id,atau
+sys.privacy,id,Privasi
+sys.rate,id,Seberapa senang anda dengan hasilnya?
+sys.rated,id,Terima kasih atas umpan baliknya
+sys.rating-1,id,Tidak puas!
+sys.rating-2,id,Cukup memuaskan!
+sys.rating-3,id,Saya senang!
+sys.skip,id,Lewatkan pertanyaan
+sys.start,id,Mulai tes
+sys.textsource,id,Sumber teks
+sys.vendor,id,Project oleh
+sys.warning,id,Perhatian
+sys.weight,id,Bobotkan jawaban saya
+sys.weight,id,Jawaban dibobotkan
+sys.weighterror,id,"Semua evaluasi anda negatif, kami tidak dapat lanjut dengan data ini. Tolong sisakan setidaknya 1 kategori dengan positif atau setidaknya netral"
+sys.weightinfo,id,Gerakkan slider untuk menandai properti sebagai penting (kanan) atau kurang penting (kiri)
+sys.weightorresult,id,Dapatkan hasil atau bobotkan jawaban?
+sys.welcometext,id,Selamat datang
+systemd,id,Varian lain menggunakan systemd sebagai proses init
+updates-stable,id,Pembaruan lebih jarang tetapi lebih stabil
+updates-unstable,id,"Pembaruan cepat, tetapi dapat menjadi tidak stabil"
+usage-anon,id,Dibuat untuk keperluan anonimisasi
+usage-daily,id,Dapat digunakan untuk penggunaan sehari-hari
+usage-gaming,id,Pembuat game mendukung distribusi ini
+usage-rescue,id,"Dapat digunakan untuk penyelamatan data, karena dapat diboot melalui USB/DVD/CD"
+usage-science,id,Menyediakan aplikasi untuk keperluan sains
+ux-closed,id,Atarmuka pengguna mempunyai warna dan desain sendiri.
+ux-undecided,id,Tidak menyediakan konsep desain tertutup
+windows-like,id,Konsep desain antarmuka pengguna menyerupai Windows
