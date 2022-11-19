@@ -1,5 +1,10 @@
 # Distrochooser translations
 
+**THIS IS WORK IN PROGRESS**
+**THIS IS WORK IN PROGRESS**
+**THIS IS WORK IN PROGRESS**
+**THIS IS WORK IN PROGRESS**
+
 <img src="https://distrochooser.de/logo.min.svg" width="50%" >
 
 You want to support the [distrochooser](https://distrochooser.de)? You can help us with a translation in your language!
@@ -17,9 +22,7 @@ You want to support the [distrochooser](https://distrochooser.de)? You can help 
 
 ## Weblate on translate.distrochooser.de
 
-In general, you can use the Weblate instance anonymously, but there are some features, such as commenting which will require an account. If you wish to register, you can use GitHub or Email to sign up (Please note the privacy remarks below).
-
-
+In general, you can use the Weblate instance anonymously, but there are some features, such as commenting which will require an account. If you wish to register, you can use GitHub or Email to sign up (Please note the privacy remarks below). **You can use an alias/nickname etc. I won't require you to use a clear name.**
 
 You can find the current translations on https://translate.distrochooser.de/projects/distrochooser/translations/.
 
@@ -39,4 +42,4 @@ Weblate currently seems not to support omitting the Email in Commits: https://gi
 
 <a href="https://translate.distrochooser.de/engage/distrochooser/">
 <img src="https://translate.distrochooser.de/widgets/distrochooser/-/translations/multi-blue.svg" alt="Translation status" />
-</a>
+</ater
