@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-21 21:20+0000\n"
-"Last-Translator: Jacek <jacek383@gmail.com>\n"
+"PO-Revision-Date: 2022-11-23 13:20+0000\n"
+"Last-Translator: Jacek <jackes112@gmail.com>\n"
 "Language-Team: Polish <https://translate.distrochooser.de/projects/"
 "distrochooser/translations/pl/>\n"
 "Language: pl\n"
@@ -25,7 +25,7 @@ msgid "computer-knowledge-category"
 msgstr "Znajomość komputera"
 
 msgid "linux-knowledge-category"
-msgstr "Linux i ty"
+msgstr "Linux i Ty"
 
 msgid "hardware-category"
 msgstr "Wsparcie sprzętowe"
@@ -127,7 +127,7 @@ msgstr "Kod źródłowy"
 msgid "about-licenses-source-text"
 msgstr ""
 "Kod źródłowy jest licencjonowany na podstawie licencji zapisanej w pliku "
-"'LICENSE', który jest umieszczony w linkowanym repozytorium."
+"\"LICENSE\", który jest umieszczony w linkowanym repozytorium."
 
 msgid "about-licenses-database"
 msgstr "Baza danych"
@@ -139,7 +139,7 @@ msgid "no-answers"
 msgstr "Nie udzieliłeś żadnych odpowiedzi."
 
 msgid "get-my-result"
-msgstr "Pokazuje twój wynik."
+msgstr "Pokazuje Twój wynik."
 
 msgid "additional-info"
 msgstr "Informacje dodatkowe"
@@ -436,7 +436,7 @@ msgid "matrix-not-for-beginner"
 msgstr "Nieodpowiednia dla początkujących"
 
 msgid "matrix-avoids-systemd"
-msgstr "Unika systemd"
+msgstr "Unika korzystania z systemd"
 
 msgid "built-for-anonymization"
 msgstr "Stworzona dla celów anonimizacji"
@@ -496,7 +496,7 @@ msgstr "Posiada wersję \"Zorin Lite\" dla starszych komputerów"
 
 msgid "matrix-has-windows-like-variant-cinnamon"
 msgstr ""
-"Posiada środowisko graficzne \"cinnamon\", które przypomina system Windows"
+"Posiada środowisko graficzne \"Cinnamon\", które przypomina system Windows"
 
 msgid "systemd-is-avoidable-per-selection"
 msgstr "Systemd może zostać wykluczony przez użytkownika"
@@ -736,7 +736,7 @@ msgstr "Wiele ustawień można wykonać za pomocą interfejsu graficznego"
 
 msgid "hardware-question"
 msgstr ""
-"Musisz wiedzieć jak stary jest twój sprzęt komputerowy, ponieważ niektóre "
+"Musisz wiedzieć jak stary jest Twój sprzęt komputerowy, ponieważ niektóre "
 "dystrybucje nie będą działać na starych komputerach."
 
 msgid "additional-info-hardware"
