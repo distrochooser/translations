@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2022-11-28 15:20+0000\n"
-"Last-Translator: bodamat <bomtvv@gmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Ukrainian <https://translate.distrochooser.de/projects/"
 "distrochooser/translations/uk/>\n"
 "Language: uk\n"
@@ -139,3 +139,9 @@ msgid "welcome-text-a11y"
 msgstr ""
 "Щоб пройти тестування в режимі для людей із вадами зору, натисніть тут ("
 "сторінка оновиться)."
+
+msgid "about-licenses-database"
+msgstr "База даних"
+
+msgid "additional-info"
+msgstr "Додаткова інформація"
