@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-19 10:14+0000\n"
-"PO-Revision-Date: 2022-11-19 10:16+0000\n"
-"Last-Translator: Weblate Admin <mail@chmr.eu>\n"
-"Language-Team: German <http://translate.distrochooser.de/projects/"
+"PO-Revision-Date: 2022-11-28 15:20+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: German <https://translate.distrochooser.de/projects/"
 "distrochooser/translations/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -84,7 +84,7 @@ msgid "recommendation-category"
 msgstr "Unsere Empfehlung"
 
 msgid "welcome-text-title"
-msgstr "Willkommen beim Distrochooser"
+msgstr "Willkommen bei Distrochooser.de"
 
 msgid "welcome-text"
 msgstr "Willkommen auf distrochooser.de. Dieser Test soll dir helfen, dich in der Welt der Linux-Distributionen zu orientieren."
@@ -105,7 +105,9 @@ msgid "welcome-text-remove"
 msgstr "Du kannst Antworten jederzeit löschen"
 
 msgid "welcome-text-feedback"
-msgstr "Gib Feedback!"
+msgstr ""
+"Gib bewerte dein Ergebnis, basierend darauf, wie gut es deinen Anforderungen "
+"genügt!"
 
 msgid "welcome-text-importance"
 msgstr "Du kannst Antworten als wichtig markieren, um ihnen mehr Gewicht zu geben"
@@ -135,13 +137,17 @@ msgid "vote-reminder-negative"
 msgstr "Dir gefällt diese Distribution nicht? Gib uns Feedback!"
 
 msgid "about-intro-text"
-msgstr "Das Ziel von Distrochooser ist es, Anfängern eine Orientierungshilfe in Linux zu geben. Das Ergebnis ist dabei lediglich eine Orientierungshilfe und ist kein Orakel"
+msgstr ""
+"Das Ziel von Distrochooser.de ist es, Anfängern eine Orientierungshilfe in "
+"Linux zu geben. Das Ergebnis ist dabei lediglich eine Orientierungshilfe und "
+"ist kein Orakel und basiert auf den beworbenen und eingesetzten Technologien "
+"der einzelnen Distributionen"
 
 msgid "about-intro-test-count"
 msgstr "Seit dem 14.06.2014 hat Distrochooser %tests% Tests durchgeführt."
 
 msgid "about-licenses"
-msgstr "Distrochooser.de unterliegt einer Doppellizenz"
+msgstr "Distrochooser.de unterliegt einer Doppellizenz."
 
 msgid "privacy-header"
 msgstr "Datenschutzerklärung"
@@ -159,19 +165,24 @@ msgid "about-licenses-database"
 msgstr "Die Datenbank"
 
 msgid "about-licenses-database-text"
-msgstr "Die Inhalte (Frage- & Antwortstruktur, Statistiken, Ergebnismatrizen) unterliegen einer proprietären Lizenz und deren Verwendung bedarf unserer vorherigen Genehmigung. Hiervon ausgeschlossen sind die Beschreibungstexte der Distributionen und deren Bilder. Diese unterliegen den Lizenzen der jeweiligen Rechteinhaber. "
+msgstr ""
+"Die Inhalte (Frage- & Antwortstruktur, Statistiken, Ergebnismatrizen) "
+"unterliegen einer proprietären Lizenz und deren Verwendung bedarf unserer "
+"vorherigen Genehmigung. Hiervon ausgeschlossen sind die Beschreibungstexte "
+"der Distributionen und deren Bilder. Diese unterliegen den Lizenzen der "
+"jeweiligen Rechteinhaber."
 
 msgid "no-results-text"
-msgstr "Wir konnten keine Distributionen ermitteln. "
+msgstr "Wir konnten keine Distributionen ermitteln."
 
 msgid "close-additional-info"
 msgstr "Schließen"
 
 msgid "no-answers"
-msgstr "Wir haben keine Antworten erhalten"
+msgstr "Wir haben keine Antworten erhalten."
 
 msgid "get-my-result"
-msgstr "Ergebnis ermitteln"
+msgstr "Ergebnis ermitteln."
 
 msgid "additional-info"
 msgstr "Zusätzliche Informationen"
@@ -756,3 +767,12 @@ msgstr "# Ergebnisse wurden aufgrund geringer Übereinstimmung ausgeblendet. Kli
 
 msgid "display-options"
 msgstr "Du kannst hier die Anzeige deiner Ergebnisse ändern"
+
+msgid "result-submitted-hint"
+msgstr "Berechne Ergebnis"
+
+msgid "reason-list-header"
+msgstr "Gründe dafür/dagegen"
+
+msgid "ux-concept-tiling"
+msgstr "Ich bevorzuge Tiling-basierte Fensteranordnung"
