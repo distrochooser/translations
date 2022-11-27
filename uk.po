@@ -1,2 +1,141 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2022-11-28 15:20+0000\n"
+"Last-Translator: bodamat <bomtvv@gmail.com>\n"
+"Language-Team: Ukrainian <https://translate.distrochooser.de/projects/"
+"distrochooser/translations/uk/>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.14.2\n"
+
+msgid "ux-concept-category"
+msgstr "Інтерфейс користувача"
+
+msgid "scope-category"
+msgstr "Дистрибуція: Область застосування"
+
+msgid "ideology-category"
+msgstr "Дистрибуція: Ідеологія"
+
+msgid "privacy-category"
+msgstr "Дистрибуція: Приватність"
+
+msgid "software-updates-category"
+msgstr "Програми: Оновлення"
+
+#, fuzzy
+msgid "special-features-category"
+msgstr "Програми: Особливості"
+
+msgid "recommendation-category"
+msgstr "Показати свій результат"
+
+msgid "welcome-text"
+msgstr ""
+"Ласкаво просимо! Цей тест допоможе вам обрати відповідний Linux дистрибутив."
+
+msgid "welcome-text-result-get"
+msgstr ""
+"Ви можете натиснути на \"ваші рекомендації\", щоб отримати свій результат"
+
+msgid "welcome-text-additional-infos"
+msgstr "Ви можете отримати більше інформації, натиснувши на знак питання"
+
+msgid "welcome-text-feedback"
+msgstr ""
+"Будь ласка, оцініть свої результати залежно від того, наскільки вони "
+"відповідають вашим потребам."
+
+msgid "locale-link-de"
+msgstr "Dieser Test steht auch in Deutsch zur Verfügung"
+
+msgid "start-test"
+msgstr "Розпочати тест"
+
+msgid "prev-question"
+msgstr "назад"
+
+msgid "next-question"
+msgstr "далі"
+
+msgid "no-results"
+msgstr "Вибачте, я заблукав"
+
+msgid "about-header"
+msgstr "Про distrochooser.de"
+
+msgid "vote-reminder"
+msgstr "Вам подобається цей дистрибутив? Дайте йому серце!"
+
+msgid "vote-reminder-negative"
+msgstr "Вам не подобається цей дистрибутив? Дайте йому великий палець вниз!"
+
+#, fuzzy
+msgid "privacy"
+msgstr "приватність"
+
+msgid "about"
+msgstr "про цей проєкт"
+
+msgid "vendor-text"
+msgstr "Проєкт авторства chmr.eu"
+
+msgid "get-result"
+msgstr "Отримати результат"
+
+msgid "category-welcome"
+msgstr "Ласкаво просимо!"
+
+msgid "computer-knowledge-category"
+msgstr "Знання компʼютера"
+
+msgid "linux-knowledge-category"
+msgstr "Linux та ви"
+
+msgid "presets-category"
+msgstr "Встановлення: Набори налаштувань"
+
+msgid "loading"
+msgstr "завантаження"
+
+msgid "question-is-multiplechoice"
+msgstr "Ви можете обрати декілька варіантів"
+
+msgid "software-use-case"
+msgstr "Програми: Застосування"
+
+msgid "hardware-category"
+msgstr "Підтримка обладнання"
+
+msgid "help-category"
+msgstr "Джерело допомоги"
+
+msgid "price-category"
+msgstr "Дистрибуція: Ціна"
+
+msgid "software-admin-category"
+msgstr "Адміністрація"
+
+msgid "welcome-text-title"
+msgstr "Ласкаво просимо до distrochooser.de!"
+
+msgid "welcome-text-skip"
+msgstr "Ви можете пропускати запитання"
+
+msgid "welcome-text-order"
+msgstr "Ви можете відповідати в довільному порядку"
+
+msgid "welcome-text-remove"
+msgstr "Ви можете видалити відповіді в будь-який момент"
+
+msgid "welcome-text-importance"
+msgstr "Позначте відповіді як важливі, щоб надати їм більшої ваги"
+
+msgid "welcome-text-a11y"
+msgstr ""
+"Щоб пройти тестування в режимі для людей із вадами зору, натисніть тут ("
+"сторінка оновиться)."
