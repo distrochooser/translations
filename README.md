@@ -1,10 +1,5 @@
 # Distrochooser translations
 
-**THIS IS WORK IN PROGRESS**
-**THIS IS WORK IN PROGRESS**
-**THIS IS WORK IN PROGRESS**
-**THIS IS WORK IN PROGRESS**
-
 <img src="https://distrochooser.de/logo.min.svg" width="50%" >
 
 You want to support the [distrochooser](https://distrochooser.de)? You can help us with a translation in your language!
