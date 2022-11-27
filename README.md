@@ -15,7 +15,7 @@ You want to support the [distrochooser](https://distrochooser.de)? You can help 
 
 # How to translate?
 
-## By hand (as previously done)
+## By hand (as previously done) using an pull request
 
 - You can use the workflow decribed in https://github.com/distrochooser/distrochooser/blob/master/CONTRIBUTING.md
 
@@ -26,7 +26,9 @@ In general, you can use the Weblate instance anonymously, but there are some fea
 
 You can find the current translations on https://translate.distrochooser.de/projects/distrochooser/translations/.
 
-#### Data privacy remarks
+If you finished a translation 
+
+### Data privacy remarks for translate.distrochooser.de
 
 - If you contribute with an account, your email will be **visible**
 
@@ -34,7 +36,9 @@ You can find the current translations on https://translate.distrochooser.de/proj
 
 Weblate currently seems not to support omitting the Email in Commits: https://github.com/WeblateOrg/weblate/issues/6508
 
-- You can download your data and delete the account (if desired) on https://translate.distrochooser.de/accounts/profile/#account
+If you finished you can download your data and delete the account (if desired) on https://translate.distrochooser.de/accounts/profile/#account
+
+- If you have any other questions, feel free to drop a mail on mail@distrochooser.de
 
 **Thank you for your interest in contributing** 🥳
 
