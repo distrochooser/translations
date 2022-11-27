@@ -22,11 +22,11 @@ You want to support the [distrochooser](https://distrochooser.de)? You can help 
 
 ## Weblate on translate.distrochooser.de
 
-In general, you can use the Weblate instance anonymously, but there are some features, such as commenting which will require an account. If you wish to register, you can use GitHub or Email to sign up (Please note the privacy remarks below). **You can use an alias/nickname etc. I won't require you to use a clear name.**
+In general, you can use the Weblate instance anonymously, but there are some features, such as commenting which will require an account. If you wish to register, you can use GitHub or Email to sign up (Please note the privacy remarks below). **You can use an alias/nickname etc. I won't require you to use a clear name!**
 
 You can find the current translations on https://translate.distrochooser.de/projects/distrochooser/translations/.
 
-If you finished a translation 
+**I will check multiple times per month if new translations are present. Once a translation reaches 100%, it will deployed to distrochooser.de. I will add your user handle to the contributor list as seen on https://github.com/distrochooser/distrochooser. If you want not to be listed/ listed with another name or have other questions feel free to open an issue or drop an email to the address listed below.**
 
 ### Data privacy remarks for translate.distrochooser.de
 
@@ -38,12 +38,6 @@ Weblate currently seems not to support omitting the Email in Commits: https://gi
 
 If you finished you can download your data and delete the account (if desired) on https://translate.distrochooser.de/accounts/profile/#account
 
-- If you have any other questions, feel free to drop a mail on mail@distrochooser.de
+If you have any other questions you want to discuss privately, feel free to drop a mail on mail@distrochooser.de
 
 **Thank you for your interest in contributing** 🥳
-
-# Current status
-
-<a href="https://translate.distrochooser.de/engage/distrochooser/">
-<img src="https://translate.distrochooser.de/widgets/distrochooser/-/translations/multi-blue.svg" alt="Translation status" />
-</ater
