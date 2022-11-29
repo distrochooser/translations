@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-30 15:20+0000\n"
+"PO-Revision-Date: 2022-11-30 15:20+0000\n"
+"Last-Translator: Marcelo dos Santos Mafra <msmafra@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) <https://translate.distrochooser.de/"
+"projects/distrochooser/translations/pt_BR/>\n"
+"Language: pt-br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.14.2\n"
+
 msgid "loading"
 msgstr "carregando"
 
@@ -74,7 +90,7 @@ msgid "welcome-text"
 msgstr "Bem-vindo! Este teste pode ajudá-lo a escolher uma distribuição de Linux adequada."
 
 msgid "welcome-text-skip"
-msgstr "Você pode pular perguntas a qualquer momento."
+msgstr "Você pode sempre pular perguntas"
 
 msgid "welcome-text-result-get"
 msgstr "Você pode clicar em 'sua recomendação' para receber seu resultado a qualquer momento"
@@ -86,7 +102,7 @@ msgid "welcome-text-additional-infos"
 msgstr "Pode receber informação adicional utilizando ícone de interrogação"
 
 msgid "welcome-text-remove"
-msgstr "Você pode apagar respostas a qualquer momento."
+msgstr "Você pode sempre apagar"
 
 msgid "welcome-text-feedback"
 msgstr "Classifique seus resultados de acordo com o quanto se adequam às suas necessidades."
@@ -173,7 +189,9 @@ msgid "share-result"
 msgstr "compartilhar meu resultado"
 
 msgid "software-use-case-question"
-msgstr "Algumas distribuições possuem um  propósito especial, outras para uso diário. Qual é a sua necessidade?"
+msgstr ""
+"Algumas distribuições tem um propósito especial, algumas para uso diário. "
+"Qual é a sua necessidade?"
 
 msgid "software-use-case-answer-daily"
 msgstr "Quero uma distribuição para uso diário."
@@ -200,13 +218,13 @@ msgid "linux-knowledge-question"
 msgstr "Como você classifica seu conhecimento em Linux?"
 
 msgid "linux-knowledge-answer-beginner"
-msgstr "Tenho pouco ou nenhum conhecimento sobre Linux."
+msgstr "Tenho pouco ou nenhum conhecimento sobre Linux"
 
 msgid "linux-knowledge-answer-advanced"
-msgstr "Tenho usado Linux para alguns propósitos."
+msgstr "Já usei Linux para alguns propósitos"
 
 msgid "linux-knowledge-answer-professional"
-msgstr "Tenho um bom conhecimento sobre o sistema Linux."
+msgstr "Tenho um bom conhecimento sobre o sistema operacional Linux"
 
 msgid "presets-question"
 msgstr "Quantas configurações deseja modificar por você mesmo durante a instalação? Quantas variáveis de configuração devem estar com valores predeterminados?"
@@ -236,10 +254,10 @@ msgid "help-question"
 msgstr "Algumas distribuições preferem artigos em wikis para solucionar problemas. O que você prefere?"
 
 msgid "help-question-tutorials"
-msgstr "Sou capaz de resolver meus problemas consultando páginas wiki e tutoriais."
+msgstr "Sou capaz de resolver meus problemas usando guias wiki e tutoriais"
 
 msgid "help-question-user-exchange"
-msgstr "Prefiro pedir ajuda para os outros."
+msgstr "Prefiro pedir ajuda para outros"
 
 msgid "ux-concept-question"
 msgstr "Linux pode usar muitas interfaces de usuário diferentes (\"ambientes gráficos\"). Muitas distribuições instalam um ambiente gráfico por padrão. É importante saber se existe alguma preferencia por conceito de ambiente gráfico. Posso mudar e instalar novos ambientes gráficos a qualquer momento!"
@@ -326,7 +344,8 @@ msgid "privacy-answer-highprivacy"
 msgstr "Não quero isso"
 
 msgid "privacy-answer-services-ok"
-msgstr "Se melhora minha experiência de usuário, aceito serviços em segundo plano."
+msgstr ""
+"Se melhora minha experiência de usuário, aceito serviços em segundo plano"
 
 msgid "software-admin-question"
 msgstr "Existem muitas formas de administrar uma distribuição Linux, por exemplo, para instalar software."
@@ -341,7 +360,10 @@ msgid "special-features-qestion"
 msgstr "Algumas distribuições tem características adicionais para propósitos específicos. Necessito disso?"
 
 msgid "additional-info-special-features-qestion"
-msgstr "Muitas distribuições usam 'systemd' para iniciar o própio sistema operacional. Algunas distribuições não utilizam o systemd em favor de soluções alternativas e, por isso, algumas são rapidas na inicialização."
+msgstr ""
+"Várias distribuições usam 'systemd' para iniciar o própio sistema "
+"operacional. Algunas distribuições evitam o systemd em favor de soluções "
+"alternativas e algumas mais leves"
 
 msgid "answer-isolation"
 msgstr "As aplicações devem ser executadas de forma isolada por predeterminação"
@@ -395,16 +417,17 @@ msgid "reason-list-header-neutral"
 msgstr "Esses critérios não podem ser bons como este"
 
 msgid "reason-list-header-blocked-by-others"
-msgstr "Esta resposta está bloqueada por outras respostas que respondi."
+msgstr "Esta resposta está bloqueada por outras respostas que respondi"
 
 msgid "matrix-supports-daily-usage"
 msgstr "Adequada para uso diário"
 
 msgid "matrix-privacy-not-beneficial"
-msgstr "O conceito de distribuição não é beneficioso para finalidade de anonimização."
+msgstr ""
+"O conceito de distribuição não é beneficioso para finalidade de anonimização"
 
 msgid "matrix-supports-gaming-usage"
-msgstr "A distribuição conta com um apoio ativo para os editores de jogos."
+msgstr "A distribuição conta com um apoio ativo para os editores de jogos"
 
 msgid "matrix-beginner-knowledge"
 msgstr "Adequado para iniciantes"
@@ -443,10 +466,10 @@ msgid "matrix-hardware-newpc"
 msgstr "Funciona com o hardware mais recente"
 
 msgid "matrix-user-exchange"
-msgstr "Existem comunidades de usuários para compartilhar conhecimento."
+msgstr "Existem comunidades de usuários para compartilhar conhecimento"
 
 msgid "matrix-tutorial"
-msgstr "Existem tutoriais de solução de problemas e solução de problemas."
+msgstr "Existem tutoriais para diagnosticar e de solução de problemas"
 
 msgid "matrix-mac-like"
 msgstr "O conceito de GUI tem elementos do macOS"
@@ -455,13 +478,13 @@ msgid "matrix-windows-like-not-fullfilled"
 msgstr "O conceito de GUI difere muito do Windows"
 
 msgid "matrix-closed-expierience"
-msgstr "Tem seus próprios papéis de parede, ícones e temas."
+msgstr "Tem seus próprios papéis de parede, ícones e temas"
 
 msgid "matrix-has-windows-like-variant"
 msgstr "Tem variantes com uma interface de usuário semelhante ao Windows"
 
 msgid "matrix-paid-version-existing"
-msgstr "Existe uma versão não-livre desta distribuição."
+msgstr "Existe uma versão não-livre desta distribuição"
 
 msgid "matrix-gaming-packages-stable-but-old"
 msgstr "As versões de software podem não ser recentes o suficiente para serem reproduzidas"
@@ -476,13 +499,13 @@ msgid "matrix-without-fee"
 msgstr "Utilizável gratuitamente"
 
 msgid "matrix-paid"
-msgstr "Existe uma versão paga desta distribuição."
+msgstr "Existe uma versão paga desta distribuição"
 
 msgid "matrix-fullinstall"
 msgstr "Instalar todos os programas necessários"
 
 msgid "matrix-ownscope-install"
-msgstr "Todos os programas a serem usados ​​devem ser escolhidos por você mesmo"
+msgstr "Todos os programas a serem usados devem ser escolhidos por você mesmo"
 
 msgid "matrix-free-software-unfree-per-default"
 msgstr "Programas de código fechado são instalados por padrão"
@@ -491,7 +514,7 @@ msgid "matrix-enforces-free"
 msgstr "Reforçar o uso de software livre"
 
 msgid "matrix-mostly-free"
-msgstr "Funciona principalmente com software livre."
+msgstr "Funciona principalmente com software livre"
 
 msgid "matrix-has-default-settings"
 msgstr "Tem configurações padrão"
@@ -509,7 +532,7 @@ msgid "matrix-console"
 msgstr "A instalação do software pode ser feita usando o terminal"
 
 msgid "matrix-stable-updates"
-msgstr "Atualizações são principalmente estáveis ​​quando lançadas"
+msgstr "Atualizações são sobretudo estáveis quando lançadas"
 
 msgid "matrix-fast-updates"
 msgstr "As atualizações de software são lançadas o mais rápido possível, o que as torna instáveis"
@@ -527,7 +550,7 @@ msgid "matrix-updates-fast"
 msgstr "As atualizações são rápidas, mas podem ser instáveis"
 
 msgid "matrix-not-for-beginner"
-msgstr "Não é adequado para iniciantes."
+msgstr "Não é adequado para iniciantes"
 
 msgid "matrix-avoids-systemd"
 msgstr "Evitar systemd"
@@ -545,7 +568,7 @@ msgid "matrix-oldpc-no-32bit"
 msgstr "Não compatível com computadores mais antigos sem suporte de 64 bits"
 
 msgid "matrix-requires-manual"
-msgstr "Requer a leitura de manuais e tutoriais."
+msgstr "Requer a leitura de manuais e tutoriais"
 
 msgid "matrix-requires-advanced-knowledge"
 msgstr "Requer a leitura de manuais para uso"
@@ -569,7 +592,7 @@ msgid "matrix-supports-daily-usage-but-built-for-livemode"
 msgstr "Pode ser usado para o trabalho diário, mas é projetado para o modo ao vivo"
 
 msgid "matrix-packages-available"
-msgstr "Programas para fins de anonimização estão disponíveis."
+msgstr "Programas para fins de anonimização estão disponíveis"
 
 msgid "matrix-packages-may-too-old-gaming"
 msgstr "As versões do programa podem não estar atualizadas o suficiente para serem reproduzidas"
@@ -584,13 +607,13 @@ msgid "matrix-not-built-for-gaming"
 msgstr "Não está optimizado para jogos"
 
 msgid "requires-some-computer-knowledge"
-msgstr "Requer mais conhecimentos sobre informática."
+msgstr "Requer mais conhecimentos sobre informática"
 
 msgid "matrix-maybe-not-for-beginner"
-msgstr "Não é adequada para iniciantes."
+msgstr "Não é adequada para iniciantes"
 
 msgid "matrix-installation-from-shell"
-msgstr "A instalação é realizada pelo terminal."
+msgstr "A instalação é realizada pelo terminal"
 
 msgid "matrix-installs-range-of-programs"
 msgstr "Instala uma variedade de programas por padrão"
@@ -608,7 +631,9 @@ msgid "matrix-has-zorin-lite-version"
 msgstr "Tem uma versão 'Zorin Lite' para computadoras antigos"
 
 msgid "matrix-has-windows-like-variant-cinnamon"
-msgstr "Uma variante que inclui o ambiente gráfico 'cinnamon', tem uma aparência similar ao Windows."
+msgstr ""
+"Uma variante que inclui o ambiente gráfico 'cinnamon', que tem uma aparência "
+"similar ao Windows"
 
 msgid "systemd-is-avoidable-per-selection"
 msgstr "Systemd pode ser evitado se selecionado pelo usuário"
@@ -674,7 +699,9 @@ msgid "description-popos"
 msgstr "Pop!_OS é uma distribuição da System76 baseada na Ubuntu com o ambiente gráfico GNOME personalizado"
 
 msgid "description-fedora"
-msgstr "Fedora é uma distribuição com suporte da Red Hat focada principalmente em software livre."
+msgstr ""
+"Fedora é uma distribuição com suporte da Red Hat focada principalmente em "
+"software livre"
 
 msgid "description-qubeos"
 msgstr "Qubes OS isola aplicações em máquinas virtuais para melhorar a segurança"
@@ -686,7 +713,9 @@ msgid "description-mxlinux"
 msgstr "MX Linux é uma distribuição de uso intermediário de recursos que foca no uso diário com uma interface eficiente e elegante."
 
 msgid "description-knoppix"
-msgstr "Knoppix é uma  sistema operacional focada em \"uso ao vivo\" com uma ampla gama de suporte à hardware"
+msgstr ""
+"Knoppix é um sistema operacional focado em \"uso ao vivo\" com uma ampla "
+"gama de suporte à hardware"
 
 msgid "description-cruxlinux"
 msgstr "Crux Linux é uma sistema operacional 64 bits leve com ferramentas e bibliotecas recentes"
@@ -782,7 +811,9 @@ msgid "welcome-text-a11y"
 msgstr "Clique aqui para fazer o teste de forma adaptada para pessoas com deficiência visual (a página será atualizada para isso)."
 
 msgid "distributions-hidden"
-msgstr "# distribuições foram ocultadas devido à baixa correspondência. Clique aqui para ver todas as distribuições"
+msgstr ""
+"# Distribuições foram ocultadas devido à baixa correspondência. Clique aqui "
+"para ver todas as distribuições."
 
 msgid "display-options"
-msgstr "Você pode mudar a exibição de seus resultados aqui"    
+msgstr "Você pode mudar a exibição de seus resultados aqui"
