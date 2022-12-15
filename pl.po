@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-23 13:20+0000\n"
+"PO-Revision-Date: 2022-12-16 15:22+0000\n"
 "Last-Translator: Jacek <jackes112@gmail.com>\n"
 "Language-Team: Polish <https://translate.distrochooser.de/projects/"
 "distrochooser/translations/pl/>\n"
@@ -672,7 +672,7 @@ msgid "display-options"
 msgstr "Tutaj możesz zmienić sposób wyświetlania swoich wyników"
 
 msgid "privacy-category"
-msgstr "Distributions: Prywatność"
+msgstr "Dystrybucje: Prywatność"
 
 msgid "welcome-text"
 msgstr "Witamy! Ten test pomoże Ci wybrać odpowiednią dystrybucję Linuksa."
