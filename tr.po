@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-19 00:05+0000\n"
+"PO-Revision-Date: 2022-12-19 00:05+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Turkish <https://translate.distrochooser.de/projects/"
+"distrochooser/translations/tr/>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.14.2\n"
+
 msgid "loading"
 msgstr "yükleniyor"
 
@@ -184,7 +200,6 @@ msgstr "Anonim bir şekilde Internet'te gezebilmek için Linux kullanmak istiyor
 msgid "software-use-case-answer-gaming"
 msgstr "Oyun yapımcıları tarafından desteklenen bir Dağıtımı kullanmak istiyorum"
 
-
 msgid "computer-knowledge-question"
 msgstr "Bilgisayar kullanma yeterliliğinizi nasıl değerlendirirsiniz?"
 
@@ -196,7 +211,6 @@ msgstr "Bilgisayarımdaki bazı problemleri zaten kendi başıma çözebiliyorum
 
 msgid "computer-knowledge-answer-professional"
 msgstr "Bilgisayarımdaki sorunların çoğunu ya da tamamını kendi başıma çözebiliyorum."
-
 
 msgid "linux-knowledge-question"
 msgstr "Linux hakkındaki bilginizi nasıl değerlendirirsiniz?"
@@ -210,7 +224,6 @@ msgstr "Bazı amaçlar için zaten Linux kullandım."
 msgid "linux-knowledge-answer-professional"
 msgstr "Linux hakkında iyi bir anlayışa sahibim."
 
-
 msgid "presets-question"
 msgstr "Kurulum sırasında kendi başınıza kaç ayar yapmak istersiniz? Varsayılan değerlerle kaç yapılandırma değişkeni doldurulmalıdır?"
 
@@ -222,7 +235,6 @@ msgstr "Ayarları kendim seçmek istiyorum."
 
 msgid "presets-question-answer-guiselections"
 msgstr "Grafik uygulamaları kullanarak mümkün olduğunca yapılandırmak istiyorum"
-
 
 msgid "hardware-question"
 msgstr "Bazı dağıtımlar eski bilgisayarlarda çalışmadığından bilgisayarınızın kaç yaşında olduğunu bilmek bizim için çok önemli"
@@ -236,7 +248,6 @@ msgstr "Bundan emin değilim ve/veya bilgisayarımda zaten performans sorunları
 msgid "hardware-question-newpc"
 msgstr "Bilgisayarımın performansı iyi, herhangi bir performans sorunu yaşamıyorum, donanımım 64 biti destekliyor."
 
-
 msgid "help-question"
 msgstr "Bazı Dağıtımlar'da sorunların çözümü Wiki sayfalarındaki makalelerde olur. Ne tercih edersin?"
 
@@ -245,7 +256,6 @@ msgstr "Sorunlarımı Wiki sayfalarındaki kılavuzları veya öğreticileri kul
 
 msgid "help-question-user-exchange"
 msgstr "Başkalarından yardım istemeyi tercih ederim."
-
 
 msgid "ux-concept-question"
 msgstr "Linux birçok farklı kullanıcı arayüzü (\"Masaüstü\") kullanabilir. Birçok dağıtım varsayılan bir masaüstü ile gelir. Bir masaüstü tarzı tercihiniz olup olmadığını bilmek önemlidir. Unutmayın, istediğiniz zaman yeni masaüstleri kurabilir ve değiştirebilirsiniz."
@@ -271,7 +281,6 @@ msgstr "Kullanımı ücretsiz bir Dağıtımı tercih ederim."
 msgid "price-answer-paid"
 msgstr "Ücret ödeyebilirim."
 
-
 msgid "scope-question"
 msgstr "Farklı dağıtımlar, farklı miktarda yazılımı ön yüklü olarak kullanımına sunar. Bazıları, \"Kurulum sonrası direkt kullanım\" için eksiksiz bir paket kurar. Diğer dağıtımlar kullanıcının kullanmak istediği programları yüklemesine izin vermek için yalnızca temel bir kurulum sunar."
 
@@ -280,7 +289,6 @@ msgstr "Kurulum sonrasında direkt kullanıma hazır bir Dağıtım kullanmayı 
 
 msgid "scope-answer-ownselection"
 msgstr "Kendim kurmak için temel programları seçmek istiyorum."
-
 
 msgid "ideology-question"
 msgstr "Bir Dağıtımın (lisans) ideolojisi tartışmalı bir konudur. Çoğunlukla \"Ücretsiz Lisans\" kullanan dağıtımlar vardır, diğerleri de \"Özgür Olmayan\" yazılımları kullanır"
@@ -294,7 +302,6 @@ msgstr "Olabildiğince özgür yazılım kullanmayı tercih ederim."
 msgid "ideology-answer-proprietary-ok"
 msgstr "Sistemim çalıştığı sürece özgür olmayan yazılımlarla ilgili bir sorunum yok."
 
-
 msgid "privacy-question"
 msgstr "Bazı dağıtımlar, kullanıcı deneyimini geliştirmek için çevrim içi hizmetleri kullanır. Bu, kullanıcının gizliliğini etkileyebilir, yani kullanıcı çevrim içi özellikler kullanırken takip edilebilir-izlenebilir."
 
@@ -303,7 +310,6 @@ msgstr "Bunu istemiyorum"
 
 msgid "privacy-answer-services-ok"
 msgstr "Kullanıcı deneyimimi geliştirirse, bu tür çevrim içi hizmetleri kullanmayı kabul edebilirim."
-
 
 msgid "software-admin-question"
 msgstr "Bir Linux dağıtımını yönetmenin birçok yolu vardır. Örneğin uygulama kurmak."
@@ -314,7 +320,6 @@ msgstr "Programlarımı bir çeşit \"Uygulama Yükleyicisi\" kullanarak yüklem
 msgid "software-admin-answer-console"
 msgstr "Çoğunlukla terminal komutlarını kullanarak uygulama yüklemek istiyorum."
 
-
 msgid "special-features-qestion"
 msgstr "Bazı dağıtımların belirli amaçlar için ek özellikleri vardır. Bu tür özelliklere ihtiyacın var mı?"
 
@@ -323,7 +328,6 @@ msgstr "Birçok dağıtım, işletim sistemini başlatmak için 'systemd' kullan
 
 msgid "answer-isolation"
 msgstr "Uygulamalar varsayılan olarka yalıtılmış bir ortamda çalışmalıdır."
-
 
 msgid "software-updates-question"
 msgstr "Bazı Dağıtımlar, sistem kararlılığını etkileyebilecek daha hızlı güncellemeler sunar. Hangisini tercih edersin?"
@@ -339,7 +343,6 @@ msgstr "Systemd'den kaçınmak istiyorum."
 
 msgid "result-submitted-hint"
 msgstr "Sonuçlar hesaplanıyor."
-
 
 msgid "reason-header-hint"
 msgstr "Bu önerinin ayrıntılı nedenlerini görmek için dağıtımın adına tıklayın."
@@ -603,7 +606,6 @@ msgid "matrix-free-userselection"
 msgstr "Özgür yazılımın kullanımı kullanıcı seçimlerine bağlıdır."
 
 # distribution descriptions
-
 msgid "description-manjaro"
 msgstr "Manjaro kullanıcı dostu olmaya odaklanan, sürekli güncelleme olarak bir Dağıtımdır."
 
@@ -686,7 +688,6 @@ msgid "locale-tr"
 msgstr "turkish"
 
 # update pack 26th december 2019
-
 msgid "debian-updates-slow"
 msgstr "Debian güncellemeleri genellikle stabil olması için yavaştır"
 
@@ -766,4 +767,10 @@ msgid "distributions-hidden"
 msgstr "# sonuç, zayıf uyum nedeniyle gizlendi. Tüm dağıtımları görüntülemek için buraya tıklayın."
 
 msgid "display-options"
-msgstr "Sonuçlarınızın görüntüsünü buradan değiştirebilirsiniz"    
+msgstr "Sonuçlarınızın görüntüsünü buradan değiştirebilirsiniz"
+
+msgid "locale-link-de"
+msgstr "Bu test ayrıca Almanca olarak da mevcuttur"
+
+msgid "locale-de"
+msgstr "Almanca"
