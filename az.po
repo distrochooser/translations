@@ -1,2 +1,936 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2022-12-19 00:05+0000\n"
+"Last-Translator: Agayev033 <aqayev10.qa@gmail.com>\n"
+"Language-Team: Azerbaijani <https://translate.distrochooser.de/projects/"
+"distrochooser/translations/az/>\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.14.2\n"
+
+msgid "imprint"
+msgstr "Möhür"
+
+msgid "privacy"
+msgstr "Məxfilik"
+
+msgid "vendor-text"
+msgstr "Bu bir chmr.eu proyektidir"
+
+msgid "get-result"
+msgstr "Nəticəni əldə et"
+
+msgid "computer-knowledge-category"
+msgstr "Kompüter biliyiniz"
+
+msgid "presets-category"
+msgstr "Quraşdırma: Hazır Parametrlər"
+
+msgid "hardware-category"
+msgstr "Aparat Təminatı dəstəyi"
+
+msgid "help-category"
+msgstr "Kömək üçün mənbə"
+
+msgid "ux-concept-category"
+msgstr "İstifadəçi təcrübəsi"
+
+msgid "software-admin-category"
+msgstr "İdarə"
+
+msgid "recommendation-category"
+msgstr "Nəticələrinizi göstərin"
+
+msgid "category-welcome"
+msgstr "Xoş gəldiniz!"
+
+msgid "scope-category"
+msgstr "Paylanmalar (Distribution) : Əhatə dairəsi"
+
+msgid "ideology-category"
+msgstr "Paylanmalar (Distribution) : İdeologiya"
+
+msgid "privacy-category"
+msgstr "Paylanmalar (Distribution) : Məxfilik"
+
+msgid "welcome-text-title"
+msgstr "distrochooser.de saytına xoş gəldiniz!"
+
+msgid "welcome-text-skip"
+msgstr "Siz həmişə cavablandırmaq istəmədiyiniz sualları keçə bilərsiniz"
+
+msgid "welcome-text-result-get"
+msgstr ""
+"Nəticənizi almaq üçün hər zaman \"tövsiyəniz\" üzərinə klikləyə edə "
+"bilərsiniz"
+
+msgid "welcome-text-additional-infos"
+msgstr "Əlavə məlumatı sual işarəsindən istifadə edərək əldə edə bilərsiniz"
+
+msgid "welcome-text-remove"
+msgstr "İstənilən zaman cavablarınızı silə bilərsiniz"
+
+msgid "welcome-text-importance"
+msgstr "Cavablara daha çox ağırlıq vermək üçün vacib olaraq qeyd edə bilərsiniz"
+
+msgid "locale-link-de"
+msgstr "Bu test Alman dilində də mövcuddur"
+
+msgid "start-test"
+msgstr "Testə başlayın"
+
+msgid "prev-question"
+msgstr "geri qayıdın"
+
+msgid "next-question"
+msgstr "davam edin"
+
+msgid "no-results"
+msgstr "Üzr istəyirəm, Mən məğlub oldum"
+
+msgid "about-header"
+msgstr "distrochooser.de haqqında"
+
+msgid "vote-reminder"
+msgstr "Bu paylamanı bəyənirsiniz? O zaman ona bir ürək verin!"
+
+msgid "vote-reminder-negative"
+msgstr "Bu paylamanı bəyənmirsiniz? O zaman onu bəyənmədiyinizi göstərin!"
+
+msgid "about-intro-test-count"
+msgstr ""
+"14 iyun 2014-cü ildən bəri distrochooser.de %tests% test qiymətləndirib."
+
+msgid "about-licenses"
+msgstr "Distoechooser ikili lisenziyalıdır."
+
+msgid "privacy-header"
+msgstr "Verilənlərin qorunması"
+
+msgid "imprint-header"
+msgstr "Möhür"
+
+msgid "about-licenses-source"
+msgstr "Mənbə kodu"
+
+msgid "about-licenses-source-text"
+msgstr ""
+"Mənbə kodu əlaqəli depoda yerləşdirilən 'LICENSE' faylında yazılmış "
+"lisenziyaya əsasən lisenziyalaşdırılır."
+
+msgid "about-licenses-database"
+msgstr "Verilənlər bazası"
+
+msgid "software-use-case"
+msgstr "Proqram Təminatı: İstifadə səbəbiniz"
+
+msgid "software-updates-category"
+msgstr "Proqram Təminatı: Yeniləmələr"
+
+msgid "close-additional-info"
+msgstr "Bağla"
+
+msgid "no-answers"
+msgstr "Cavab vermədiniz."
+
+msgid "get-my-result"
+msgstr "Sizə nəticələrinizi göstərər."
+
+msgid "additional-info"
+msgstr "Əlavə məlumat"
+
+msgid "remark-placeholder"
+msgstr "Sizin rəyiniz (maks 3000 hərf)"
+
+msgid "distribution-homepage"
+msgstr "Paylanma (Distribution) ana səhifəsi"
+
+msgid "result-remarks-added"
+msgstr "Rəyiniz üçün təşəkkürlər!"
+
+msgid "share-result"
+msgstr "Nəticələrimi paylaş"
+
+msgid "software-use-case-answer-daily"
+msgstr "Mən gündəlik istifadə üçün bir paylanma istəyirəm."
+
+msgid "software-use-case-anonymous-answer"
+msgstr ""
+"Mən anonim olaraq internetdə gəzmək üçün Linuxdan istifadə etmək istəyirəm."
+
+msgid "computer-knowledge-question"
+msgstr "Kompüterdən istifadə bacarığınızı necə qiymətləndirərdiniz?"
+
+msgid "computer-knowledge-answer-beginner"
+msgstr ""
+"Kompüterimlə bağlı olan problemləri həll etmək üçün tez-tez başqalarının "
+"köməyinə ehtiyacım olur"
+
+msgid "computer-knowledge-answer-professional"
+msgstr "Kompüter problemlərinin çoxunu və ya hamısını özüm həll edə bilərəm"
+
+msgid "linux-knowledge-question"
+msgstr "Linuxun özü haqqında olan biliklərinizi necə qiymətləndirərdiniz?"
+
+msgid "linux-knowledge-answer-beginner"
+msgstr "Linux haqqında məlumatım azdır və ya heç yoxdur"
+
+msgid "linux-knowledge-answer-professional"
+msgstr "Linux əməliyyat sistemi haqqında yaxşı anlayışım var"
+
+msgid "presets-question-answer-manypresets"
+msgstr ""
+"Quraşdırma köməkçisində standart hazır parametr dəyərlərdən istifadə etmək "
+"istəyirəm"
+
+msgid "presets-question-answer-ownselection"
+msgstr "Parametrləri özüm seçmək istəyirəm"
+
+msgid "presets-question-answer-guiselections"
+msgstr ""
+"Qrafik proqramlardan istifadə edərək mümkün olduğu qədər konfiqurasiya etmək "
+"istəyirəm"
+
+msgid "hardware-question-oldpc"
+msgstr ""
+"Mən bunun haqqında əmin deyiləm və/yaxud mənim kompüterimdə çoxdandır "
+"performans problemlərinə sahiblik edir və/yaxud yalnız 32 biti dəstəkləyir"
+
+msgid "hardware-question-newpc"
+msgstr ""
+"Kompüterimin performansı yaxşıdır, heç bir performans problemi yaşamıram, "
+"aparat təminatım 64 bit dəstəkləyir"
+
+msgid "help-question"
+msgstr ""
+"Bəzi paylanmalar problemlərin aradan qaldırılması üçün vikilərdəki "
+"məqalələrə üstünlük verir. Siz nəyə üstünlük verirsiniz?"
+
+msgid "help-question-tutorials"
+msgstr ""
+"Problemlərimi viki səhifələrindən və ya tyutoriallardan istifadə edərək həll "
+"edə bilirəm"
+
+msgid "help-question-user-exchange"
+msgstr "Başqalarından kömək istəməyə üstünlük verirəm"
+
+msgid "ux-concept-answer-windows-like"
+msgstr "Mən windows bənzəri istifadəçi interfeysinə üstünlük verirəm"
+
+msgid "ux-concept-answer-mac-like"
+msgstr "Mən macOS bənzəri istifadəçi interfeysinə üstünlük verirəm"
+
+msgid "ux-concept-tiling"
+msgstr ""
+"Mən kafel bənzəri pəncərə görünüşünə (Tiling window manager) üstünlük verirəm"
+
+msgid "ux-concept-closed-expierience"
+msgstr "Mən qapalı təcrübəyə üstünlük verirəm"
+
+msgid "price-question"
+msgstr ""
+"Paylanmaların əksəriyyəti pulsuzdur. Bəzi paylamalar birdəfəlik ödəniş ilə "
+"əlavə dəstək təklif edir."
+
+msgid "price-answer-free"
+msgstr "Mən pulsuz paylanmaya üstünlük verirəm"
+
+msgid "scope-answer-fullinstall"
+msgstr ""
+"Mən quraşdırmadan dərhal sonra işə başlamaq üçün lazım olan bütün əsas "
+"proqramları birlikdə göndərən paylanmaya üstünlük verirəm"
+
+msgid "scope-answer-ownselection"
+msgstr ""
+"Mən özüm quraşdırma etmək üçün sadəcə əsas proqramları quraşdırma edəni "
+"seçmək istəyirəm"
+
+msgid "ideology-answer-proprietary-ok"
+msgstr "Sistemim işlədiyi müddətcə qeyri-azad lisenziyalardan razıyam"
+
+msgid "privacy-question"
+msgstr ""
+"Bəzi paylanmalar istifadəçi təcrübəsini yaxşılaşdırmaq üçün onlayn "
+"xidmətlərdən istifadə edir. Bu, istifadəçinin məxfiliyinə təsir göstərə "
+"bilər, yəni istifadəçi bu cür onlayn funksiyalardan istifadə edərkən "
+"izlənilə bilər."
+
+msgid "privacy-answer-highprivacy"
+msgstr "Bunu istəmirəm"
+
+msgid "privacy-answer-services-ok"
+msgstr ""
+"Əgər bu, mənim istifadəçi təcrübəmi yaxşılaşdırırsa, mən bu cür onlayn "
+"xidmətlərdən istifadə ilə razıyam"
+
+msgid "software-admin-question"
+msgstr ""
+"Linux paylamasını idarə etməyin bir çox yolu var, məs. proqram təminatı "
+"quraşdırmaq üçün."
+
+msgid "software-admin-answer-console"
+msgstr ""
+"Mən proqram təminatını əsasən terminal əmrlərindən istifadə etməklə "
+"quraşdırmaq istəyirəm"
+
+msgid "answer-isolation"
+msgstr "Tətbiqlər standart olaraq təcrid olunmuş mühitdə icra edilməlidir"
+
+msgid "software-updates-question"
+msgstr ""
+"Bəzi paylanmalar sistemin sabitliyinə təsir edə biləcək daha sürətli "
+"yeniləmələr təklif edir. Siz nəyə üstünlük verirsiniz?"
+
+msgid "software-updates-answer-fast"
+msgstr "Mən sürətli yenilənmələrə üstünlük verirəm"
+
+msgid "software-updates-answer-slow"
+msgstr "Mən stabil yenilənmələrə üstünlük verirəm"
+
+msgid "answer-avoid-systemd"
+msgstr "Mən systemd'dən yayınmaq istəyirəm"
+
+msgid "result-submitted-hint"
+msgstr "Nəticəniz hesablanır"
+
+msgid "reason-header-hint"
+msgstr "Bu tövsiyənin ətraflı səbəblərini görmək üçün paylanma adına klikləyin"
+
+msgid "reason-list-header"
+msgstr "Səbəbi/ əleyhinə"
+
+msgid "answer-is-blocking"
+msgstr "Aşağıdakı cavablar bu cavabı istisna edir"
+
+msgid "reason-blocked-by-others-entry"
+msgstr "\"{0}\" uyğun gəlmir \"{1}\""
+
+msgid "additional-infos"
+msgstr "mənə əlavə məlumat ver!"
+
+msgid "make-important"
+msgstr "Bu vacibdir!"
+
+msgid "marked-as-important"
+msgstr "Vacib olaraq işarələnib"
+
+msgid "remove-important"
+msgstr "Vacibliyini sil"
+
+msgid "reason-list-header-negative"
+msgstr "Bu paylanmanı sizə tövsiyə edə bilmərik, çünki:"
+
+msgid "reason-list-header-neutral"
+msgstr "Aşağıdakı meyarlar buna daxil edilməyib"
+
+msgid "matrix-supports-daily-usage"
+msgstr "Günlük istifadə üçün uyğundur"
+
+msgid "matrix-privacy-not-beneficial"
+msgstr "Paylanma konsepsiyası anonimləşdirmə məqsədləri üçün faydalı deyil"
+
+msgid "matrix-supports-gaming-usage"
+msgstr "Paylanma oyun nəşriyyatları tərəfindən fəal şəkildə dəstəklənir"
+
+msgid "matrix-beginner-knowledge"
+msgstr "Yeni başlayanlar üçün uyğundur"
+
+msgid "software-admin-answer-appstore"
+msgstr ""
+"Mən proqramlarımı bir növ \"Proqram Mağazası\" vasitəsilə quraşdırmaq "
+"istəyirəm"
+
+msgid "ideology-answer-free"
+msgstr "Bacardığım qədər azad lisenziyalardan istifadə etmək istəyirəm"
+
+msgid "matrix-linux-knowledge-higher"
+msgstr "İstifadə üçün cavab veriləndən daha az Linux biliyi tələb olunur"
+
+msgid "matrix-linux-beginner"
+msgstr "Linux'a yeni başlayanlar üçün uyğundur"
+
+msgid "matrix-installation-presets-always-given"
+msgstr ""
+"Quraşdırma , quraşdırmadan sonra sıfırlanmalı ola biləcək hazır parametrlər "
+"təyin edir"
+
+msgid "matrix-installation-presets-gui"
+msgstr "Bir çox parametrlər qrafik interfeys vasitəsilə dəyişdirilə bilər"
+
+msgid "matrix-hardware-oldpc-ubuntu"
+msgstr ""
+"Pəncərə birləşdirici təsir gecikmələri ilə qarşılaşa bilərsiniz. "
+"Animasiyaları söndürmək lazım ola bilər."
+
+msgid "matrix-hardware-newpc"
+msgstr "Ən son çıxan aparat təminatında işləyir"
+
+msgid "matrix-user-exchange"
+msgstr "Bilik mübadiləsi üçün istifadəçi ictimaiyyəti var"
+
+msgid "matrix-mac-like"
+msgstr "Qrafik İstifadəçi İnterfeysi (Qİİ) konsepti macOS elementlərini daşıyır"
+
+msgid "matrix-windows-like-not-fullfilled"
+msgstr "Qrafik İstifadəçi İnterfeysi (Qİİ) konsepti Windows'dan çox fərqlidir"
+
+msgid "matrix-has-windows-like-variant"
+msgstr "Windows-a bənzər istifadəçi interfeysi olan variantları var"
+
+msgid "matrix-paid-version-existing"
+msgstr "Bu paylanmanın pulsuz olmayan versiyası var"
+
+msgid "matrix-has-live-mode"
+msgstr "Diskdən işə salmağa imkan verən canlı rejimə malikdir"
+
+msgid "live-mode-only"
+msgstr ""
+"Canlı rejimi var: onu yoxlamaq üçün disk və ya usb yaddaş qurğularından "
+"istifadə edərək işə salmaq olur (quraşdırmadan əvvəl)"
+
+msgid "matrix-without-fee"
+msgstr "Ödənişsiz istifadə edilə bilər"
+
+msgid "matrix-fullinstall"
+msgstr "Lazımi bütün proqramları quraşdırır"
+
+msgid "matrix-ownscope-install"
+msgstr "İstifadə olunacaq bütün proqramlar özünüz tərəfindən seçilməlidir"
+
+msgid "matrix-has-default-settings"
+msgstr "Defolt parametrləri var"
+
+msgid "matrix-privacy-ok"
+msgstr "İstifadəçi məxfiliyi üçün faydalıdır"
+
+msgid "matrix-privacy-thirdparty"
+msgstr "Defolt olaraq üçüncü tərəf xidmətlərinə qoşulur"
+
+msgid "matrix-console"
+msgstr ""
+"Proqram təminatının quraşdırılması terminal vasitəsilə həyata keçirilə bilər"
+
+msgid "matrix-stable-updates"
+msgstr "Yeniləmələr dərc edildikləri zaman əsasən stabildirlər"
+
+msgid "matrix-has-control-panel"
+msgstr "Əvvəlcədən quraşdırılmış idarəetmə mərkəzini ehtiva edir"
+
+msgid "matrix-user-selection-affects-privacy"
+msgstr "İstifadəçi istifadə edəcəyi proqramı seçməlidir"
+
+msgid "matrix-updates-fast"
+msgstr "Yeniləmələr sürətlidir, lakin qeyri-stabil ola bilər"
+
+msgid "matrix-not-for-beginner"
+msgstr "Yeni başlayanlar üçün uyğun deyil"
+
+msgid "matrix-avoids-systemd"
+msgstr "Systemd'dən yayınır"
+
+msgid "matrix-uses-systemd"
+msgstr "Systemd istifadə edir"
+
+msgid "built-for-anonymization"
+msgstr "Anonimləşdirmə məqsədləri üçün hazırlanmışdır"
+
+msgid "matrix-oldpc-no-32bit"
+msgstr "64 bit dəstəyi olmayan köhnə kompüterləri dəstəkləmir"
+
+msgid "matrix-requires-manual"
+msgstr "Təlimatlar və tyutorialların oxunmasını tələb edir"
+
+msgid "matrix-enforces-free"
+msgstr "Azad proqram təminatından istifadəni vadar edir"
+
+msgid "matrix-mostly-free"
+msgstr "Əsasən azad proqram təminatı ilə işləyir"
+
+msgid "matrix-isolation-default"
+msgstr "Defolt olaraq izolyasiya konsepsiyasına malikdir"
+
+msgid "matrix-oldpc-supported"
+msgstr "Köhnə kompüterləri belə dəstəkləyir"
+
+msgid "searching-criteria"
+msgstr "meyarlar kitabxanasına emal edir"
+
+msgid "daily-usage-possibly-difficult"
+msgstr "Gündəlik istifadə böyük çətinliklərlə nəticələnə bilər"
+
+msgid "matrix-packages-available"
+msgstr "Anonimləşdirmə məqsədləri üçün proqramlar mövcuddur"
+
+msgid "matrix-packages-may-too-old-gaming"
+msgstr "Proqramların versiyaları oyun üçün kifayət qədər yeni olmaya bilər"
+
+msgid "matrix-built-for-enterprise"
+msgstr "Əsas məqsədi müəssisənin istifadəsidir"
+
+msgid "matrix-not-built-for-gaming"
+msgstr "Oyun üçün optimallaşdırılmayıb"
+
+msgid "requires-some-computer-knowledge"
+msgstr "Kompüterlər haqqında əlavə bilik tələb edir"
+
+msgid "matrix-maybe-not-for-beginner"
+msgstr "Yeni başlayanlar üçün uyğun deyil"
+
+msgid "matrix-installation-from-shell"
+msgstr "Quraşdırma terminaldan istifadə etməklə həyata keçirilir"
+
+msgid "matrix-configuration-from-shell"
+msgstr ""
+"Konfiqurasiyanın əksəriyyəti shell əmrlərindən istifadə etməklə həyata "
+"keçirilir"
+
+msgid "matrix-has-high-range-hardware-support"
+msgstr "Geniş çeşidli aparat təminatını dəstəkləyir"
+
+msgid "matrix-has-zorin-lite-version"
+msgstr "Köhnə kompüterlər üçün \"Zorin Lite\" versiyası var"
+
+msgid "matrix-has-windows-like-variant-cinnamon"
+msgstr ""
+"Bir variantı Windows-a bənzəyən “cinnamon” iş masası mühiti ilə birlikdə "
+"gəlir"
+
+msgid "systemd-is-avoidable-per-selection"
+msgstr "İstifadəçi seçiminə görə Systemd-dən yayınmaq olar"
+
+msgid "matrix-supports-privacy"
+msgstr "Yalnız onlayn xidmətlərdən istifadə edildikdə məlumat toplayır"
+
+msgid "matrix-lightweight"
+msgstr "Yüngül paylanma"
+
+msgid "description-ubuntu"
+msgstr "Ubuntu, Canonical şirkəti tərəfindən qurulmuş bir Paylanmadır"
+
+# distribution descriptions
+msgid "description-manjaro"
+msgstr ""
+"Manjaro, istifadəçinin rahatlığına yönəlmiş davamlı yeniləmə alan bir "
+"paylanmadır"
+
+msgid "description-arch"
+msgstr "Arch KISS prinsipinə əsaslanan davamlı yenilənən paylanmadır"
+
+msgid "description-debian"
+msgstr "Debian stabilliyə yüksək diqqət yetirən bir paylanmadır"
+
+msgid "description-tails"
+msgstr ""
+"Anonimləşdirmə, USB və ya optik disklərdən istifadə edilə bilən Tails-ın "
+"əsas diqqət mərkəzindədir"
+
+msgid "description-opensuse"
+msgstr ""
+"openSUSE əsasən son istifadəçilər üçün sabit və istifadəçi dostu paylanma "
+"təqdim etməyi hədəfləyir"
+
+msgid "description-pclinuxos"
+msgstr ""
+"PCLinuxOS, istifadəçi dostu interfeysə yönələn Mandrake əsaslı paylanmadır."
+
+msgid "description-rocky"
+msgstr ""
+"Rocky Linux, Red Hat Enterprise Linux (RHEL) ilə 100% uyğun olmağı "
+"hədəfləyən açıq mənbə paylanmadır"
+
+msgid "description-xubuntu"
+msgstr ""
+"Xubuntu, yüngül XFCE iş masası mühiti ilə təchiz edilmiş Ubuntu əsaslı "
+"paylanmadır"
+
+msgid "description-ubuntumate"
+msgstr ""
+"Ubuntu MATE, yüngül MATE iş masası mühiti ilə təchiz edilmiş Ubuntu əsaslı "
+"paylanmadır"
+
+msgid "description-solus"
+msgstr ""
+"Solus OS, Chrome OS klonu kimi başlayan davamlı olaraq yenilənən paylanmadır"
+
+msgid "loading"
+msgstr "Yüklənir"
+
+msgid "about"
+msgstr "Bu proyekt haqqında"
+
+msgid "question-is-multiplechoice"
+msgstr "Siz bir neçə cavab seçə bilərsiniz"
+
+msgid "linux-knowledge-category"
+msgstr "Linux və siz"
+
+msgid "description-fedora"
+msgstr ""
+"Fedora, azad proqram təminatına böyük diqqət yetirən Red Hat dəstəkli "
+"paylanmadır"
+
+msgid "description-qubeos"
+msgstr ""
+"Qubes OS təhlükəsizliyi artırmaq üçün virtual maşınlardan istifadə edərək "
+"proqramları təcrid edir"
+
+msgid "description-gentoo"
+msgstr "Gentoo qabaqcıl istifadəçilər üçün çevik paylanmadır"
+
+msgid "description-knoppix"
+msgstr ""
+"Knoppix geniş çeşidli aparat təminatı dəstəyi ilə canlı rejimə yönəlmiş "
+"əməliyyat sistemidir"
+
+msgid "description-cruxlinux"
+msgstr ""
+"Crux Linux, ən son alətlər və kitabxanalara malik yüngül 64 bit fokuslanmış "
+"əməliyyat sistemidir"
+
+msgid "description-elementaryos"
+msgstr ""
+"elementary OS zərif və sürətli istifadəçi təcrübəsinə yönəlmiş ubuntu əsaslı "
+"paylanmadır"
+
+msgid "description-kubuntu"
+msgstr ""
+"Kubuntu, iş masası olaraq əvvəlcədən KDE plasma quraşdırılmış, ubuntu əsaslı "
+"paylanmadır"
+
+msgid "locale-en"
+msgstr "english"
+
+msgid "description-qubesos"
+msgstr ""
+"Qubes OS təhlükəsizlik lehinə virtual maşınlarda prosesləri həyata keçirir"
+
+msgid "software-use-case-isolation"
+msgstr "Bütün proqramları təcrid olunmuş ərazidə icra etmək istəyirəm"
+
+msgid "matrix-runs-in-isolation"
+msgstr "Proqram təminatının icrası təcrid olunmuş mühitlərdə baş verir"
+
+msgid "software-use-case-blind"
+msgstr "İstifadəçinin görmə qabiliyyəti zəifdir"
+
+msgid "matrix-has-software-for-blind"
+msgstr ""
+"Görmə qabiliyyəti zəif olan insanlar üçün proqram təminatı quraşdırıla bilər "
+"(məsələn, 'Orca')"
+
+msgid "source"
+msgstr "Təsvir mənbəsi"
+
+msgid "skip-question"
+msgstr "sualı keç"
+
+msgid "description-nixos"
+msgstr ""
+"NixOS, Nix paket menecerindən istifadə edir. Deklarativ konfiqurasiyadan "
+"istifadə edir və etibarlı sistem təkmilləşdirmələrinə imkan verir."
+
+msgid "reasons-hide"
+msgstr "Səbəbləri gizlədin"
+
+msgid "link-copied"
+msgstr "Buferə kopyalandı"
+
+msgid "remark-placeholder-saving"
+msgstr "Mətn avtomatik olaraq saxlanacaq"
+
+msgid "locale-de"
+msgstr "almanca"
+
+msgid "slow-release-model"
+msgstr ""
+"Mövcud proqram təminatı versiyaları satıcının ən son versiyasından köhnə ola "
+"bilər"
+
+msgid "requires-payment"
+msgstr "Uzun müddətli istifadə ödəniş tələb edir"
+
+msgid "github-link"
+msgstr "GitHub"
+
+msgid "visually-impaired-mode"
+msgstr "Görmə qüsuru olan insanlar üçün rejim"
+
+msgid "like"
+msgstr "Bunu bəyəndim"
+
+msgid "language"
+msgstr "dilim"
+
+msgid "matrix-general-remark-additional-eula"
+msgstr "Quraşdırma zamanı paylanmanın məxfilik siyasəti diqqətlə oxunmalıdır"
+
+msgid "distributions-hidden"
+msgstr ""
+"# Nəticələr zəif uyğunluq səbəbindən gizlədilib. Bütün paylanmalara baxmaq "
+"üçün bura klikləyin."
+
+msgid "display-options"
+msgstr "Nəticələrinizin təsvirini buradan dəyişə bilərsiniz"
+
+msgid "welcome-text"
+msgstr ""
+"Xoş gəldiniz! Bu test sizə uyğun olan Linux (distribution) paylanmasını "
+"seçməyə kömək edəcək."
+
+msgid "price-category"
+msgstr "Paylanmalar (Distribution) : Qiymətləndirilmə"
+
+msgid "welcome-text-order"
+msgstr "Sualları istədiyiniz sıra ilə cavablandıra bilərsiniz"
+
+msgid "welcome-text-feedback"
+msgstr ""
+"Xahiş edirik, nəticələrinizi ehtiyaclarınıza nə dərəcədə uyğun olduğuna görə "
+"qiymətləndirin."
+
+msgid "welcome-text-a11y"
+msgstr ""
+"Görmə qüsuru olan insanlar üçün uyğunlaşdırılmış rejimdə testdən keçmək üçün "
+"bura klikləyin (bunun üçün səhifə yenilənəcək)."
+
+msgid "about-intro-text"
+msgstr ""
+"distrochooser.de Linux'a yeni başlayanlara ehtiyaclarına uyğun olan Linux "
+"paylamasını (distribution) seçməkdə kömək etməyə çalışır.<br>Sizə göstərilən "
+"nəticələr cavablarınıza əsaslanan təkliflərdir. Bəzən cavablar arasındaki "
+"mürəkkəb qarşılıqlı əlaqə, nəticələrin sizə uyğun olmamasına səbəb ola bilər."
+
+msgid "no-results-text"
+msgstr ""
+"Distrochooser cavablarınıza əsasən uyğun nəticə tapa bilmədi. Bunu araşdıra "
+"bilməmiz üçün bizə rəy yazsanız, çox yaxşı olar."
+
+msgid "software-use-case-question"
+msgstr ""
+"Bəzi paylamalar xüsusi məqsədlər üçün, bəziləri gündəlik istifadə üçün "
+"hazırlanır. Sizin hansı lazımdır?"
+
+msgid "software-use-case-answer-gaming"
+msgstr ""
+"Mən oyun nəşriyyatları tərəfindən dəstəklənən paylanmaya üstünlük verirəm."
+
+msgid "computer-knowledge-answer-advanced"
+msgstr "Mən artıq bəzi kompüter problemlərini özüm həll edə bilirəm"
+
+msgid "linux-knowledge-answer-advanced"
+msgstr "Mən artıq Linuxdan bəzi məqsədlər üçün istifadə etmişəm"
+
+msgid "presets-question"
+msgstr ""
+"Quraşdırma zamanı neçə parametrdə özünüz düzəliş etmək istərdiniz? Neçə "
+"konfiqurasiya dəyişəni standart dəyərlərlə doldurulmalıdır?"
+
+msgid "hardware-question"
+msgstr ""
+"Bəzi paylanmalar köhnə kompüterlərdə işləməyəcəyi üçün kompüterinizin aparat "
+"təminatının nə qədər köhnə olduğunu bilmək vacibdir."
+
+msgid "additional-info-hardware"
+msgstr ""
+"İllərdir bəzi paylanmalar 4 giqabayta qədər yaddaş ayırmağa imkan verən 32 "
+"bitlik arxitekturadan istifadə edirdi. Daha yeni paylanmalar 4 giqabaytdan "
+"çox yaddaş ayırmağa imkan verən 64 bit dəstəyin xeyrinə 32 bitdən imtina "
+"etməyə meyllidirlər. 2005-ci ildən etibarən demək olar ki, bütün Kompüterlər "
+"64 biti dəstəkləməlidir."
+
+msgid "ux-concept-question"
+msgstr ""
+"Linux bir çox müxtəlif İstifadəçi İnterfeyslərindən (\"İş masalarından\") "
+"istifadə edə bilər. Bir çox paylanma standart olaraq bir iş masasını "
+"göndərir. İş masası konsepsiyası üçün hər hansı üstünlüklərinizin olub "
+"olmadığını bilmək vacibdir. İstənilən vaxt yeni iş masaları quraşdıra və "
+"onlara keçə bilərsiniz!"
+
+msgid "price-answer-paid"
+msgstr "Ödəniş edə bilərəm"
+
+msgid "scope-question"
+msgstr ""
+"Fərqli paylanmalar müxtəlif miqdarda proqram təminatını əvvəlcədən "
+"quraşdırır. Bəziləri \"qutudan çıxarıldığı kimi\" işləməsi üçün əsas "
+"proqramların tam dəstini quraşdırır. Digər paylanmalar istifadəçiyə öz "
+"istədikləri program təminatını quraşdırmasına imkan tanımaq üçün sadəcə əsas "
+"program təminatının quraşdırmasını təklif edir."
+
+msgid "ideology-question"
+msgstr ""
+"Bir paylanmanın (lisenziya) ideologiyası mübahisəli bir məsələdir. Əsasən “"
+"pulsuz lisenziyalardan” istifadə edən paylanmalar var, digərləri isə “qeyri-"
+"azad” proqram təminatından istifadə edirlər."
+
+msgid "matrix-ships-systemd-but-disabled"
+msgstr "Systemd ilə gəlir, lakin defolt olaraq qeyri-aktivdir"
+
+msgid "additional-info-ideology"
+msgstr ""
+"Pulsuz lisenziyalar istifadəçiyə proqramı dəyişdirmək, yenidən yaymaq və "
+"istənilən məqsəd üçün istifadə etməyə imkan verir. Paylanmanın qeyri-pulsuz "
+"proqram təminatından istifadə etməli olduğu vəziyyətlər var, məsələn, aparat "
+"təminatı sürücüləri (driverləri). Qeyri-azad proqram öz mənbə kodunu yaymır "
+"və dəyişikliklərə icazə verilmir."
+
+msgid "special-features-qestion"
+msgstr ""
+"Bəzi paylanmalar xüsusi məqsədlər üçün əlavə xüsusiyyətlərə malikdir. Mənə "
+"belə xüsusiyyətlər lazımdırmı?"
+
+msgid "additional-info-special-features-qestion"
+msgstr ""
+"Bir çox paylanma əməliyyat sisteminin özünü işə salması üçün 'systemd' "
+"istifadə edir. Bəzi paylanmalar alternativ və bəzən daha yüngül həllərin "
+"xeyrinə systemd'dən yayınır"
+
+msgid "answer-is-blocked"
+msgstr "Bu cavabınız, əvvəlki cavabınızla ziddiyyət təşkil edir"
+
+msgid "reason-list-header-blocked-by-others"
+msgstr "Bu cavab verdiyiniz digər cavablar tərəfindən bloklanıb"
+
+msgid "matrix-advanced-knowledge"
+msgstr "Qabaqcıl istifadəçilər üçün uyğundur"
+
+msgid "matrix-professional-knowledge"
+msgstr "Peşəkarlar üçün uyğundur"
+
+msgid "matrix-computer-knowledge-higher"
+msgstr "İstifadə üçün cavab veriləndən daha az kompüter biliyi tələb olunur"
+
+msgid "matrix-installation-assistant-present"
+msgstr ""
+"Quraşdırma standart parametrləri olan quraşdırma \"sehrbazından\" istifadə "
+"edir"
+
+msgid "matrix-tutorial"
+msgstr ""
+"Problemlərin aradan qaldırılması və problemlərin həlli üçün tyutoriallar var"
+
+msgid "matrix-closed-expierience"
+msgstr "Öz divar kağızları, ikonları və şablonları (theme) var"
+
+msgid "matrix-gaming-packages-stable-but-old"
+msgstr ""
+"Proqram təminatı versiyaları oyun oynamaq üçün kifayət qədər yeni olmaya "
+"bilər"
+
+msgid "matrix-paid"
+msgstr "Bu paylanmanın ödənişli versiyası var"
+
+msgid "matrix-free-software-unfree-per-default"
+msgstr "Qapalı mənbə proqramlar standart olaraq yüklənmiş olur"
+
+msgid "matrix-appstore"
+msgstr ""
+"Proqram təminatının quraşdırılması proqram mağazasından istifadə etməklə "
+"həyata keçirilə bilər"
+
+msgid "about-licenses-database-text"
+msgstr ""
+"Sual/cavab strukturu, nəticə matrisi və statistika daxil olmaqla, əsas "
+"məlumatlar mülkiyyətə məxsusdur. Onları yalnız əvvəlcədən icazəmizlə "
+"istifadə edə bilərsiniz. Müxtəlif yayımların təsvir mətnləri və loqoları "
+"müvafiq müəllif hüquqları sahiblərinin lisenziyalarına tabedir."
+
+msgid "matrix-fast-updates"
+msgstr ""
+"Proqram yeniləmələri mümkün qədər tez buraxılır, bu da onları qeyri-stabil "
+"edir"
+
+msgid "matrix-selection-by-user"
+msgstr ""
+"Əvvəlcədən quraşdırılmış proqramların əhatə dairəsi istifadəçi tərəfindən "
+"müəyyən edilir"
+
+msgid "matrix-administration-shell"
+msgstr "İdarəetmə əsasən shell əmrlərindən istifadə etməklə həyata keçirilir"
+
+msgid "matrix-requires-advanced-knowledge"
+msgstr "İstifadə üçün təlimatları oxumağı tələb edir"
+
+msgid "checked-criteria-count"
+msgstr "aspektlər yoxlanıldı"
+
+msgid "matrix-supports-daily-usage-but-built-for-livemode"
+msgstr ""
+"Gündəlik iş üçün istifadə edilə bilər, lakin canlı rejim üçün qurulmuşdur"
+
+msgid "matrix-gaming-may-require-additional-configuration"
+msgstr "Oyun üçün əlavə konfiqurasiya tələb oluna bilər"
+
+msgid "matrix-installs-range-of-programs"
+msgstr "Defolt olaraq bir sıra proqramları quraşdırır"
+
+msgid "matrix-middleweight"
+msgstr ""
+"Orta ağır çəkili bir sistemdir, xüsusilə yeni sayıla biləcək kompüterlər "
+"üçün uyğundur"
+
+msgid "matrix-free-userselection"
+msgstr "Azad proqram təminatının istifadəsi istifadəçi seçimindən asılıdır"
+
+msgid "description-mint"
+msgstr ""
+"Linux Mint, multimedia kodekləri kimi xüsusi komponentləri əvvəlcədən "
+"quraşdırılmış olan Ubuntu əsaslı paylanmadır."
+
+msgid "description-rhel"
+msgstr ""
+"Red Hat Enterprise Linux (RHEL) müəssisə və stabilliyə yönəlmiş paylanmadır"
+
+msgid "description-lubuntu"
+msgstr ""
+"Lubuntu, yüngül LXQt iş masası mühiti ilə təchiz edilmiş Ubuntu əsaslı "
+"paylanmadır"
+
+msgid "description-popos"
+msgstr ""
+"Pop!_OS, System76 tərəfindən fərdiləşdirilmiş GNOME iş masası mühiti ilə "
+"təchiz edilmiş Ubuntu əsaslı paylanmadır"
+
+msgid "special-features-category"
+msgstr "Proqram Təminatı: Digər xüsusiyyətlər"
+
+msgid "description-mxlinux"
+msgstr ""
+"MX Linux, səmərəli və zərif gündəlik istifadəyə yönəlmiş orta ağırlıqlı "
+"resurs istifadə edən paylanmadır."
+
+msgid "description-zorinos"
+msgstr ""
+"Zorin OS, Windows-a bənzər istifadəçi interfeysi ilə yeni başlayanlar "
+"mərkəzli paylanmadır"
+
+# update pack 26th december 2019
+msgid "debian-updates-slow"
+msgstr "Debian yeniləmələri adətən stabillik lehinə yavaş olur"
+
+msgid "matrix-knoppix-adriane"
+msgstr ""
+"ADRIANE layihəsi görmə qabiliyyəti zəif olan insanlar üçün alətlər və həllər "
+"təklif edir"
+
+msgid "description-void"
+msgstr "Void Linux, systemd istifadə etməyən, davamlı yenilənən bir paylanmadır"
+
+msgid "description-artix"
+msgstr ""
+"Artix, Arch Linux əsaslı paylanmadır və systemd'dən başqa bir neçə init "
+"sistemindən istifadə edə bilir, məsələn OpenRC"
+
+msgid "description-devuan"
+msgstr "Devuan, systemd alət dəstindən istifadə etməyən Debian klonudur"
+
+msgid "dislike"
+msgstr "Bunu bəyənmədim"
+
+msgid "description-deepin"
+msgstr ""
+"Deepin, (DDE) Deepin Desktop Environment adlı öz iş masası ilə birlikdə "
+"gələn, Debian əsaslı Çindən bir paylanmadır."
