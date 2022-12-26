@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-19 00:05+0000\n"
+"PO-Revision-Date: 2022-12-27 18:53+0000\n"
 "Last-Translator: Agayev033 <aqayev10.qa@gmail.com>\n"
 "Language-Team: Azerbaijani <https://translate.distrochooser.de/projects/"
 "distrochooser/translations/az/>\n"
@@ -95,10 +95,10 @@ msgid "about-header"
 msgstr "distrochooser.de haqqında"
 
 msgid "vote-reminder"
-msgstr "Bu paylamanı bəyənirsiniz? O zaman ona bir ürək verin!"
+msgstr "Bu paylanmanı bəyənirsiniz? O zaman ona bir ürək verin!"
 
 msgid "vote-reminder-negative"
-msgstr "Bu paylamanı bəyənmirsiniz? O zaman onu bəyənmədiyinizi göstərin!"
+msgstr "Bu paylanmanı bəyənmirsiniz? O zaman onu bəyənmədiyinizi göstərin!"
 
 msgid "about-intro-test-count"
 msgstr ""
@@ -232,7 +232,7 @@ msgstr "Mən qapalı təcrübəyə üstünlük verirəm"
 
 msgid "price-question"
 msgstr ""
-"Paylanmaların əksəriyyəti pulsuzdur. Bəzi paylamalar birdəfəlik ödəniş ilə "
+"Paylanmaların əksəriyyəti pulsuzdur. Bəzi paylanmalar birdəfəlik ödəniş ilə "
 "əlavə dəstək təklif edir."
 
 msgid "price-answer-free"
@@ -268,7 +268,7 @@ msgstr ""
 
 msgid "software-admin-question"
 msgstr ""
-"Linux paylamasını idarə etməyin bir çox yolu var, məs. proqram təminatı "
+"Linux paylanmasını idarə etməyin bir çox yolu var, məs. proqram təminatı "
 "quraşdırmaq üçün."
 
 msgid "software-admin-answer-console"
@@ -699,9 +699,10 @@ msgstr ""
 msgid "about-intro-text"
 msgstr ""
 "distrochooser.de Linux'a yeni başlayanlara ehtiyaclarına uyğun olan Linux "
-"paylamasını (distribution) seçməkdə kömək etməyə çalışır.<br>Sizə göstərilən "
-"nəticələr cavablarınıza əsaslanan təkliflərdir. Bəzən cavablar arasındaki "
-"mürəkkəb qarşılıqlı əlaqə, nəticələrin sizə uyğun olmamasına səbəb ola bilər."
+"paylanmasını (distribution) seçməkdə kömək etməyə çalışır.<br>Sizə "
+"göstərilən nəticələr cavablarınıza əsaslanan təkliflərdir. Bəzən cavablar "
+"arasındaki mürəkkəb qarşılıqlı əlaqə, nəticələrin sizə uyğun olmamasına "
+"səbəb ola bilər."
 
 msgid "no-results-text"
 msgstr ""
@@ -710,7 +711,7 @@ msgstr ""
 
 msgid "software-use-case-question"
 msgstr ""
-"Bəzi paylamalar xüsusi məqsədlər üçün, bəziləri gündəlik istifadə üçün "
+"Bəzi paylanmalar xüsusi məqsədlər üçün, bəziləri gündəlik istifadə üçün "
 "hazırlanır. Sizin hansı lazımdır?"
 
 msgid "software-use-case-answer-gaming"
@@ -934,3 +935,29 @@ msgid "description-deepin"
 msgstr ""
 "Deepin, (DDE) Deepin Desktop Environment adlı öz iş masası ilə birlikdə "
 "gələn, Debian əsaslı Çindən bir paylanmadır."
+
+msgid "tags-description"
+msgstr ""
+"Paylanma sırasını dəqiqləşdirmək üçün burada bir neçə aspekti müəyyən edə "
+"bilərsiniz"
+
+msgid "tag-mit"
+msgstr "MIT"
+
+msgid "tag-gpl"
+msgstr "GNU İctimai Lisenziyası"
+
+msgid "tag-dfsg"
+msgstr "DFSG uyğun lisenziyalar"
+
+msgid "tags-header"
+msgstr "Könüllü seçim mümkündür"
+
+msgid "tags-ideology-answer-free"
+msgstr "Üstünlük verilən Açıq Mənbə lisenziyaları"
+
+msgid "tags-ideology-answer-free-additional-info"
+msgstr ""
+"GitHub-a məxsus choosealicense.com xidməti ümumi lisenziyaların və onların "
+"xüsusiyyətlərinin ümumi baxışını yaratdı. Siyahını <a target='_blank' "
+"href='https://choosealicense.com/licenses/'>burada</a> tapa bilərsiniz."
