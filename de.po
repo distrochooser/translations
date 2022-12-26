@@ -776,3 +776,24 @@ msgstr "Gründe dafür/dagegen"
 
 msgid "ux-concept-tiling"
 msgstr "Ich bevorzuge Tiling-basierte Fensteranordnung"
+
+msgid "tags-header"
+msgstr "Optionale Auswahl möglich"
+
+msgid "tags-description"
+msgstr "Du kannst an dieser Stelle eine Auswahl treffen, welche Aspekte deiner Antwort bevorzugt werden. Distributionen mit diesen Aspekten werden bei der Berechnung dann bevorzugt."
+
+msgid "tags-ideology-answer-free"
+msgstr "Bevorzugte Open Source Lizenzen"
+
+msgid "tags-ideology-answer-free-additional-info"
+msgstr "Der von GitHub betriebene Dienst choosealicense.com hat die Eigenschaften verschiedener Lizenzen übersichtlich aufgearbeitet. Du kannst die Übersicht <a target='_blank' href='https://choosealicense.com/licenses/'>hier</a> ansehen."
+
+msgid "tag-mit"
+msgstr "MIT"
+
+msgid "tag-gpl"
+msgstr "GNU Public License"
+
+msgid "tag-dfsg"
+msgstr "DFSG-konforme Lizenzen"

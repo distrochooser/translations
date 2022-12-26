@@ -767,3 +767,24 @@ msgstr "# Ergebnisse wurden aufgrund geringer Übereinstimmung ausgeblendet. Kli
 
 msgid "display-options"
 msgstr "You can change the display of your results here"    
+
+msgid "tags-header"
+msgstr "Optional selection possible"
+
+msgid "tags-description"
+msgstr "You can define several aspects here to refine the distribution ordering"
+
+msgid "tags-ideology-answer-free"
+msgstr "Preferred Open Source licenses"
+
+msgid "tags-ideology-answer-free-additional-info"
+msgstr "The GitHub owned service choosealicense.com created an overview of common licenses and their characteristics. You can find the list <a target='_blank' href='https://choosealicense.com/licenses/'>here</a>."
+
+msgid "tag-mit"
+msgstr "MIT"
+
+msgid "tag-gpl"
+msgstr "GNU Public License"
+
+msgid "tag-dfsg"
+msgstr "DFSG compatible licenses"
