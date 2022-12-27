@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-16 15:22+0000\n"
+"PO-Revision-Date: 2022-12-30 21:53+0000\n"
 "Last-Translator: Jacek <jackes112@gmail.com>\n"
 "Language-Team: Polish <https://translate.distrochooser.de/projects/"
 "distrochooser/translations/pl/>\n"
@@ -908,3 +908,29 @@ msgid "distributions-hidden"
 msgstr ""
 "# Wyniki zostały ukryte ze względu na niską zgodność. Kliknij tutaj, aby "
 "zobaczyć wszystkie dystrybucje."
+
+msgid "tags-header"
+msgstr "Dostępne są opcje dodatkowe"
+
+msgid "tags-ideology-answer-free"
+msgstr "Preferowane licencje Open Source"
+
+msgid "tag-mit"
+msgstr "Licencja MIT"
+
+msgid "tag-gpl"
+msgstr "Publiczna licencja GNU"
+
+msgid "tag-dfsg"
+msgstr "Licencje zgodne z DFSG"
+
+msgid "tags-description"
+msgstr ""
+"Możesz tutaj określić kilka szczegółów, które udoskonalą sortowanie "
+"dystrybucji"
+
+msgid "tags-ideology-answer-free-additional-info"
+msgstr ""
+"Serwis choosealicense.com należący do GitHuba stworzył przegląd popularnych "
+"licencji i ich cech. Możesz ją znaleźć <a target='_blank' "
+"href='https://choosealicense.com/licenses/'>tutaj</a>."
