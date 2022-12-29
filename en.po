@@ -790,7 +790,7 @@ msgid "tag-dfsg"
 msgstr "DFSG compatible licenses"
 
 msgid "metric-rank"
-msgstr "Rang auf distrochooser.de"
+msgstr "Rank on distrochooser.de"
 
 msgid "metric-percentage"
 msgstr "User approval on distrochooser.de"
