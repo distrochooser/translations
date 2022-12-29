@@ -788,3 +788,33 @@ msgstr "GNU Public License"
 
 msgid "tag-dfsg"
 msgstr "DFSG compatible licenses"
+
+msgid "metric-rank"
+msgstr "Rang auf distrochooser.de"
+
+msgid "metric-percentage"
+msgstr "User approval on distrochooser.de"
+
+msgid "metric-tags"
+msgstr "Additional criteria"
+
+msgid "metric-website"
+msgstr "Website"
+
+msgid "number-first"
+msgstr "st"
+
+msgid "number-second"
+msgstr "nd"
+
+msgid "number-third"
+msgstr "rd"
+
+msgid "number-afterthird"
+msgstr "th"
+
+msgid "no-tags"
+msgstr "No additional criteria"
+
+msgid "metric-ratings"
+msgstr "voted"
