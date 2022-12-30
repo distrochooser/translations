@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-30 21:53+0000\n"
+"PO-Revision-Date: 2023-01-01 00:53+0000\n"
 "Last-Translator: Jacek <jackes112@gmail.com>\n"
 "Language-Team: Polish <https://translate.distrochooser.de/projects/"
 "distrochooser/translations/pl/>\n"
@@ -605,7 +605,7 @@ msgid "locale-en"
 msgstr "english"
 
 msgid "locale-de"
-msgstr "deutsch"
+msgstr "Deutsch"
 
 # update pack 26th december 2019
 msgid "debian-updates-slow"
@@ -934,3 +934,36 @@ msgstr ""
 "Serwis choosealicense.com należący do GitHuba stworzył przegląd popularnych "
 "licencji i ich cech. Możesz ją znaleźć <a target='_blank' "
 "href='https://choosealicense.com/licenses/'>tutaj</a>."
+
+msgid "metric-tags"
+msgstr "Dodatkowe kryteria"
+
+msgid "metric-website"
+msgstr "Strona internetowa"
+
+msgid "number-first"
+msgstr " "
+
+msgid "number-second"
+msgstr " "
+
+msgid "number-third"
+msgstr " "
+
+msgid "number-afterthird"
+msgstr " "
+
+msgid "metric-ratings"
+msgstr "Głosów"
+
+msgid "metric-website-clicks"
+msgstr "Wejść"
+
+msgid "metric-percentage"
+msgstr "Uznanie na distrochooser.de"
+
+msgid "metric-rank"
+msgstr "Pozycja na distrochooser.de"
+
+msgid "no-tags"
+msgstr "Brak dodatkowych kryteriów"
