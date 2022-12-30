@@ -818,3 +818,6 @@ msgstr "No additional criteria"
 
 msgid "metric-ratings"
 msgstr "voted"
+
+msgid "metric-website-clicks"
+msgstr "Clicks"

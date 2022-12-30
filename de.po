@@ -827,3 +827,6 @@ msgstr "Keine zusätzlichen Kritieren angegeben"
 
 msgid "metric-ratings"
 msgstr "abgestimmt"
+
+msgid "metric-website-clicks"
+msgstr "Klicks"
