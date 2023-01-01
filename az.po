@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-30 21:53+0000\n"
+"PO-Revision-Date: 2023-01-03 16:53+0000\n"
 "Last-Translator: Agayev033 <aqayev10.qa@gmail.com>\n"
 "Language-Team: Azerbaijani <https://translate.distrochooser.de/projects/"
 "distrochooser/translations/az/>\n"
@@ -64,8 +64,7 @@ msgstr "Siz həmişə cavablandırmaq istəmədiyiniz sualları keçə bilərsin
 
 msgid "welcome-text-result-get"
 msgstr ""
-"Nəticənizi almaq üçün hər zaman \"tövsiyəniz\" üzərinə klikləyə edə "
-"bilərsiniz"
+"Nəticənizi almaq üçün hər zaman \"tövsiyəniz\" üzərinə klikləyə bilərsiniz"
 
 msgid "welcome-text-additional-infos"
 msgstr "Əlavə məlumatı sual işarəsindən istifadə edərək əldə edə bilərsiniz"
@@ -961,3 +960,36 @@ msgstr ""
 "GitHub-a məxsus choosealicense.com xidməti ümumi lisenziyaların və onların "
 "xüsusiyyətlərinin ümumi baxışını yaratdı. Siyahını <a target='_blank' "
 "href='https://choosealicense.com/licenses/'>burada</a> tapa bilərsiniz."
+
+msgid "metric-website"
+msgstr "Veb sayt"
+
+msgid "number-second"
+msgstr "-ci"
+
+msgid "number-third"
+msgstr "-cü"
+
+msgid "number-afterthird"
+msgstr " "
+
+msgid "metric-ratings"
+msgstr "səs verdi"
+
+msgid "metric-website-clicks"
+msgstr "Dəfə kliklənib"
+
+msgid "metric-rank"
+msgstr "distrochooser.de-də sırası"
+
+msgid "metric-percentage"
+msgstr "distrochooser.de-də istifadəçi təsdiqi"
+
+msgid "metric-tags"
+msgstr "Əlavə meyar"
+
+msgid "no-tags"
+msgstr "Əlavə meyar yoxdur"
+
+msgid "number-first"
+msgstr "-ci"
