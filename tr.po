@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-19 00:05+0000\n"
-"PO-Revision-Date: 2022-12-30 21:53+0000\n"
+"PO-Revision-Date: 2023-01-03 16:53+0000\n"
 "Last-Translator: Agayev033 <aqayev10.qa@gmail.com>\n"
 "Language-Team: Turkish <https://translate.distrochooser.de/projects/"
 "distrochooser/translations/tr/>\n"
@@ -869,3 +869,36 @@ msgstr ""
 "ve bunların özelliklerine ilişkin bir genel bakış oluşturdu. Listeyi <a "
 "target='_blank' href='https://choosealicense.com/licenses/'>burada</a> "
 "bulabilirsiniz."
+
+msgid "metric-percentage"
+msgstr "distrochooser.de sitesinde kullanıcı onayı"
+
+msgid "metric-rank"
+msgstr "Distrochooser.de sitesinde sıralaması"
+
+msgid "metric-tags"
+msgstr "Ek kriter"
+
+msgid "metric-website"
+msgstr "Website"
+
+msgid "number-first"
+msgstr "-ci"
+
+msgid "number-second"
+msgstr "-ci"
+
+msgid "number-third"
+msgstr "-cü"
+
+msgid "number-afterthird"
+msgstr " "
+
+msgid "no-tags"
+msgstr "Ek kriter yok"
+
+msgid "metric-ratings"
+msgstr "oy verdi"
+
+msgid "metric-website-clicks"
+msgstr "Defa tıklandı"
