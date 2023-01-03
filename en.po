@@ -393,7 +393,7 @@ msgid "matrix-supports-daily-usage"
 msgstr "Suitable for daily use"
 
 msgid "matrix-privacy-not-beneficial"
-msgstr "Distribution concept is not beneficial for anonymisation purposes"
+msgstr "Distribution concept is not beneficial for anonymization purposes"
 
 msgid "matrix-supports-gaming-usage"
 msgstr "Distribution is actively supported by game publishers"
@@ -525,7 +525,7 @@ msgid "matrix-uses-systemd"
 msgstr "uses systemd"
 
 msgid "built-for-anonymization"
-msgstr "Build for anonymisation purposes"
+msgstr "Built for anonymization purposes"
 
 msgid "matrix-administration-shell"
 msgstr "Administration is mostly done by using shell commands"
@@ -558,7 +558,7 @@ msgid "matrix-supports-daily-usage-but-built-for-livemode"
 msgstr "Can be used for daily work, but is built for live-mode"
 
 msgid "matrix-packages-available"
-msgstr "Programs for anonymisation purposes are available"
+msgstr "Programs for anonymization purposes are available"
 
 msgid "matrix-packages-may-too-old-gaming"
 msgstr "Programs versions may not be up-to-date enough for gaming"
@@ -620,7 +620,7 @@ msgid "description-manjaro"
 msgstr "Manjaro is a rolling release distribution focused on user friendliness"
 
 msgid "description-ubuntu"
-msgstr "Ubuntu is a Distribution build by the company Canonical"
+msgstr "Ubuntu is a Distribution built by the company Canonical"
 
 msgid "description-mint"
 msgstr "Linux Mint is a Ubuntu based distribution with pre-installed proprietary components, such as multimedia codecs."
@@ -635,7 +635,7 @@ msgid "description-debian"
 msgstr "Debian is a distribution with high focus on stability"
 
 msgid "description-tails"
-msgstr "Anonymisation is the main focus of Tails, which can be used from USB or optical discs"
+msgstr "Anonymization is the main focus of Tails, which can be used from USB or optical discs"
 
 msgid "description-devuan"
 msgstr "Devuan is a Debian clone without usage of the systemd toolkit"
@@ -656,7 +656,7 @@ msgid "description-xubuntu"
 msgstr "Xubuntu is an Ubuntu-based distribution powered by the lightweight XFCE desktop environment"
 
 msgid "description-lubuntu"
-msgstr "Lubuntu is an Ubuntu-based distribution powered by the lightweight LXQt  desktop environment"
+msgstr "Lubuntu is an Ubuntu-based distribution powered by the lightweight LXQt desktop environment"
 
 msgid "description-ubuntumate"
 msgstr "Ubuntu MATE is an Ubuntu-based distribution powered by the lightweight MATE desktop environment"
@@ -686,10 +686,10 @@ msgid "description-zorinos"
 msgstr "Zorin OS is a beginner focused distribution with a windows-like user interface"
 
 msgid "description-elementaryos"
-msgstr "elementary OS is a ubuntu-based distribution, focused on an elegant and fast user experience"
+msgstr "elementary OS is a Ubuntu-based distribution, focused on an elegant and fast user experience"
 
 msgid "description-kubuntu"
-msgstr "Kubuntu is an ubuntu-based distribution with a pre-installed KDE as a desktop"
+msgstr "Kubuntu is an Ubuntu-based distribution with a pre-installed KDE as a desktop"
 
 msgid "locale-en"
 msgstr "english"
