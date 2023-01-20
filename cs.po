@@ -1,2 +1,30 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-01-21 15:53+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Czech <https://translate.distrochooser.de/projects/"
+"distrochooser/translations/cs/>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.14.2\n"
+
+msgid "get-result"
+msgstr "Získat vísledek"
+
+msgid "loading"
+msgstr "načítání"
+
+msgid "privacy"
+msgstr "soukromí"
+
+msgid "about"
+msgstr "o tomto projektu"
+
+msgid "question-is-multiplechoice"
+msgstr "Můžete vybrat více odpovědí"
+
+msgid "category-welcome"
+msgstr "Vítejte!"
