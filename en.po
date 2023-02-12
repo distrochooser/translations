@@ -796,7 +796,7 @@ msgid "metric-percentage"
 msgstr "User approval on distrochooser.de"
 
 msgid "metric-tags"
-msgstr "Additional criteria"
+msgstr "Additional criteria matched"
 
 msgid "metric-website"
 msgstr "Website"
@@ -821,3 +821,506 @@ msgstr "voted"
 
 msgid "metric-website-clicks"
 msgstr "Clicks"
+
+msgid "hardware-title"
+msgstr "Hardware requirements"
+
+msgid "hardware-text"
+msgstr "To make a proper selection, it is important if your hardware limits the selection. If you are unsure, you can skip this step."
+
+msgid "hardware-this-computer"
+msgstr "Try to detect some of the values using the browser"
+
+msgid "windows-x-hint"
+msgstr "Press the keys Windows+X at the same time or search for 'system' in your start menu"
+
+msgid "windows-choose-system"
+msgstr "Choose 'System'. In the opening window, you will find the value of memory (shown as RAM in Gibabytes) and information about the used processor. For the processor, it is important to know a displayed frequency (in Gigahertz) and the amount of cores."
+
+msgid "linux-open-terminal"
+msgstr "Open a terminal. You can find this using your start menu also."
+
+msgid "linux-execute"
+msgstr "Execute the listed command. The command reads two files and returns the desired values of your processor and your system memory."
+
+msgid "no-mac-distros"
+msgstr "Distrochooser currently does not list any Mac-compatible distributions."
+
+msgid "hardware-cpu-cores-title"
+msgstr "CPU cores"
+
+msgid "hardware-cpu-frequency-title"
+msgstr "CPU frequency, Ghz"
+
+msgid "hardware-memory-title"
+msgstr "Memory (RAM), GB"
+
+msgid "hardware-storage-title"
+msgstr "Storage, GB"
+
+msgid "hardware-cpu-cores-placeholder"
+msgstr "Amount"
+
+msgid "hardware-cpu-frequency-placeholder"
+msgstr "Gigahertz"
+
+msgid "hardware-memory-placeholder"
+msgstr "Gigabyte"
+
+msgid "hardware-storage-placeholder"
+msgstr "Gigabyte"
+
+msgid "hardware-touch-title"
+msgstr "Touch input"
+
+msgid "metric-hardware-check"
+msgstr "System requirement"
+
+msgid "metric-hardware-check-no-value"
+msgstr "No requirements available yet"
+
+msgid "hardware-check-failed"
+msgstr "The hardware requirements where not fullfilled"
+
+msgid "hardware-check-succeeded"
+msgstr "Your system matches the requirements"
+
+msgid "category-hardware-requirements"
+msgstr "My hardware requirements"
+
+msgid "clear-skip-question"
+msgstr "Clear values and skip"
+
+msgid "boolean-false"
+msgstr "False"
+
+msgid "boolean-true"
+msgstr "True"
+
+msgid "metric-age"
+msgstr "Age in years"
+
+msgid "metric-no-value-yet"
+msgstr "No metric available yet"
+
+msgid "metrics-copyright"
+msgstr "Including data from Wikidata"
+
+msgid "software-use-case-language"
+msgstr "I have language preferences"
+
+msgid "tags-software-use-case-language"
+msgstr "Languages available in the distribution"
+
+msgid "tags-hardware-question-newpc"
+msgstr "Selection of used processor architectures"
+
+msgid "tags-hardware-question-oldpc"
+msgstr "Selection of used processor architectures"
+
+msgid "tags-software-admin-answer-console"
+msgstr "Preferred package management"
+
+msgid "tag-arch-x86_64"
+msgstr "x86_64"
+
+msgid "tag-arch-x86"
+msgstr "x86"
+
+msgid "tag-arch-arm-architecture"
+msgstr "arm"
+
+msgid "tag-arch-ia-32"
+msgstr "ia-32"
+
+msgid "tag-arch-ppc64"
+msgstr "ppc64"
+
+msgid "tag-arch-ibm-s390"
+msgstr "ibm-s390"
+
+msgid "tag-arch-risc-v"
+msgstr "risc-v"
+
+msgid "tag-arch-powerpc"
+msgstr "powerpc"
+
+msgid "tag-arch-sparc"
+msgstr "sparc"
+
+msgid "tag-arch-mips"
+msgstr "mips"
+
+msgid "tag-arch-ibm-z"
+msgstr "ibm-z"
+
+msgid "tag-arch-ibm-power"
+msgstr "ibm-power"
+
+msgid "tag-arch-intel-80386"
+msgstr "intel-80386"
+
+msgid "tag-arch-i686"
+msgstr "i686"
+
+msgid "tag-arch-aarch64"
+msgstr "aarch64"
+
+msgid "tag-arch-intel-p6"
+msgstr "intel-p6"
+
+msgid "tag-arch-ultrasparc"
+msgstr "ultrasparc"
+
+msgid "tag-arch-pa-risc"
+msgstr "pa-risc"
+
+msgid "tag-arch-dec-alpha"
+msgstr "dec-alpha"
+
+msgid "tag-arch-ia-64"
+msgstr "ia-64"
+
+msgid "tag-arch-x86_64"
+msgstr "x86_64"
+
+msgid "tag-arch-x86"
+msgstr "x86"
+
+msgid "tag-arch-arm-architecture"
+msgstr "arm"
+
+msgid "tag-arch-ia-32"
+msgstr "ia-32"
+
+msgid "tag-arch-ppc64"
+msgstr "ppc64"
+
+msgid "tag-arch-ibm-s390"
+msgstr "ibm-s390"
+
+msgid "tag-arch-risc-v"
+msgstr "risc-v"
+
+msgid "tag-arch-powerpc"
+msgstr "powerpc"
+
+msgid "tag-arch-sparc"
+msgstr "sparc"
+
+msgid "tag-arch-mips"
+msgstr "mips"
+
+msgid "tag-arch-ibm-z"
+msgstr "ibm-z"
+
+msgid "tag-arch-ibm-power"
+msgstr "ibm-power"
+
+msgid "tag-arch-intel-80386"
+msgstr "intel-80386"
+
+msgid "tag-arch-i686"
+msgstr "i686"
+
+msgid "tag-arch-aarch64"
+msgstr "aarch64"
+
+msgid "tag-arch-intel-p6"
+msgstr "intel-p6"
+
+msgid "tag-arch-ultrasparc"
+msgstr "ultrasparc"
+
+msgid "tag-arch-pa-risc"
+msgstr "pa-risc"
+
+msgid "tag-arch-dec-alpha"
+msgstr "dec-alpha"
+
+msgid "tag-arch-ia-64"
+msgstr "ia-64"
+
+msgid "tag-license-free-software"
+msgstr "Free software in general"
+
+msgid "tag-license-gnu-general-public-license"
+msgstr "GNU General Public License"
+
+msgid "tag-license-mit-license"
+msgstr "MIT"
+
+msgid "tag-license-gnu-lesser-general-public-license"
+msgstr "GNU Lesser General Public License"
+
+msgid "tag-license-open-license"
+msgstr "Open License"
+
+msgid "tag-packagemgmt-xbps"
+msgstr "XBPS"
+
+msgid "tag-packagemgmt-dpkg"
+msgstr "DPKG"
+
+msgid "tag-packagemgmt-advanced-packaging-tool"
+msgstr "APT"
+
+msgid "tag-packagemgmt-nix"
+msgstr "Nix"
+
+msgid "tag-packagemgmt-snap"
+msgstr "Snap"
+
+msgid "tag-packagemgmt-rpm-package-manager"
+msgstr "RPM"
+
+msgid "tag-packagemgmt-portage"
+msgstr "Portage"
+
+msgid "tag-packagemgmt-yast"
+msgstr "YaST"
+
+msgid "tag-packagemgmt-zypp"
+msgstr "Zypp"
+
+msgid "tag-packagemgmt-pacman"
+msgstr "Pacman"
+
+msgid "tag-packagemgmt-dnf"
+msgstr "DNF"
+
+msgid "tag-packagemgmt-yellowdog-updater"
+msgstr "YUM"
+
+msgid "tag-packagemgmt-flatpak"
+msgstr "Flatpak"
+
+msgid "tag-language-albanian"
+msgstr "albanian"
+
+msgid "tag-language-amharic"
+msgstr "amharic"
+
+msgid "tag-language-arabic"
+msgstr "arabic"
+
+msgid "tag-language-asturian"
+msgstr "asturian"
+
+msgid "tag-language-bengali"
+msgstr "bengali"
+
+msgid "tag-language-basque"
+msgstr "basque"
+
+msgid "tag-language-belarusian"
+msgstr "belarusian"
+
+msgid "tag-language-bosnian"
+msgstr "bosnian"
+
+msgid "tag-language-bulgarian"
+msgstr "bulgarian"
+
+msgid "tag-language-burmese"
+msgstr "burmese"
+
+msgid "tag-language-catalan"
+msgstr "catalan"
+
+msgid "tag-language-chinese"
+msgstr "chinese"
+
+msgid "tag-language-croatian"
+msgstr "croatian"
+
+msgid "tag-language-czech"
+msgstr "czech"
+
+msgid "tag-language-danish"
+msgstr "danish"
+
+msgid "tag-language-dutch"
+msgstr "dutch"
+
+msgid "tag-language-dzongkha"
+msgstr "dzongkha"
+
+msgid "tag-language-english"
+msgstr "english"
+
+msgid "tag-language-esperanto"
+msgstr "esperanto"
+
+msgid "tag-language-estonian"
+msgstr "estonian"
+
+msgid "tag-language-finnish"
+msgstr "finnish"
+
+msgid "tag-language-french"
+msgstr "french"
+
+msgid "tag-language-galician"
+msgstr "galician"
+
+msgid "tag-language-georgian"
+msgstr "georgian"
+
+msgid "tag-language-german"
+msgstr "german"
+
+msgid "tag-language-greek"
+msgstr "greek"
+
+msgid "tag-language-gujarati"
+msgstr "gujarati"
+
+msgid "tag-language-hebrew"
+msgstr "hebrew"
+
+msgid "tag-language-hindi"
+msgstr "hindi"
+
+msgid "tag-language-hungarian"
+msgstr "hungarian"
+
+msgid "tag-language-icelandic"
+msgstr "icelandic"
+
+msgid "tag-language-indonesian"
+msgstr "indonesian"
+
+msgid "tag-language-irish"
+msgstr "irish"
+
+msgid "tag-language-italian"
+msgstr "italian"
+
+msgid "tag-language-japanese"
+msgstr "japanese"
+
+msgid "tag-language-kabyle"
+msgstr "kabyle"
+
+msgid "tag-language-kannada"
+msgstr "kannada"
+
+msgid "tag-language-kazakh"
+msgstr "kazakh"
+
+msgid "tag-language-khmer"
+msgstr "khmer"
+
+msgid "tag-language-korean"
+msgstr "korean"
+
+msgid "tag-language-kurdish"
+msgstr "kurdish"
+
+msgid "tag-language-lao"
+msgstr "lao"
+
+msgid "tag-language-latvian"
+msgstr "latvian"
+
+msgid "tag-language-lithuanian"
+msgstr "lithuanian"
+
+msgid "tag-language-macedonian"
+msgstr "macedonian"
+
+msgid "tag-language-malayalam"
+msgstr "malayalam"
+
+msgid "tag-language-marathi"
+msgstr "marathi"
+
+msgid "tag-language-nepali"
+msgstr "nepali"
+
+msgid "tag-language-northern-sami"
+msgstr "northern-sami"
+
+msgid "tag-language-bokmal"
+msgstr "bokmal"
+
+msgid "tag-language-nynorsk"
+msgstr "nynorsk"
+
+msgid "tag-language-occitan"
+msgstr "occitan"
+
+msgid "tag-language-persian"
+msgstr "persian"
+
+msgid "tag-language-polish"
+msgstr "polish"
+
+msgid "tag-language-portuguese"
+msgstr "portuguese"
+
+msgid "tag-language-brazilian-portuguese"
+msgstr "brazilian-portuguese"
+
+msgid "tag-language-punjabi"
+msgstr "punjabi"
+
+msgid "tag-language-romanian"
+msgstr "romanian"
+
+msgid "tag-language-russian"
+msgstr "russian"
+
+msgid "tag-language-serbian"
+msgstr "serbian"
+
+msgid "tag-language-sinhala"
+msgstr "sinhala"
+
+msgid "tag-language-slovak"
+msgstr "slovak"
+
+msgid "tag-language-slovene"
+msgstr "slovene"
+
+msgid "tag-language-spanish"
+msgstr "spanish"
+
+msgid "tag-language-swedish"
+msgstr "swedish"
+
+msgid "tag-language-tagalog"
+msgstr "tagalog"
+
+msgid "tag-language-tajik"
+msgstr "tajik"
+
+msgid "tag-language-tamil"
+msgstr "tamil"
+
+msgid "tag-language-telugu"
+msgstr "telugu"
+
+msgid "tag-language-thai"
+msgstr "thai"
+
+msgid "tag-language-tibetan"
+msgstr "tibetan"
+
+msgid "tag-language-turkish"
+msgstr "turkish"
+
+msgid "tag-language-ukrainian"
+msgstr "ukrainian"
+
+msgid "tag-language-uyghur"
+msgstr "uyghur"
+
+msgid "tag-language-vietnamese"
+msgstr "vietnamese"
+
+msgid "tag-language-welsh"
+msgstr "welsh"
+
+

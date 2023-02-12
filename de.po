@@ -799,16 +799,28 @@ msgid "tag-dfsg"
 msgstr "DFSG-konforme Lizenzen"
 
 msgid "metric-rank"
-msgstr "Rang auf distrochooser.de"
+msgstr "Rang auf Distrochooser"
 
 msgid "metric-percentage"
-msgstr "Nutzerzustimmung auf distrochooser.de"
+msgstr "Zustimmung auf Distrochooser"
 
 msgid "metric-tags"
-msgstr "Zusätliche Kriterien"
+msgstr "Zusätzliche Kriterien erfüllt"
 
 msgid "metric-website"
 msgstr "Website"
+
+msgid "metric-hardware-check"
+msgstr "Anforderungen"
+
+msgid "metric-age"
+msgstr "Alter"
+
+msgid "metric-no-value-yet"
+msgstr "Noch keine Daten vorhanden"
+
+msgid "metrics-copyright"
+msgstr "Quelle: Wikidata"
 
 msgid "number-first"
 msgstr "."
@@ -830,3 +842,75 @@ msgstr "abgestimmt"
 
 msgid "metric-website-clicks"
 msgstr "Klicks"
+
+msgid "hardware-title"
+msgstr "Hardwareanforderungen"
+
+msgid "hardware-text"
+msgstr "Es ist wichtig zu wissen, ob besondere Anforderungen seitens Hardware bestehen. Du kannst diese Seite überspringen, wenn du nicht sicher bist."
+
+msgid "hardware-this-computer"
+msgstr "Versuchen, Eigenschaften anhand des verwendeten Computers zu ermitteln"
+
+msgid "windows-x-hint"
+msgstr "Drücke die Taste Windows+X gleichzeitig oder suche nach 'System' im Startmenü"
+
+msgid "windows-choose-system"
+msgstr "Wähle 'System' aus. Du findest dort die Angaben zu Arbeitsspeicher (RAM) und deinem Prozessor. Hier ist vor allem wichtig, den Wert mit der Einheit Gigahertz (Ghz) und die Anzahl der Kerne (Cores) zu kennen."
+
+msgid "linux-open-terminal"
+msgstr "Öffne ein Terminal. Du findest den Eintrag häufig über dein Startmenü"
+
+msgid "linux-execute"
+msgstr "Führe folgenden Befehl aus. Der Befehl führt lediglich Befehle aus, die Informationen zum Prozessor und Arbeitsspeicher liefern."
+
+msgid "no-mac-distros"
+msgstr "Distrochooser führt derzeit keine Einträge für Mac-Kompatible Distributionen"
+
+msgid "hardware-cpu-cores-title"
+msgstr "CPU Kerne"
+
+msgid "hardware-cpu-frequency-title"
+msgstr "CPU Frequenz, Ghz"
+
+msgid "hardware-memory-title"
+msgstr "Arbeitsspeicher, GB"
+
+msgid "hardware-storage-title"
+msgstr "Speicherplatz, GB"
+
+msgid "hardware-cpu-cores-placeholder"
+msgstr "Anzahl"
+
+msgid "hardware-cpu-frequency-placeholder"
+msgstr "Gigahertz"
+
+msgid "hardware-memory-placeholder"
+msgstr "Gigabyte"
+
+msgid "hardware-storage-placeholder"
+msgstr "Gigabyte"
+
+msgid "hardware-touch-title"
+msgstr "Toucheingabe"
+
+msgid "metric-hardware-check-no-value"
+msgstr "Noch keine Daten hinterlegt"
+
+msgid "hardware-check-failed"
+msgstr "Die Hardwareanforderungen werden nicht erfüllt"
+
+msgid "hardware-check-succeeded"
+msgstr "Die Hardwareanforderungen werden erfüllt"
+
+msgid "category-hardware-requirements"
+msgstr "Meine Hardwareanforderungen"
+
+msgid "clear-skip-question"
+msgstr "Werte löschen und überspringen"
+
+msgid "boolean-false"
+msgstr "Nein"
+
+msgid "boolean-true"
+msgstr "Ja"
