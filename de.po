@@ -75,7 +75,7 @@ msgid "software-admin-category"
 msgstr "Administration"
 
 msgid "software-updates-category"
-msgstr "Updates"
+msgstr "Aktualisierungen"
 
 msgid "special-features-category"
 msgstr "Software: Spezielle Features"
