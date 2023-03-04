@@ -365,8 +365,17 @@ msgstr "give me additional information!"
 msgid "make-important"
 msgstr "This is important!"
 
+msgid "make-less-important"
+msgstr "This is less important for me."
+
+msgid "make-neutral"
+msgstr "Remove weighting"
+
 msgid "marked-as-important"
 msgstr "Marked as important"
+
+msgid "marked-as-less-important"
+msgstr "Marked as less important"
 
 msgid "remove-important"
 msgstr "Remove importance"
@@ -1323,4 +1332,11 @@ msgstr "vietnamese"
 msgid "tag-language-welsh"
 msgstr "welsh"
 
+msgid "mark"
+msgstr "Mark this question"
 
+msgid "marked"
+msgstr "Unmark this question"
+
+msgid "marked-questions"
+msgstr "You marked questions, you may review these first before inspecting your results. The questions are highlighted in the left navigation area."

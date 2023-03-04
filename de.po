@@ -914,3 +914,18 @@ msgstr "Nein"
 
 msgid "boolean-true"
 msgstr "Ja"
+
+msgid "distributions-only-hardware-match"
+msgstr "Es werden nur Ergebnisse mit zutreffenden Hardwareanforderungen angezeigt. Um alle Distributionen anzuzeigen, deaktiviere den Filter beim Menüpunkt 'Meine Hardwareanforderungen'"
+
+msgid "filter-by-hardware"
+msgstr "Nur Ergebnisse anzeigen, die meine Hardwareanforderungen erfüllen"
+
+msgid "mark"
+msgstr "Diese Frage für später speichern"
+
+msgid "marked"
+msgstr "Speicherung entfernen"
+
+msgid "marked-questions"
+msgstr "Du hast Fragen markiert. Eventuell solltest Du die Fragen noch einmal prüfen, bevor du das Ergebnis betrachtest. Die Fragen sind im linken Navigationsbereich hervorgehoben"
