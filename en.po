@@ -1340,3 +1340,6 @@ msgstr "Unmark this question"
 
 msgid "marked-questions"
 msgstr "You marked questions, you may review these first before inspecting your results. The questions are highlighted in the left navigation area."
+
+msgid "toggle-darkmode"
+msgstr "Toggle dark mode"
