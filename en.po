@@ -23,7 +23,7 @@ msgid "category-welcome"
 msgstr "Welcome!"
 
 msgid "software-use-case"
-msgstr "Software: Use case"
+msgstr "Use case"
 
 msgid "computer-knowledge-category"
 msgstr "Computer knowledge"
@@ -35,7 +35,7 @@ msgid "presets-category"
 msgstr "Installation: Presets"
 
 msgid "hardware-category"
-msgstr "Hardware support"
+msgstr "Computer support"
 
 msgid "help-category"
 msgstr "Source for help"
@@ -44,22 +44,22 @@ msgid "ux-concept-category"
 msgstr "User experience"
 
 msgid "price-category"
-msgstr "Distributions: Price"
+msgstr "Price"
 
 msgid "scope-category"
-msgstr "Distributions: Scope"
+msgstr "Scope"
 
 msgid "ideology-category"
-msgstr "Distributions: Ideology"
+msgstr "Ideology"
 
 msgid "privacy-category"
-msgstr "Distributions: Privacy"
+msgstr "Privacy"
 
 msgid "software-admin-category"
 msgstr "Administration"
 
 msgid "software-updates-category"
-msgstr "Software: Updates"
+msgstr "Updates"
 
 msgid "special-features-category"
 msgstr "Software: Special features"
