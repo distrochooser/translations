@@ -929,3 +929,6 @@ msgstr "Speicherung entfernen"
 
 msgid "marked-questions"
 msgstr "Du hast Fragen markiert. Eventuell solltest Du die Fragen noch einmal prüfen, bevor du das Ergebnis betrachtest. Die Fragen sind im linken Navigationsbereich hervorgehoben"
+
+msgid "toggle-darkmode"
+msgstr "Dunkler Modus ein/ aus"
