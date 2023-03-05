@@ -925,10 +925,10 @@ msgid "filter-by-hardware"
 msgstr "Nur Ergebnisse anzeigen, die meine Hardwareanforderungen erfüllen"
 
 msgid "mark"
-msgstr "Diese Frage für später speichern"
+msgstr "Diese Frage für später markieren"
 
 msgid "marked"
-msgstr "Speicherung entfernen"
+msgstr "Markierung aufheben"
 
 msgid "marked-questions"
 msgstr "Du hast Fragen markiert. Eventuell solltest Du die Fragen noch einmal prüfen, bevor du das Ergebnis betrachtest. Die Fragen sind im linken Navigationsbereich hervorgehoben"
