@@ -373,6 +373,9 @@ msgstr "Als wichtig markiert"
 msgid "remove-important"
 msgstr "Wieder normal gewichten"
 
+msgid "make-less-important"
+msgstr "Als weniger wichtig markieren"
+
 msgid "reason-list-header-negative"
 msgstr "Folgende Punkte sprechen gegen diese Distribution"
 
