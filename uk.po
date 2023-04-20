@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-04-16 00:10+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2023-04-21 18:20+0000\n"
+"Last-Translator: bodamat <bomtvv@gmail.com>\n"
 "Language-Team: Ukrainian <https://translate.distrochooser.de/projects/"
 "distrochooser/translations/uk/>\n"
 "Language: uk\n"
@@ -175,3 +175,50 @@ msgstr ""
 "потреби.<br> Поданий результат є пропозиціями побудовані на відповідях. "
 "Інколи він може не співпадати з очікуваннями через складність взаємодії між "
 "відповідями."
+
+msgid "no-results-text"
+msgstr ""
+"Distrochooser не зміг знайти відповідний результат на основі ваших "
+"відповідей. Було б дуже корисно, якби ви написали нам відгук, щоб ми могли "
+"це дослідити."
+
+msgid "close-additional-info"
+msgstr "Закрити"
+
+msgid "no-answers"
+msgstr "Ви не дали відповідей."
+
+msgid "get-my-result"
+msgstr "Показує ваші результати."
+
+msgid "distribution-homepage"
+msgstr "Головна сторінка дистрибутиву"
+
+msgid "result-remarks-added"
+msgstr "Дякуємо за ваш відгук!"
+
+msgid "software-use-case-answer-daily"
+msgstr "Я хочу дистрибутив для щоденного використання."
+
+msgid "software-use-case-anonymous-answer"
+msgstr "Я хочу використовувати Linux для анонімного перегляду веб-сторінок."
+
+msgid "software-use-case-answer-gaming"
+msgstr "Я віддаю перевагу дистрибутиву, який підтримується видавцями ігор."
+
+msgid "linux-knowledge-answer-advanced"
+msgstr "Я вже використовував Linux для деяких цілей"
+
+msgid "remark-placeholder"
+msgstr "Ваш відгук (макс. 3000 символів)"
+
+msgid "share-result"
+msgstr "Поділитися своїм результатом"
+
+msgid "software-use-case-question"
+msgstr ""
+"Деякі дистрибутиви створені для спеціального призначення, деякі для "
+"щоденного використання. Що вам потрібно?"
+
+msgid "linux-knowledge-answer-beginner"
+msgstr "Маю мало або зовсім знань про Linux"
