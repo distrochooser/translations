@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-04-21 18:20+0000\n"
+"PO-Revision-Date: 2023-05-04 23:20+0000\n"
 "Last-Translator: bodamat <bomtvv@gmail.com>\n"
 "Language-Team: Ukrainian <https://translate.distrochooser.de/projects/"
 "distrochooser/translations/uk/>\n"
@@ -222,3 +222,6 @@ msgstr ""
 
 msgid "linux-knowledge-answer-beginner"
 msgstr "Маю мало або зовсім знань про Linux"
+
+msgid "linux-knowledge-answer-professional"
+msgstr "Я добре розуміюся на операційній системі Linux"
