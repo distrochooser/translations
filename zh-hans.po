@@ -1,3 +1,20 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-12 05:20+0000\n"
+"PO-Revision-Date: 2023-05-12 05:20+0000\n"
+"Last-Translator: Sen Yue <sencat31@outlook.com>\n"
+"Language-Team: Chinese (Simplified) <https://translate.distrochooser.de/"
+"projects/distrochooser/translations/zh_Hans/>\n"
+"Language: zh-hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
+
 msgid "loading"
 msgstr "加载中"
 
@@ -200,7 +217,7 @@ msgid "linux-knowledge-question"
 msgstr "您使用 Linux 的熟练程度如何？"
 
 msgid "linux-knowledge-answer-beginner"
-msgstr "我几乎不了解 Linux "
+msgstr "我几乎不了解 Linux"
 
 msgid "linux-knowledge-answer-advanced"
 msgstr "我正在使用 Linux 来完成一些工作"
@@ -230,7 +247,7 @@ msgid "hardware-question-oldpc"
 msgstr "我不确定 和/或 我的电脑已经有性能问题 和/或 我的电脑只支持32位"
 
 msgid "hardware-question-newpc"
-msgstr "的电脑性能很好，我没有遇到任何性能问题，我的硬件也支持64位"
+msgstr "我的电脑性能很好，我没有遇到任何性能问题，我的硬件也支持64位"
 
 msgid "help-question"
 msgstr "有的发行版使用 wiki 文章帮用户解决问题。您更喜欢怎样获得帮助？"
@@ -299,7 +316,7 @@ msgid "software-admin-question"
 msgstr "管理 Linux 发行版有许多方法，例如安装软件。"
 
 msgid "software-admin-answer-appstore"
-msgstr "我想通过各种「软件商店」来安装程序。 "
+msgstr "我想通过各种「软件商店」来安装程序"
 
 msgid "software-admin-answer-console"
 msgstr "我主要想通过终端命令来安装应用软件"
@@ -575,7 +592,7 @@ msgid "matrix-has-windows-like-variant-cinnamon"
 msgstr "有一个版本提供「cinnamon」桌面环境，外观与 Windows 类似"
 
 msgid "systemd-is-avoidable-per-selection"
-msgstr "根据用户的选择可以避免 Systemd"
+msgstr "根据用户的选择可以避免 systemd"
 
 msgid "matrix-ships-systemd-but-disabled"
 msgstr "Systemd 会被提供，但不会默认启用"
@@ -636,7 +653,7 @@ msgid "description-ubuntumate"
 msgstr "Ubuntu MATE 是一个基于 Ubuntu 的发行版，使用轻量级 MATE 桌面环境"
 
 msgid "description-popos"
-msgstr "Pop!_OS 是一个基于 Ubuntu 的发行版，使用 System76 定制的 GNOME 桌面环境。"
+msgstr "Pop!_OS 是一个基于 Ubuntu 的发行版，使用 System76 定制的 GNOME 桌面环境"
 
 msgid "description-fedora"
 msgstr "Fedora 是一个由 Red Hat 支持的发行版，注重自由软件"
@@ -673,7 +690,7 @@ msgstr "deutsch"
 
 # update pack 26th december 2019
 msgid "debian-updates-slow"
-msgstr "Debian 的更新经常会很慢，但是很稳定。"
+msgstr "Debian 的更新经常会很慢，但是很稳定"
 
 msgid "description-qubesos"
 msgstr "Qubes OS 在虚拟机中执行进程，有利于安全"
@@ -752,3 +769,21 @@ msgstr "1 个结果因一致性不佳而被隐藏。 单击此处查看所有发
 
 msgid "display-options"
 msgstr "你可以在这里改变你的结果显示"
+
+msgid "tags-ideology-answer-free"
+msgstr "首选开源许可证"
+
+msgid "tag-mit"
+msgstr "MIT"
+
+msgid "tag-gpl"
+msgstr "GNU Public License"
+
+msgid "tag-dfsg"
+msgstr "DFSG compatible licenses"
+
+msgid "metric-tags"
+msgstr "附加条件"
+
+msgid "metric-website"
+msgstr "网站"
