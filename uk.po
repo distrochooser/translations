@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-05-04 23:20+0000\n"
-"Last-Translator: bodamat <bomtvv@gmail.com>\n"
+"PO-Revision-Date: 2024-01-14 07:29+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Ukrainian <https://translate.distrochooser.de/projects/"
 "distrochooser/translations/uk/>\n"
 "Language: uk\n"
@@ -225,3 +225,14 @@ msgstr "Маю мало або зовсім знань про Linux"
 
 msgid "linux-knowledge-answer-professional"
 msgstr "Я добре розуміюся на операційній системі Linux"
+
+msgid "computer-knowledge-question"
+msgstr "Як би ви оцінили ваші знання користування комп'ютером?"
+
+msgid "computer-knowledge-answer-beginner"
+msgstr ""
+"Я часто потребую допомоги від інших, щоб вирішити проблеми зі своїм "
+"комп'ютером"
+
+msgid "computer-knowledge-answer-advanced"
+msgstr "Я вже можу розв'язати певні проблеми з комп'ютером самостійно"
