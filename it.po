@@ -1,3 +1,20 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-18 17:20+0000\n"
+"PO-Revision-Date: 2024-01-18 17:20+0000\n"
+"Last-Translator: Terry Davis <email@skiff.com>\n"
+"Language-Team: Italian <https://translate.distrochooser.de/projects/"
+"distrochooser/translations/it/>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16.4\n"
+
 msgid "loading"
 msgstr "caricamento"
 
@@ -184,7 +201,6 @@ msgstr "Voglio usare Linux per navigare privatamente."
 msgid "software-use-case-answer-gaming"
 msgstr "Preferisco una distribuzione che sia supportata dagli editori di giochi."
 
-
 msgid "computer-knowledge-question"
 msgstr "Come valuteresti le tue competenze nell'usare il computer?"
 
@@ -196,7 +212,6 @@ msgstr "Sono gia' in grado di risolvere alcuni problemi del computer da solo"
 
 msgid "computer-knowledge-answer-professional"
 msgstr "Posso risolvere tutti o quasi tutti i problemi del computer da solo"
-
 
 msgid "linux-knowledge-question"
 msgstr "Come valuteresti la tua conoscenza di Linux?"
@@ -210,7 +225,6 @@ msgstr "Ho già utilizzato Linux per alcuni motivi"
 msgid "linux-knowledge-answer-professional"
 msgstr "Ho una buona conoscenza del sistema operativo Linux"
 
-
 msgid "presets-question"
 msgstr "Quante impostazioni desideri modificare da solo durante l'installazione? Quante variabili di configurazione devono essere riempite con valori predefiniti?"
 
@@ -222,7 +236,6 @@ msgstr "Voglio scegliere le impostazioni da solo"
 
 msgid "presets-question-answer-guiselections"
 msgstr "Voglio configurare il più possibile usando interfacce grafiche"
-
 
 msgid "hardware-question"
 msgstr "E' importante sapere quanti anni ha l'hardware del tuo computer, visto che alcune distribuzioni non possono funzionare su vecchi computer."
@@ -236,7 +249,6 @@ msgstr "Non sono sicuro e/o il mio computer ha già problemi di performance e/o 
 msgid "hardware-question-newpc"
 msgstr "Le performance del mio computer sono buone, non rilevo nessun problema di performance, il mio hardware supporta 64 bit"
 
-
 msgid "help-question"
 msgstr "Alcune distribuzioni preferiscono articoli in pagine wiki per la risoluzione di problemi. Cosa preferisci?"
 
@@ -245,7 +257,6 @@ msgstr "Sono in grado di risolvere problemi usando guide da pagine wiki o tutori
 
 msgid "help-question-user-exchange"
 msgstr "Preferisco chiedere aiuto ad altri"
-
 
 msgid "ux-concept-question"
 msgstr "Linux può usare diverse Interfacce Utente (\"Desktops\"). Molte distribuzioni forniscono un desktop come predefinito. E' importante sapere se hai delle preferenze per un certo tipo di desktop. Puoi cambiare e installare nuovi desktop in qualsiasi momento!"
@@ -271,7 +282,6 @@ msgstr "Preferisco una distribuzione gratuita"
 msgid "price-answer-paid"
 msgstr "Mi starebbe bene pagare una tassa"
 
-
 msgid "scope-question"
 msgstr "Distribuzioni diverse preinstallano diverse quantità di software. Alcuni installano una suite completa di programmi di base per funzionare \"fuori dalla scatola\". Altre distribuzioni offrono solo un'installazione di base per consentire all'utente di installare i programmi che desiderano utilizzare."
 
@@ -280,7 +290,6 @@ msgstr "Preferisco una distribuzione che presenti tutti i programmi di base di c
 
 msgid "scope-answer-ownselection"
 msgstr "Voglio scegliere da solo i programmi di base da installare"
-
 
 msgid "ideology-question"
 msgstr "L'ideologia (della licenza) di una distribuzione è un dibattito continuo. Ci sono distribuzioni che usano principalmente \"licenze-libere\", altre usano anche software \"non-libero\"."
@@ -294,7 +303,6 @@ msgstr "Voglio usare le licenze libere il piu' possibile"
 msgid "ideology-answer-proprietary-ok"
 msgstr "Sto bene con le licenze non libere fintanto che il mio sistema funziona"
 
-
 msgid "privacy-question"
 msgstr "Alcune distribuzioni utilizzano servizi online per migliorare l'esperienza dell'utente. Ciò può influire sulla privacy dell'utente, vale a dire che l'utente può essere monitorato quando utilizza tali funzionalità online."
 
@@ -303,7 +311,6 @@ msgstr "Non lo voglio"
 
 msgid "privacy-answer-services-ok"
 msgstr "Se migliora la mia esperienza utente, sono d'accordo ad utilizzare questi servizi online"
-
 
 msgid "software-admin-question"
 msgstr "Esistono molti modi per amministrare una distribuzione Linux, e. g. per installare i software."
@@ -314,7 +321,6 @@ msgstr "Voglio installare i miei programmi utilizzando una specie di \"App store
 msgid "software-admin-answer-console"
 msgstr "Voglio installare i software utilizzando principalmente comandi di terminale"
 
-
 msgid "special-features-qestion"
 msgstr "Alcune distribuzioni hanno funzionalità aggiuntive per scopi specifici. Ho bisogno di tali funzionalità?"
 
@@ -323,7 +329,6 @@ msgstr "Molte distribuzioni usano 'systemd' per avviare il sistema operativo ste
 
 msgid "answer-isolation"
 msgstr "Le applicazioni dovrebbero essere eseguite in un ambiente isolato per impostazione predefinita"
-
 
 msgid "software-updates-question"
 msgstr "Alcune distribuzioni offrono aggiornamenti più rapidi, che possono influire sulla stabilità del sistema. Cosa preferisci?"
@@ -602,7 +607,6 @@ msgid "matrix-free-userselection"
 msgstr "L'uso del software libero dipende dalla selezione dell'utente"
 
 # distribution descriptions
-
 msgid "description-manjaro"
 msgstr "Manjaro è una distribuzione a rilascio continuo focalizzata sulla facilità d'uso"
 
@@ -685,7 +689,6 @@ msgid "locale-de"
 msgstr "deutsch"
 
 # update pack 26th december 2019
-
 msgid "debian-updates-slow"
 msgstr "Gli aggiornamenti sono lenti, ma di solito stabili"
 
@@ -709,7 +712,6 @@ msgstr "I lettori di schermo possono essere installati in un secondo momento (ad
 
 msgid "source"
 msgstr "Fonte"
-
 
 msgid "description-void"
 msgstr "Void Linux si basa sui rilasci a rotazione e non utilizza systemd"
@@ -766,4 +768,4 @@ msgid "distributions-hidden"
 msgstr "# I risultati sono stati nascosti a causa di una scarsa corrispondenza. Fare clic qui per visualizzare tutte le distribuzioni."
 
 msgid "display-options"
-msgstr "È possibile modificare la visualizzazione dei risultati qui"    
+msgstr "È possibile modificare la visualizzazione dei risultati qui"
