@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-01-17 17:02+0000\n"
-"Last-Translator: Terry Davis <email@skiff.com>\n"
+"Last-Translator: Joseph Goebbels <alidevex@skiff.com>\n"
 "Language-Team: German (informal) <https://translate.distrochooser.de/"
 "projects/distrochooser/translations/de@informal/>\n"
 "Language: de@informal\n"
@@ -31,3 +31,12 @@ msgstr "Du kannst mehrere Antworten wählen"
 
 msgid "software-admin-category"
 msgstr "Verwaltung"
+
+msgid "vendor-text"
+msgstr "Ein Projekt von chmr.eu"
+
+msgid "category-welcome"
+msgstr "Willkommen!"
+
+msgid "get-result"
+msgstr "Erhalte das Ergebnis"
