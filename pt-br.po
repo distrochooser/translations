@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-30 15:20+0000\n"
-"PO-Revision-Date: 2024-01-14 07:29+0000\n"
+"PO-Revision-Date: 2024-01-27 17:20+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.distrochooser.de/"
 "projects/distrochooser/translations/pt_BR/>\n"
@@ -224,7 +224,7 @@ msgid "linux-knowledge-answer-advanced"
 msgstr "Já usei Linux para alguns propósitos"
 
 msgid "linux-knowledge-answer-professional"
-msgstr "Tenho um bom conhecimento sobre o sistema operacional Linux"
+msgstr "Tenho um bom conhecimento sobre o sistema Linux."
 
 msgid "presets-question"
 msgstr "Quantas configurações deseja modificar por você mesmo durante a instalação? Quantas variáveis de configuração devem estar com valores predeterminados?"
@@ -714,7 +714,7 @@ msgstr "MX Linux é uma distribuição de uso intermediário de recursos que foc
 
 msgid "description-knoppix"
 msgstr ""
-"Knoppix é um sistema operacional focado em \"uso ao vivo\" com uma ampla "
+"Knoppix é uma  sistema operacional focada em \"uso ao vivo\" com uma ampla "
 "gama de suporte à hardware"
 
 msgid "description-cruxlinux"
