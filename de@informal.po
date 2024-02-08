@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-08 17:46+0000\n"
+"PO-Revision-Date: 2024-02-08 22:42+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German (informal) <https://translate.distrochooser.de/"
 "projects/distrochooser/translations/de@informal/>\n"
