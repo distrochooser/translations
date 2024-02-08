@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-12 05:20+0000\n"
-"PO-Revision-Date: 2024-02-06 04:29+0000\n"
+"PO-Revision-Date: 2024-02-08 16:50+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified) <https://translate.distrochooser.de/"
 "projects/distrochooser/translations/zh_Hans/>\n"
@@ -245,6 +245,7 @@ msgstr "多年以来，部分发行版始终使用 32 位架构，仅允许分�
 msgid "hardware-question-oldpc"
 msgstr "我不确定 和/或 我的电脑已经有性能问题 和/或 我的电脑只支持32位"
 
+#, fuzzy
 msgid "hardware-question-newpc"
 msgstr "的电脑性能很好，我没有遇到任何性能问题，我的硬件也支持64位"
 
@@ -315,7 +316,7 @@ msgid "software-admin-question"
 msgstr "管理 Linux 发行版有许多方法，例如安装软件。"
 
 msgid "software-admin-answer-appstore"
-msgstr "我想通过各种「软件商店」来安装程序。"
+msgstr "我想通过各种「软件商店」来安装程序"
 
 msgid "software-admin-answer-console"
 msgstr "我主要想通过终端命令来安装应用软件"
@@ -591,7 +592,7 @@ msgid "matrix-has-windows-like-variant-cinnamon"
 msgstr "有一个版本提供「cinnamon」桌面环境，外观与 Windows 类似"
 
 msgid "systemd-is-avoidable-per-selection"
-msgstr "根据用户的选择可以避免 systemd"
+msgstr "根据用户的选择可以避免 Systemd"
 
 msgid "matrix-ships-systemd-but-disabled"
 msgstr "Systemd 会被提供，但不会默认启用"
@@ -652,7 +653,7 @@ msgid "description-ubuntumate"
 msgstr "Ubuntu MATE 是一个基于 Ubuntu 的发行版，使用轻量级 MATE 桌面环境"
 
 msgid "description-popos"
-msgstr "Pop!_OS 是一个基于 Ubuntu 的发行版，使用 System76 定制的 GNOME 桌面环境。"
+msgstr "Pop!_OS 是一个基于 Ubuntu 的发行版，使用 System76 定制的 GNOME 桌面环境"
 
 msgid "description-fedora"
 msgstr "Fedora 是一个由 Red Hat 支持的发行版，注重自由软件"
