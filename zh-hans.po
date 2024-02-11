@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-12 05:20+0000\n"
-"PO-Revision-Date: 2024-02-11 02:43+0000\n"
+"PO-Revision-Date: 2024-02-11 15:22+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified) <https://translate.distrochooser.de/"
 "projects/distrochooser/translations/zh_Hans/>\n"
@@ -653,7 +653,7 @@ msgid "description-ubuntumate"
 msgstr "Ubuntu MATE 是一个基于 Ubuntu 的发行版，使用轻量级 MATE 桌面环境"
 
 msgid "description-popos"
-msgstr "Pop!_OS 是一个基于 Ubuntu 的发行版，使用 System76 定制的 GNOME 桌面环境"
+msgstr "Pop!_OS 是一个基于 Ubuntu 的发行版，使用 System76 定制的 GNOME 桌面环境。"
 
 msgid "description-fedora"
 msgstr "Fedora 是一个由 Red Hat 支持的发行版，注重自由软件"
@@ -690,7 +690,7 @@ msgstr "deutsch"
 
 # update pack 26th december 2019
 msgid "debian-updates-slow"
-msgstr "Debian 的更新经常会很慢，但是很稳定"
+msgstr "Debian 的更新经常会很慢，但是很稳定。"
 
 msgid "description-qubesos"
 msgstr "Qubes OS 在虚拟机中执行进程，有利于安全"
