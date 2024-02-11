@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-11 02:43+0000\n"
+"PO-Revision-Date: 2024-02-11 15:22+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German (informal) <https://translate.distrochooser.de/"
 "projects/distrochooser/translations/de@informal/>\n"
@@ -39,7 +39,7 @@ msgid "category-welcome"
 msgstr "Willkommen!"
 
 msgid "get-result"
-msgstr "Erhalte das Ergebnis."
+msgstr "Erhalte das Ergebnis"
 
 msgid "software-use-case"
 msgstr "Software: Anwendungsfall"
