@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-12 05:20+0000\n"
-"PO-Revision-Date: 2024-02-21 15:04+0000\n"
+"PO-Revision-Date: 2024-02-24 00:13+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified) <https://translate.distrochooser.de/"
 "projects/distrochooser/translations/zh_Hans/>\n"
@@ -247,7 +247,7 @@ msgstr "我不确定 和/或 我的电脑已经有性能问题 和/或 我的电
 
 #, fuzzy
 msgid "hardware-question-newpc"
-msgstr "的电脑性能很好，我没有遇到任何性能问题，我的硬件也支持64位"
+msgstr "我的电脑性能很好，我没有遇到任何性能问题，我的硬件也支持64位"
 
 msgid "help-question"
 msgstr "有的发行版使用 wiki 文章帮用户解决问题。您更喜欢怎样获得帮助？"
@@ -592,7 +592,7 @@ msgid "matrix-has-windows-like-variant-cinnamon"
 msgstr "有一个版本提供「cinnamon」桌面环境，外观与 Windows 类似"
 
 msgid "systemd-is-avoidable-per-selection"
-msgstr "根据用户的选择可以避免 systemd"
+msgstr "根据用户的选择可以避免 Systemd"
 
 msgid "matrix-ships-systemd-but-disabled"
 msgstr "Systemd 会被提供，但不会默认启用"
@@ -690,7 +690,7 @@ msgstr "deutsch"
 
 # update pack 26th december 2019
 msgid "debian-updates-slow"
-msgstr "Debian 的更新经常会很慢，但是很稳定。"
+msgstr "Debian 的更新经常会很慢，但是很稳定"
 
 msgid "description-qubesos"
 msgstr "Qubes OS 在虚拟机中执行进程，有利于安全"
