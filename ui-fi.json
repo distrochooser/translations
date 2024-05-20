@@ -1,0 +1,12 @@
+{
+    "WELCOME_WIDGET_HEADER": "Tervetuloa distrochooser.de -sivustolle!",
+    "WELCOME_WIDGET_TEXT": "Voit aina ohittaa kysymykset",
+    "WELCOME_WIDGET_SKIP_QUESTIONS": "Voit aina ohittaa kysymykset",
+    "WELCOME_WIDGET_GET_ANSWER_ANY_TIME": "Voit aina napsauttaa 'sinun suosituksesi' noutaaksesi tulokset",
+    "WELCOME_WIDGET_ANY_ORDER": "Voit aina vastata sattumanvaraisessa j\u00e4rjestyksess\u00e4",
+    "WELCOME_WIDGET_DELETE_ANY_TIME": "Voit poistaa vastaukset milloin tahansa",
+    "BTN_NEXT_PAGE": "jatka",
+    "BTN_PREV_PAGE": "mene takaisin",
+    "LINK_ABOUT": "Tietoja distrochooser.de -sivustosta",
+    "LANGUAGE": "Kieli"
+}

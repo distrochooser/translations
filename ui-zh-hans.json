@@ -1,0 +1,12 @@
+{
+    "WELCOME_WIDGET_HEADER": "\u6b22\u8fce\u6765\u5230 distrochooser.de\uff01",
+    "WELCOME_WIDGET_TEXT": "\u60a8\u53ef\u4ee5\u968f\u65f6\u8df3\u8fc7\u95ee\u9898",
+    "WELCOME_WIDGET_SKIP_QUESTIONS": "\u60a8\u53ef\u4ee5\u968f\u65f6\u8df3\u8fc7\u95ee\u9898",
+    "WELCOME_WIDGET_GET_ANSWER_ANY_TIME": "\u60a8\u53ef\u4ee5\u968f\u65f6\u70b9\u51fb\u300c\u60a8\u7684\u7ed3\u679c\u300d\u6765\u83b7\u53d6\u7ed3\u679c",
+    "WELCOME_WIDGET_ANY_ORDER": "\u60a8\u53ef\u4ee5\u6309\u4efb\u610f\u987a\u5e8f\u56de\u7b54",
+    "WELCOME_WIDGET_DELETE_ANY_TIME": "\u60a8\u53ef\u4ee5\u968f\u65f6\u5220\u9664\u60a8\u7684\u7b54\u6848",
+    "BTN_NEXT_PAGE": "\u524d\u8fdb",
+    "BTN_PREV_PAGE": "\u8fd4\u56de",
+    "LINK_ABOUT": "\u5173\u4e8e distrochooser.de",
+    "LANGUAGE": "\u8bed\u8a00"
+}
