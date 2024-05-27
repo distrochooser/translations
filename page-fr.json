@@ -1,4 +1,6 @@
 {
+    "version-page-text": "You can select a simplified questionaire edition, which removes some super technical questions",
+    "linux-knowledge-page-text": "How would you rate your knowledge with the Linux operating system?",
     "scenario-page-text": "Certaines distributions sont con\u00e7ues pour un usage sp\u00e9cifique, d'autres pour un usage quotidien. De quoi avez-vous besoin ?",
     "pc-knowledge-page-text": "Comment \u00e9valuez-vous vos comp\u00e9tences en mati\u00e8re d'utilisation d'un ordinateur ?",
     "installation-page-text": "Combien de param\u00e8tres souhaitez-vous modifier par vous-m\u00eame lors de l'installation ? Combien doivent-ils \u00eatre pr\u00e9d\u00e9finis ?",
@@ -13,5 +15,20 @@
     "privacy-page-text": "Certaines distributions utilisent des services en ligne pour am\u00e9liorer l'exp\u00e9rience utilisateur. Cela peut affecter la vie priv\u00e9e de l'utilisateur, c'est-\u00e0-dire que celui-ci peut \u00eatre suivi lorsqu'il utilise ces services en ligne.",
     "administration-page-text": "Il existe de nombreuses fa\u00e7ons d'administrer une distribution Linux, par exemple pour installer des logiciels.",
     "administration-page-help": "De nombreuses distributions utilisent \u00ab systemd \u00bb pour d\u00e9marrer le syst\u00e8me d'exploitation lui-m\u00eame. Certaines distributions \u00e9vitent \u00ab systemd \u00bb au profit de solutions alternatives et parfois plus l\u00e9g\u00e8res",
-    "updates-page-text": "Certaines distributions offrent des mises \u00e0 jour plus rapidement, ce qui peut affecter la stabilit\u00e9 du syst\u00e8me. Que pr\u00e9f\u00e9rez-vous ?"
+    "updates-page-text": "Certaines distributions offrent des mises \u00e0 jour plus rapidement, ce qui peut affecter la stabilit\u00e9 du syst\u00e8me. Que pr\u00e9f\u00e9rez-vous ?",
+    "welcome-page-text": null,
+    "welcome-page-help": null,
+    "version-page-help": null,
+    "scenario-page-help": null,
+    "pc-knowledge-page-help": null,
+    "linux-knowledge-page-help": null,
+    "installation-page-help": null,
+    "help-page-help": null,
+    "ux-page-help": null,
+    "pricing-page-help": null,
+    "scope-page-help": null,
+    "privacy-page-help": null,
+    "updates-page-help": null,
+    "result-page-text": null,
+    "result-page-help": null
 }

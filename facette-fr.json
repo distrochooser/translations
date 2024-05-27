@@ -29,5 +29,8 @@
     "scope-out-of-the-box-selectable_description": "Je pr\u00e9f\u00e8re une distribution embarquant tous les programmes de base dont j'ai besoin pour commencer \u00e0 travailler imm\u00e9diatement apr\u00e8s l'installation",
     "scope-own-selection-selectable_description": "Je veux choisir les programmes de base \u00e0 installer par moi-m\u00eame",
     "prefer-stable-selectable_description": "Je pr\u00e9f\u00e8re des mises \u00e0 jour stables",
-    "prefer-fast-selectable_description": "Je pr\u00e9f\u00e8re obtenir des mises \u00e0 jour rapidement"
+    "prefer-fast-selectable_description": "Je pr\u00e9f\u00e8re obtenir des mises \u00e0 jour rapidement",
+    "ux-concept-answer-windows-like-selectable_description": "Je pr\u00e9f\u00e8re une interface utilisateur de type Windows",
+    "ux-concept-answer-mac-like-selectable_description": "Je pr\u00e9f\u00e8re une interface utilisateur de type macOS",
+    "software-admin-answer-console-selectable_description": "Je veux installer des logiciels en utilisant principalement des commandes de terminal"
 }

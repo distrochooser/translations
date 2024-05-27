@@ -29,5 +29,8 @@
     "scope-out-of-the-box-selectable_description": "Saya lebih suka distribusi yang menyediakan semua program dasar yang saya perlukan agar dapat langsung bekerja setelah instalasi",
     "scope-own-selection-selectable_description": "Saya ingin memilih program yang saya instal sendiri",
     "prefer-stable-selectable_description": "Saya ingin pembaruan yang stabil",
-    "prefer-fast-selectable_description": "Saya ingin pembaruan yang cepat"
+    "prefer-fast-selectable_description": "Saya ingin pembaruan yang cepat",
+    "ux-concept-answer-windows-like-selectable_description": "Saya suka tampilan antarmuka pengguna seperti windows",
+    "ux-concept-answer-mac-like-selectable_description": "Saya suka tampilan antarmuka pengguna seperti MacOS",
+    "software-admin-answer-console-selectable_description": "Saya ingin menginstal aplikasi menggunakan perintah terminal"
 }

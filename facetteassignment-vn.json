@@ -36,6 +36,9 @@
     "matrix-lightweight-facette-no64bit-long_description": "B\u1ea3n ph\u00e2n ph\u1ed1i nh\u1eb9",
     "matrix-tutorial-facette-manuals-long_description": "C\u00f3 c\u00e1c h\u01b0\u1edbng d\u1eabn \u0111\u1ec3 kh\u1eafc ph\u1ee5c s\u1ef1 c\u1ed1 v\u00e0 gi\u1ea3i quy\u1ebft v\u1ea5n \u0111\u1ec1",
     "matrix-user-exchange-facette-need-human-help-long_description": "C\u00f3 c\u1ed9ng \u0111\u1ed3ng ng\u01b0\u1eddi d\u00f9ng \u0111\u1ec3 chia s\u1ebb ki\u1ebfn th\u1ee9c",
+    "matrix-has-windows-like-variant-cinnamon-facette-ux-concept-answer-windows-like-long_description": "M\u1ed9t bi\u1ebfn th\u1ec3 ph\u00e1t h\u00e0nh v\u1edbi m\u00f4i tr\u01b0\u1eddng desktop 'cinnamon', c\u00f3 giao di\u1ec7n gi\u1ed1ng Windows",
+    "matrix-has-windows-like-variant-facette-ux-concept-answer-windows-like-long_description": "C\u00f3 c\u00e1c bi\u1ebfn th\u1ec3 v\u1edbi giao di\u1ec7n ng\u01b0\u1eddi d\u00f9ng gi\u1ed1ng nh\u01b0 Windows",
+    "matrix-mac-like-facette-ux-concept-answer-mac-like-long_description": "GUI c\u00f3 c\u00e1c th\u00e0nh ph\u1ea7n gi\u1ed1ng macOS",
     "matrix-without-fee-facette-pricing-free-long_description": "C\u00f3 th\u1ec3 s\u1eed d\u1ee5ng m\u00e0 kh\u00f4ng m\u1ea5t ph\u00ed",
     "matrix-paid-version-existing-facette-paid-support-ok-long_description": "C\u00f3 m\u1ed9t phi\u00ean b\u1ea3n kh\u00f4ng mi\u1ec5n ph\u00ed c\u1ee7a b\u1ea3n ph\u00e2n ph\u1ed1i n\u00e0y",
     "matrix-fullinstall-facette-scope-out-of-the-box-long_description": "C\u00e0i \u0111\u1eb7t t\u1ea5t c\u1ea3 c\u00e1c ch\u01b0\u01a1ng tr\u00ecnh c\u1ea7n thi\u1ebft",
@@ -48,8 +51,8 @@
     "matrix-supports-privacy-facette-privacy-no-connections-unless-wanted-long_description": "Ch\u1ec9 thu th\u1eadp d\u1eef li\u1ec7u khi c\u00e1c d\u1ecbch v\u1ee5 tr\u1ef1c tuy\u1ebfn \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng",
     "matrix-privacy-thirdparty-facette-okay-when-working-long_description": "M\u1eb7c \u0111\u1ecbnh c\u00f3 k\u1ebft n\u1ed1i v\u1edbi c\u00e1c d\u1ecbch v\u1ee5 c\u1ee7a b\u00ean th\u1ee9 ba",
     "matrix-appstore-facette-app-store-gui-long_description": "C\u00e0i \u0111\u1eb7t ph\u1ea7n m\u1ec1m c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c th\u1ef1c hi\u1ec7n b\u1eb1ng c\u1eeda h\u00e0ng \u1ee9ng d\u1ee5ng",
-    "matrix-console-facette-install-from-source-long_description": "C\u00e0i \u0111\u1eb7t ph\u1ea7n m\u1ec1m c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c th\u1ef1c hi\u1ec7n b\u1eb1ng terminal",
-    "matrix-administration-shell-facette-install-from-source-long_description": "Qu\u1ea3n tr\u1ecb ch\u1ee7 y\u1ebfu \u0111\u01b0\u1ee3c th\u1ef1c hi\u1ec7n b\u1eb1ng c\u00e1ch s\u1eed d\u1ee5ng c\u00e1c l\u1ec7nh tr\u00ean shell",
+    "matrix-console-facette-software-admin-answer-console-long_description": "C\u00e0i \u0111\u1eb7t ph\u1ea7n m\u1ec1m c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c th\u1ef1c hi\u1ec7n b\u1eb1ng terminal",
+    "matrix-administration-shell-facette-software-admin-answer-console-long_description": "Qu\u1ea3n tr\u1ecb ch\u1ee7 y\u1ebfu \u0111\u01b0\u1ee3c th\u1ef1c hi\u1ec7n b\u1eb1ng c\u00e1ch s\u1eed d\u1ee5ng c\u00e1c l\u1ec7nh tr\u00ean shell",
     "matrix-uses-systemd-facette-no-systemd-long_description": "S\u1eed d\u1ee5ng systemd",
     "matrix-avoids-systemd-facette-no-systemd-long_description": "Tr\u00e1nh systemd",
     "systemd-is-avoidable-per-selection-facette-no-systemd-long_description": "Systemd c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c lo\u1ea1i b\u1ecf t\u00f9y l\u1ef1a ch\u1ecdn c\u1ee7a m\u1ed7i ng\u01b0\u1eddi d\u00f9ng",
@@ -64,5 +67,9 @@
     "slow-release-model-facette-prefer-stable-long_description": "C\u00e1c phi\u00ean b\u1ea3n ph\u1ea7n m\u1ec1m c\u00f3 s\u1eb5n c\u00f3 th\u1ec3 c\u0169 h\u01a1n phi\u00ean b\u1ea3n m\u1edbi nh\u1ea5t t\u1eeb nh\u00e0 cung c\u1ea5p",
     "requires-payment-facette-pricing-free-long_description": "S\u1eed d\u1ee5ng tr\u1ea3 ph\u00ed",
     "matrix-general-remark-additional-eula-facette-privacy-no-connections-unless-wanted-long_description": "Ch\u00ednh s\u00e1ch b\u1ea3o m\u1eadt c\u1ee7a b\u1ea3n ph\u00e2n ph\u1ed1i n\u00ean \u0111\u01b0\u1ee3c \u0111\u1ecdc k\u1ef9 trong qu\u00e1 tr\u00ecnh c\u00e0i \u0111\u1eb7t",
-    "matrix-general-remark-additional-eula-facette-okay-when-working-long_description": "Ch\u00ednh s\u00e1ch b\u1ea3o m\u1eadt c\u1ee7a b\u1ea3n ph\u00e2n ph\u1ed1i n\u00ean \u0111\u01b0\u1ee3c \u0111\u1ecdc k\u1ef9 trong qu\u00e1 tr\u00ecnh c\u00e0i \u0111\u1eb7t"
+    "matrix-general-remark-additional-eula-facette-okay-when-working-long_description": "Ch\u00ednh s\u00e1ch b\u1ea3o m\u1eadt c\u1ee7a b\u1ea3n ph\u00e2n ph\u1ed1i n\u00ean \u0111\u01b0\u1ee3c \u0111\u1ecdc k\u1ef9 trong qu\u00e1 tr\u00ecnh c\u00e0i \u0111\u1eb7t",
+    "matrix-oldpc-no-32bit-desc-facette-no64bit-long_description": null,
+    "matrix-console-facette-install-from-source-long_description": null,
+    "matrix-administration-shell-facette-install-from-source-long_description": null,
+    "matrix-configuration-from-shell-desc-facette-many-choices-gui-long_description": null
 }

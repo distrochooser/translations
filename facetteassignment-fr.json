@@ -36,6 +36,9 @@
     "matrix-lightweight-facette-no64bit-long_description": "Distribution l\u00e9g\u00e8re",
     "matrix-tutorial-facette-manuals-long_description": "Il existe des tutoriels pour le d\u00e9pannage et la r\u00e9solution de probl\u00e8mes",
     "matrix-user-exchange-facette-need-human-help-long_description": "Il existe des communaut\u00e9s d'utilisateurs pour le partage des connaissances",
+    "matrix-has-windows-like-variant-cinnamon-facette-ux-concept-answer-windows-like-long_description": "Une variante est l'environnement de bureau \u00ab Cinnamon \u00bb, dont l'apparence ressemble \u00e0 celle de Windows",
+    "matrix-has-windows-like-variant-facette-ux-concept-answer-windows-like-long_description": "Dispose de variantes avec une interface utilisateur de type Windows",
+    "matrix-mac-like-facette-ux-concept-answer-mac-like-long_description": "L'interface graphique comporte des \u00e9l\u00e9ments similaires \u00e0 macOS",
     "matrix-without-fee-facette-pricing-free-long_description": "Utilisable gratuitement",
     "matrix-paid-version-existing-facette-paid-support-ok-long_description": "Il existe une version payante de cette distribution",
     "matrix-fullinstall-facette-scope-out-of-the-box-long_description": "Installe tous les programmes dont vous avez besoin",
@@ -48,8 +51,8 @@
     "matrix-supports-privacy-facette-privacy-no-connections-unless-wanted-long_description": "Ne recueille des donn\u00e9es que lorsque des services en ligne sont utilis\u00e9s",
     "matrix-privacy-thirdparty-facette-okay-when-working-long_description": "Se connect \u00e0 des services tiers par d\u00e9faut",
     "matrix-appstore-facette-app-store-gui-long_description": "L'installation de logiciels peut se faire \u00e0 l'aide d'un magasin d'applications",
-    "matrix-console-facette-install-from-source-long_description": "L'installation de logiciels peut se faire \u00e0 l'aide du terminal",
-    "matrix-administration-shell-facette-install-from-source-long_description": "L'administration se fait principalement via des commandes dans le terminal",
+    "matrix-console-facette-software-admin-answer-console-long_description": "L'installation de logiciels peut se faire \u00e0 l'aide du terminal",
+    "matrix-administration-shell-facette-software-admin-answer-console-long_description": "L'administration se fait principalement via des commandes dans le terminal",
     "matrix-uses-systemd-facette-no-systemd-long_description": "Utilise systemd",
     "matrix-avoids-systemd-facette-no-systemd-long_description": "\u00c9vite l'utilisation de systemd",
     "systemd-is-avoidable-per-selection-facette-no-systemd-long_description": "Systemd peut ne pas \u00eatre utilis\u00e9 sur d\u00e9cision de l'utilisateur",
@@ -64,5 +67,9 @@
     "slow-release-model-facette-prefer-stable-long_description": "Les versions de logiciels disponibles peuvent \u00eatre plus anciennes que la derni\u00e8re version du fournisseur",
     "requires-payment-facette-pricing-free-long_description": "L'utilisation \u00e0 long terme est payante",
     "matrix-general-remark-additional-eula-facette-privacy-no-connections-unless-wanted-long_description": "La d\u00e9claration de confidentialit\u00e9 de la distribution doit \u00eatre lue attentivement lors de l'installation.",
-    "matrix-general-remark-additional-eula-facette-okay-when-working-long_description": "La d\u00e9claration de confidentialit\u00e9 de la distribution doit \u00eatre lue attentivement lors de l'installation."
+    "matrix-general-remark-additional-eula-facette-okay-when-working-long_description": "La d\u00e9claration de confidentialit\u00e9 de la distribution doit \u00eatre lue attentivement lors de l'installation.",
+    "matrix-oldpc-no-32bit-desc-facette-no64bit-long_description": null,
+    "matrix-console-facette-install-from-source-long_description": null,
+    "matrix-administration-shell-facette-install-from-source-long_description": null,
+    "matrix-configuration-from-shell-desc-facette-many-choices-gui-long_description": null
 }

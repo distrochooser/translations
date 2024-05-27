@@ -29,5 +29,8 @@
     "scope-out-of-the-box-selectable_description": "M\u0259n qura\u015fd\u0131rmadan d\u0259rhal sonra i\u015f\u0259 ba\u015flamaq \u00fc\u00e7\u00fcn laz\u0131m olan b\u00fct\u00fcn \u0259sas proqramlar\u0131 birlikd\u0259 g\u00f6nd\u0259r\u0259n paylanmaya \u00fcst\u00fcnl\u00fck verir\u0259m",
     "scope-own-selection-selectable_description": "M\u0259n \u00f6z\u00fcm qura\u015fd\u0131rma etm\u0259k \u00fc\u00e7\u00fcn sad\u0259c\u0259 \u0259sas proqramlar\u0131 qura\u015fd\u0131rma ed\u0259ni se\u00e7m\u0259k ist\u0259yir\u0259m",
     "prefer-stable-selectable_description": "M\u0259n stabil yenil\u0259nm\u0259l\u0259r\u0259 \u00fcst\u00fcnl\u00fck verir\u0259m",
-    "prefer-fast-selectable_description": "M\u0259n s\u00fcr\u0259tli yenil\u0259nm\u0259l\u0259r\u0259 \u00fcst\u00fcnl\u00fck verir\u0259m"
+    "prefer-fast-selectable_description": "M\u0259n s\u00fcr\u0259tli yenil\u0259nm\u0259l\u0259r\u0259 \u00fcst\u00fcnl\u00fck verir\u0259m",
+    "ux-concept-answer-windows-like-selectable_description": "M\u0259n windows b\u0259nz\u0259ri istifad\u0259\u00e7i interfeysin\u0259 \u00fcst\u00fcnl\u00fck verir\u0259m",
+    "ux-concept-answer-mac-like-selectable_description": "M\u0259n macOS b\u0259nz\u0259ri istifad\u0259\u00e7i interfeysin\u0259 \u00fcst\u00fcnl\u00fck verir\u0259m",
+    "software-admin-answer-console-selectable_description": "M\u0259n proqram t\u0259minat\u0131n\u0131 \u0259sas\u0259n terminal \u0259mrl\u0259rind\u0259n istifad\u0259 etm\u0259kl\u0259 qura\u015fd\u0131rmaq ist\u0259yir\u0259m"
 }

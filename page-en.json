@@ -1,4 +1,6 @@
 {
+    "version-page-text": "You can select a simplified questionaire edition, which removes some super technical questions",
+    "linux-knowledge-page-text": "How would you rate your knowledge with the Linux operating system?",
     "scenario-page-text": "Some distributions are made for a special purpose, some for daily use. What do you need?",
     "pc-knowledge-page-text": "How would you rate your proficiency using a computer?",
     "installation-page-text": "How many settings do you wish to tweak by yourself during installation? How many configuration variables should be filled with default values?",
@@ -13,5 +15,20 @@
     "privacy-page-text": "Some distributions use online services to improve the user experience. This may affect the privacy of the user, i.e. the user can be tracked when using such online features.",
     "administration-page-text": "There are many ways to administrate a Linux distribution, e. g. to install software.",
     "administration-page-help": "Many distributions use 'systemd' to start the operating system itself. Some distributions avoid systemd in favor of alternative and sometimes more lightweight solutions",
-    "updates-page-text": "Some distributions offer faster updates, which can affect system stability. What do you prefer?"
+    "updates-page-text": "Some distributions offer faster updates, which can affect system stability. What do you prefer?",
+    "welcome-page-text": null,
+    "welcome-page-help": null,
+    "version-page-help": null,
+    "scenario-page-help": null,
+    "pc-knowledge-page-help": null,
+    "linux-knowledge-page-help": null,
+    "installation-page-help": null,
+    "help-page-help": null,
+    "ux-page-help": null,
+    "pricing-page-help": null,
+    "scope-page-help": null,
+    "privacy-page-help": null,
+    "updates-page-help": null,
+    "result-page-text": null,
+    "result-page-help": null
 }

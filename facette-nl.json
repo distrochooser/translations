@@ -29,5 +29,8 @@
     "scope-out-of-the-box-selectable_description": "Ik geef de voorkeur aan een distributie die alle basisprogramma's heeft geinstalleerd die ik nodig heb om direct na de installatie aan de slag te gaan",
     "scope-own-selection-selectable_description": "Ik wil zelf de basisprogramma's kiezen om te installeren",
     "prefer-stable-selectable_description": "Ik geef de voorkeur aan stabiele updates",
-    "prefer-fast-selectable_description": "Ik geef de voorkeur aan snelle updates"
+    "prefer-fast-selectable_description": "Ik geef de voorkeur aan snelle updates",
+    "ux-concept-answer-windows-like-selectable_description": "Ik geef de voorkeur aan een Windows-achtige gebruikersinterface",
+    "ux-concept-answer-mac-like-selectable_description": "Ik geef de voorkeur aan een macOS-achtige gebruikersinterface",
+    "software-admin-answer-console-selectable_description": "Ik wil software meestal installeren met terminalcommando's"
 }

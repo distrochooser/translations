@@ -29,5 +29,8 @@
     "scope-out-of-the-box-selectable_description": "Ich m\u00f6chte, dass alle h\u00e4ufig ben\u00f6tigten Programme direkt mitinstalliert werden, damit ich direkt loslegen kann. ",
     "scope-own-selection-selectable_description": "Ich m\u00f6chte die Programme selbst ausw\u00e4hlen und installieren. ",
     "prefer-stable-selectable_description": "Ich m\u00f6chte Aktualisierungen erst dann, wenn sie wirklich stabil sind, auch wenn dies l\u00e4nger dauert. ",
-    "prefer-fast-selectable_description": "Ich m\u00f6chte Aktualisierungen m\u00f6glichst schnell, auch wenn das Probleme mit sich bringen k\u00f6nnte. "
+    "prefer-fast-selectable_description": "Ich m\u00f6chte Aktualisierungen m\u00f6glichst schnell, auch wenn das Probleme mit sich bringen k\u00f6nnte. ",
+    "ux-concept-answer-windows-like-selectable_description": "Ich bevorzuge eine an Windows erinnernde Oberfl\u00e4che. ",
+    "ux-concept-answer-mac-like-selectable_description": "Ich bevorzuge eine an macOS erinnernde Oberfl\u00e4che. ",
+    "software-admin-answer-console-selectable_description": "Ich kenne mich mit den Konsolenbefehlen aus und m\u00f6chte Programme \u00fcber die Paketverwaltung oder deren Quelltext installieren. "
 }

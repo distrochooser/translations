@@ -29,5 +29,8 @@
     "scope-out-of-the-box-selectable_description": "Kurulum sonras\u0131nda direkt kullan\u0131ma haz\u0131r bir Da\u011f\u0131t\u0131m kullanmay\u0131 tercih ederim",
     "scope-own-selection-selectable_description": "Kendim kurmak i\u00e7in temel programlar\u0131 se\u00e7mek istiyorum",
     "prefer-stable-selectable_description": "Stabil g\u00fcncellemeleri almay\u0131 tercih ederim",
-    "prefer-fast-selectable_description": "H\u0131zl\u0131 g\u00fcncelleme almay\u0131 tercih ederim"
+    "prefer-fast-selectable_description": "H\u0131zl\u0131 g\u00fcncelleme almay\u0131 tercih ederim",
+    "ux-concept-answer-windows-like-selectable_description": "Windows benzeri aray\u00fczleri tercih ederim",
+    "ux-concept-answer-mac-like-selectable_description": "mac-Os benzeri aray\u00fczleri tercih ederim",
+    "software-admin-answer-console-selectable_description": "\u00c7o\u011funlukla terminal komutlar\u0131n\u0131 kullanarak uygulama y\u00fcklemek istiyorum"
 }

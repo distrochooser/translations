@@ -1,4 +1,6 @@
 {
+    "version-page-text": "You can select a simplified questionaire edition, which removes some super technical questions",
+    "linux-knowledge-page-text": "How would you rate your knowledge with the Linux operating system?",
     "scenario-page-text": "B\u0259zi paylanmalar x\u00fcsusi m\u0259qs\u0259dl\u0259r \u00fc\u00e7\u00fcn, b\u0259zil\u0259ri g\u00fcnd\u0259lik istifad\u0259 \u00fc\u00e7\u00fcn haz\u0131rlan\u0131r. Siz\u0259 hans\u0131 laz\u0131md\u0131r?",
     "pc-knowledge-page-text": "Komp\u00fcterd\u0259n istifad\u0259 bacar\u0131\u011f\u0131n\u0131z\u0131 nec\u0259 qiym\u0259tl\u0259ndir\u0259rdiniz?",
     "installation-page-text": "Qura\u015fd\u0131rma zaman\u0131 ne\u00e7\u0259 parametrd\u0259 \u00f6z\u00fcn\u00fcz d\u00fcz\u0259li\u015f etm\u0259k ist\u0259rdiniz? Ne\u00e7\u0259 konfiqurasiya d\u0259yi\u015f\u0259ni standart d\u0259y\u0259rl\u0259rl\u0259 doldurulmal\u0131d\u0131r?",
@@ -13,5 +15,20 @@
     "privacy-page-text": "B\u0259zi paylanmalar istifad\u0259\u00e7i t\u0259cr\u00fcb\u0259sini yax\u015f\u0131la\u015fd\u0131rmaq \u00fc\u00e7\u00fcn onlayn xidm\u0259tl\u0259rd\u0259n istifad\u0259 edir. Bu, istifad\u0259\u00e7inin m\u0259xfiliyin\u0259 t\u0259sir g\u00f6st\u0259r\u0259 bil\u0259r, y\u0259ni istifad\u0259\u00e7i bu c\u00fcr onlayn funksiyalardan istifad\u0259 ed\u0259rk\u0259n izl\u0259nil\u0259 bil\u0259r.",
     "administration-page-text": "Linux paylanmas\u0131n\u0131 idar\u0259 etm\u0259yin bir \u00e7ox yolu var, m\u0259s. proqram t\u0259minat\u0131 qura\u015fd\u0131rmaq \u00fc\u00e7\u00fcn.",
     "administration-page-help": "Bir \u00e7ox paylanma \u0259m\u0259liyyat sisteminin \u00f6z\u00fcn\u00fc i\u015f\u0259 salmas\u0131 \u00fc\u00e7\u00fcn 'systemd' istifad\u0259 edir. B\u0259zi paylanmalar alternativ v\u0259 b\u0259z\u0259n daha y\u00fcng\u00fcl h\u0259ll\u0259rin xeyrin\u0259 systemd'd\u0259n yay\u0131n\u0131r",
-    "updates-page-text": "B\u0259zi paylanmalar sistemin sabitliyin\u0259 t\u0259sir ed\u0259 bil\u0259c\u0259k daha s\u00fcr\u0259tli yenil\u0259m\u0259l\u0259r t\u0259klif edir. Siz n\u0259y\u0259 \u00fcst\u00fcnl\u00fck verirsiniz?"
+    "updates-page-text": "B\u0259zi paylanmalar sistemin sabitliyin\u0259 t\u0259sir ed\u0259 bil\u0259c\u0259k daha s\u00fcr\u0259tli yenil\u0259m\u0259l\u0259r t\u0259klif edir. Siz n\u0259y\u0259 \u00fcst\u00fcnl\u00fck verirsiniz?",
+    "welcome-page-text": null,
+    "welcome-page-help": null,
+    "version-page-help": null,
+    "scenario-page-help": null,
+    "pc-knowledge-page-help": null,
+    "linux-knowledge-page-help": null,
+    "installation-page-help": null,
+    "help-page-help": null,
+    "ux-page-help": null,
+    "pricing-page-help": null,
+    "scope-page-help": null,
+    "privacy-page-help": null,
+    "updates-page-help": null,
+    "result-page-text": null,
+    "result-page-help": null
 }

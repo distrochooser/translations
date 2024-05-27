@@ -29,5 +29,8 @@
     "scope-out-of-the-box-selectable_description": "Jag f\u00f6redrar en distribution som skickar alla grundl\u00e4ggande program jag beh\u00f6ver f\u00f6r att b\u00f6rja arbeta direkt efter installationen",
     "scope-own-selection-selectable_description": "Jag vill sj\u00e4lv v\u00e4lja de grundl\u00e4ggande programmen att installera",
     "prefer-stable-selectable_description": "Jag f\u00f6redrar stabila uppdateringar",
-    "prefer-fast-selectable_description": "Jag f\u00f6redrar snabba uppdateringar"
+    "prefer-fast-selectable_description": "Jag f\u00f6redrar snabba uppdateringar",
+    "ux-concept-answer-windows-like-selectable_description": "Jag f\u00f6redrar ett Windows-liknande anv\u00e4ndargr\u00e4nssnitt",
+    "ux-concept-answer-mac-like-selectable_description": "Jag f\u00f6redrar ett macOS-liknande anv\u00e4ndargr\u00e4nssnitt",
+    "software-admin-answer-console-selectable_description": "Jag vill installera programvara mestadels med terminalkommandon"
 }

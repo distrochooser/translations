@@ -36,6 +36,9 @@
     "matrix-lightweight-facette-no64bit-long_description": "Liechtgwichtigi Distribution",
     "matrix-tutorial-facette-manuals-long_description": "D Probleml\u00f6sig erfolgt h\u00fc\u00fcfig \u00fcber Tutorials",
     "matrix-user-exchange-facette-need-human-help-long_description": "Es git e Ben\u00fctzercommunity f\u00fcre Informationsustusch",
+    "matrix-has-windows-like-variant-cinnamon-facette-ux-concept-answer-windows-like-long_description": "Eini vo de Variantene verw\u00e4ndet dr Desktop 'Cinnamon', wo a Windows erinneret.",
+    "matrix-has-windows-like-variant-facette-ux-concept-answer-windows-like-long_description": "Es git e Variante wo vom Ussehe h\u00e4r a Windows erinneret",
+    "matrix-mac-like-facette-ux-concept-answer-mac-like-long_description": "D Oberfl\u00e4chi gseht fasch us wie macOS.",
     "matrix-without-fee-facette-pricing-free-long_description": "Cha ohni Geb\u00fchre verw\u00e4ndet w\u00e4rde",
     "matrix-paid-version-existing-facette-paid-support-ok-long_description": "Es git e Geb\u00fchrepflichtigi Version",
     "matrix-fullinstall-facette-scope-out-of-the-box-long_description": "Installiert viu vo de ben\u00f6tigte Programm grad dir\u00e4kt mit",
@@ -48,8 +51,8 @@
     "matrix-supports-privacy-facette-privacy-no-connections-unless-wanted-long_description": "Es w\u00e4rde nur Date a Dritti \u00fcbermittlet, we die Dienst verw\u00e4ndet w\u00e4rde.",
     "matrix-privacy-thirdparty-facette-okay-when-working-long_description": "Bout e Verbindig zu Dritte uf",
     "matrix-appstore-facette-app-store-gui-long_description": "Installation vo n\u00f6ie Programm cha \u00fcber e Appstore gmacht w\u00e4rde",
-    "matrix-console-facette-install-from-source-long_description": "Die meischte Programm w\u00e4rde \u00fcber es Terminal installiert",
-    "matrix-administration-shell-facette-install-from-source-long_description": "D Administration wird gr\u00f6ssteteils \u00fcber d Shell realisiert",
+    "matrix-console-facette-software-admin-answer-console-long_description": "Die meischte Programm w\u00e4rde \u00fcber es Terminal installiert",
+    "matrix-administration-shell-facette-software-admin-answer-console-long_description": "D Administration wird gr\u00f6ssteteils \u00fcber d Shell realisiert",
     "matrix-uses-systemd-facette-no-systemd-long_description": "Verw\u00e4ndet systemd",
     "matrix-avoids-systemd-facette-no-systemd-long_description": "Vermidet d Nutzig vo systemd",
     "systemd-is-avoidable-per-selection-facette-no-systemd-long_description": "Systemd cha d\u00fcrd Ben\u00fctzerselektion vermide w\u00e4rd\u00e4.",
@@ -64,5 +67,9 @@
     "slow-release-model-facette-prefer-stable-long_description": "Software isch d\u00fcrs Releasemod\u00e4ll eventuell nur verz\u00f6geret ir n\u00f6ischte Version verf\u00fcegbar",
     "requires-payment-facette-pricing-free-long_description": "Chostepflichtig",
     "matrix-general-remark-additional-eula-facette-privacy-no-connections-unless-wanted-long_description": "Die Datenschutzerkl\u00e4rung der Distribution sollte bei der Installation sorgf\u00e4ltig gelesen werden",
-    "matrix-general-remark-additional-eula-facette-okay-when-working-long_description": "Die Datenschutzerkl\u00e4rung der Distribution sollte bei der Installation sorgf\u00e4ltig gelesen werden"
+    "matrix-general-remark-additional-eula-facette-okay-when-working-long_description": "Die Datenschutzerkl\u00e4rung der Distribution sollte bei der Installation sorgf\u00e4ltig gelesen werden",
+    "matrix-oldpc-no-32bit-desc-facette-no64bit-long_description": null,
+    "matrix-console-facette-install-from-source-long_description": null,
+    "matrix-administration-shell-facette-install-from-source-long_description": null,
+    "matrix-configuration-from-shell-desc-facette-many-choices-gui-long_description": null
 }

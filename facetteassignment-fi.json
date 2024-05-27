@@ -36,6 +36,9 @@
     "matrix-lightweight-facette-no64bit-long_description": "Kevyt jakelu",
     "matrix-tutorial-facette-manuals-long_description": "On olemassa k\u00e4ytt\u00f6oppaita ongelmanratkaisua varten",
     "matrix-user-exchange-facette-need-human-help-long_description": "On olemassa k\u00e4ytt\u00e4j\u00e4yhteis\u00f6j\u00e4 tietojen jakamista ja kysymyksi\u00e4 varten",
+    "matrix-has-windows-like-variant-cinnamon-facette-ux-concept-answer-windows-like-long_description": "Muunnelma toimitetaan 'Cinnamon' ty\u00f6p\u00f6yt\u00e4ymp\u00e4rist\u00f6ll\u00e4, joka on perinteisest\u00e4 Windowista tuttu ulkomuodossaan",
+    "matrix-has-windows-like-variant-facette-ux-concept-answer-windows-like-long_description": "T\u00e4ss\u00e4 on hiukan muunneltuja windowsista tuttuja k\u00e4ytt\u00f6liittym\u00e4n ominaisuuksia",
+    "matrix-mac-like-facette-ux-concept-answer-mac-like-long_description": "K\u00e4ytt\u00f6liittym\u00e4ss\u00e4 on vaikutteita macOS -k\u00e4ytt\u00f6j\u00e4rjestelm\u00e4st\u00e4",
     "matrix-without-fee-facette-pricing-free-long_description": "K\u00e4ytett\u00e4viss\u00e4 ilman rahallista veloitusta",
     "matrix-paid-version-existing-facette-paid-support-ok-long_description": "T\u00e4st\u00e4 jakelusta on my\u00f6s olemassa ei-vapaa versio",
     "matrix-fullinstall-facette-scope-out-of-the-box-long_description": "Asentaa kaikki tarvittavat ohjelmat",
@@ -48,8 +51,8 @@
     "matrix-supports-privacy-facette-privacy-no-connections-unless-wanted-long_description": "ker\u00e4\u00e4 tietoja vain kun valitut verkkopohjaiset palvelut ovat k\u00e4yt\u00f6ss\u00e4",
     "matrix-privacy-thirdparty-facette-okay-when-working-long_description": "Ottaa yhteyden kolmansien osapuolten palveluihin vakiollisesti",
     "matrix-appstore-facette-app-store-gui-long_description": "Sovellusasennukset voidaan suorittaa ohjelmakaupasta napsauttamalla",
-    "matrix-console-facette-install-from-source-long_description": "Sovellusasennukset suoritetaan k\u00e4ytt\u00e4en merkkipohjaista p\u00e4\u00e4tett\u00e4",
-    "matrix-administration-shell-facette-install-from-source-long_description": "Hallinta tapahtuu p\u00e4\u00e4asiassa komentotulkissa komentojen kautta",
+    "matrix-console-facette-software-admin-answer-console-long_description": "Sovellusasennukset suoritetaan k\u00e4ytt\u00e4en merkkipohjaista p\u00e4\u00e4tett\u00e4",
+    "matrix-administration-shell-facette-software-admin-answer-console-long_description": "Hallinta tapahtuu p\u00e4\u00e4asiassa komentotulkissa komentojen kautta",
     "matrix-uses-systemd-facette-no-systemd-long_description": "k\u00e4ytt\u00e4\u00e4 systemd:t\u00e4",
     "matrix-avoids-systemd-facette-no-systemd-long_description": "Ei sis\u00e4ll\u00e4 systemd:t\u00e4",
     "systemd-is-avoidable-per-selection-facette-no-systemd-long_description": "Systemd voidaan ohittaa k\u00e4ytt\u00e4j\u00e4valintana",
@@ -64,5 +67,9 @@
     "slow-release-model-facette-prefer-stable-long_description": "Tarjolla olevat ohjelmaversiot voivat olla vanhempia kuin viimeisin tekij\u00e4n toimittama versio",
     "requires-payment-facette-pricing-free-long_description": "Pitk\u00e4n tuen k\u00e4ytt\u00f6 vaatii maksullisuutta",
     "matrix-general-remark-additional-eula-facette-privacy-no-connections-unless-wanted-long_description": "Jakelun tietosuojak\u00e4yt\u00e4nt\u00f6 on luettava huolellisesti asennuksen aikana.",
-    "matrix-general-remark-additional-eula-facette-okay-when-working-long_description": "Jakelun tietosuojak\u00e4yt\u00e4nt\u00f6 on luettava huolellisesti asennuksen aikana."
+    "matrix-general-remark-additional-eula-facette-okay-when-working-long_description": "Jakelun tietosuojak\u00e4yt\u00e4nt\u00f6 on luettava huolellisesti asennuksen aikana.",
+    "matrix-oldpc-no-32bit-desc-facette-no64bit-long_description": null,
+    "matrix-console-facette-install-from-source-long_description": null,
+    "matrix-administration-shell-facette-install-from-source-long_description": null,
+    "matrix-configuration-from-shell-desc-facette-many-choices-gui-long_description": null
 }

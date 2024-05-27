@@ -29,5 +29,8 @@
     "scope-out-of-the-box-selectable_description": "Preferisco una distribuzione che presenti tutti i programmi di base di cui ho bisogno per iniziare a lavorare subito dopo l'installazione",
     "scope-own-selection-selectable_description": "Voglio scegliere da solo i programmi di base da installare",
     "prefer-stable-selectable_description": "Preferisco aggiornamenti stabili",
-    "prefer-fast-selectable_description": "Preferisco aggiornamenti rapidi"
+    "prefer-fast-selectable_description": "Preferisco aggiornamenti rapidi",
+    "ux-concept-answer-windows-like-selectable_description": "Preferisco una interfaccia utente simile a quella windows",
+    "ux-concept-answer-mac-like-selectable_description": "Preferisco una interfaccia utente simile a quella macOS",
+    "software-admin-answer-console-selectable_description": "Voglio installare i software utilizzando principalmente comandi di terminale"
 }

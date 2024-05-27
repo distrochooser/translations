@@ -29,5 +29,8 @@
     "scope-out-of-the-box-selectable_description": "Suosin sit\u00e4 ett\u00e4 jakelu toimittaa kaikki perusohjelmat jotka tarvitsen aloittaakseni ty\u00f6t heti asennuksen j\u00e4lkeen",
     "scope-own-selection-selectable_description": "Haluan valita perusohjelmat itse asentaakseni",
     "prefer-stable-selectable_description": "Toivon p\u00e4ivitykset vakaalta pohjalta",
-    "prefer-fast-selectable_description": "Toivon saavani p\u00e4ivitykset pikaisesti"
+    "prefer-fast-selectable_description": "Toivon saavani p\u00e4ivitykset pikaisesti",
+    "ux-concept-answer-windows-like-selectable_description": "Pid\u00e4n windowsmaisesta k\u00e4ytt\u00f6liittym\u00e4st\u00e4",
+    "ux-concept-answer-mac-like-selectable_description": "pid\u00e4n macOS:n kaltaisesta k\u00e4ytt\u00f6liittym\u00e4st\u00e4",
+    "software-admin-answer-console-selectable_description": "Haluan asentaa sovelluksia k\u00e4ytt\u00e4en p\u00e4\u00e4asiallisesti p\u00e4\u00e4tek\u00e4skyj\u00e4"
 }

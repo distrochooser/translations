@@ -29,5 +29,8 @@
     "scope-out-of-the-box-selectable_description": "T\u00f4i th\u00edch m\u1ed9t b\u1ea3n ph\u00e2n ph\u1ed1i c\u00e0i t\u1ea5t c\u1ea3 c\u00e1c ch\u01b0\u01a1ng tr\u00ecnh c\u01a1 b\u1ea3n m\u00e0 t\u00f4i c\u1ea7n \u0111\u1ec3 b\u1eaft \u0111\u1ea7u ho\u1ea1t \u0111\u1ed9ng ngay sau khi c\u00e0i \u0111\u1eb7t",
     "scope-own-selection-selectable_description": "T\u00f4i mu\u1ed1n ch\u1ecdn c\u00e1c ch\u01b0\u01a1ng tr\u00ecnh c\u01a1 b\u1ea3n \u0111\u1ec3 t\u1ef1 c\u00e0i \u0111\u1eb7t",
     "prefer-stable-selectable_description": "T\u00f4i th\u00edch c\u00e1c b\u1ea3n c\u1eadp nh\u1eadt \u0111\u00e3 \u1ed5n \u0111\u1ecbnh",
-    "prefer-fast-selectable_description": "T\u00f4i th\u00edch c\u1eadp nh\u1eadt nhanh"
+    "prefer-fast-selectable_description": "T\u00f4i th\u00edch c\u1eadp nh\u1eadt nhanh",
+    "ux-concept-answer-windows-like-selectable_description": "T\u00f4i th\u00edch giao di\u1ec7n ng\u01b0\u1eddi d\u00f9ng gi\u1ed1ng nh\u01b0 windows",
+    "ux-concept-answer-mac-like-selectable_description": "T\u00f4i th\u00edch giao di\u1ec7n ng\u01b0\u1eddi d\u00f9ng gi\u1ed1ng nh\u01b0 macOS",
+    "software-admin-answer-console-selectable_description": "T\u00f4i mu\u1ed1n c\u00e0i \u0111\u1eb7t ph\u1ea7n m\u1ec1m ch\u1ee7 y\u1ebfu b\u1eb1ng l\u1ec7nh tr\u00ean terminal"
 }

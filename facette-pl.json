@@ -29,5 +29,8 @@
     "scope-out-of-the-box-selectable_description": "Wol\u0119 dystrybucj\u0119 dostarczaj\u0105c\u0105 wszystkie podstawowe programy, kt\u00f3rych potrzebuj\u0119, aby rozpocz\u0105\u0107 prac\u0119 natychmiast po instalacji",
     "scope-own-selection-selectable_description": "Chc\u0119 wybra\u0107, kt\u00f3re programy zostan\u0105 zainstalowane",
     "prefer-stable-selectable_description": "Wol\u0119 stabilne aktualizacje",
-    "prefer-fast-selectable_description": "Wol\u0119 szybkie aktualizacje"
+    "prefer-fast-selectable_description": "Wol\u0119 szybkie aktualizacje",
+    "ux-concept-answer-windows-like-selectable_description": "Wol\u0119 interfejs u\u017cytkownika w stylu Windows",
+    "ux-concept-answer-mac-like-selectable_description": "Wol\u0119 interfejs u\u017cytkownika w stylu macOS",
+    "software-admin-answer-console-selectable_description": "Chc\u0119 instalowa\u0107 programy g\u0142\u00f3wnie za pomoc\u0105 komend w terminalu"
 }

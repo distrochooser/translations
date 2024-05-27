@@ -36,6 +36,9 @@
     "matrix-lightweight-facette-no64bit-long_description": "Y\u00fcng\u00fcl paylanma",
     "matrix-tutorial-facette-manuals-long_description": "Probleml\u0259rin aradan qald\u0131r\u0131lmas\u0131 v\u0259 probleml\u0259rin h\u0259lli \u00fc\u00e7\u00fcn tyutoriallar var",
     "matrix-user-exchange-facette-need-human-help-long_description": "Bilik m\u00fcbadil\u0259si \u00fc\u00e7\u00fcn istifad\u0259\u00e7i ictimaiyy\u0259ti var",
+    "matrix-has-windows-like-variant-cinnamon-facette-ux-concept-answer-windows-like-long_description": "Bir variant\u0131 Windows-a b\u0259nz\u0259y\u0259n \u201ccinnamon\u201d i\u015f masas\u0131 m\u00fchiti il\u0259 birlikd\u0259 g\u0259lir",
+    "matrix-has-windows-like-variant-facette-ux-concept-answer-windows-like-long_description": "Windows-a b\u0259nz\u0259r istifad\u0259\u00e7i interfeysi olan variantlar\u0131 var",
+    "matrix-mac-like-facette-ux-concept-answer-mac-like-long_description": "Qrafik \u0130stifad\u0259\u00e7i \u0130nterfeysi (Q\u0130\u0130) konsepti macOS elementl\u0259rini da\u015f\u0131y\u0131r",
     "matrix-without-fee-facette-pricing-free-long_description": "\u00d6d\u0259ni\u015fsiz istifad\u0259 edil\u0259 bil\u0259r",
     "matrix-paid-version-existing-facette-paid-support-ok-long_description": "Bu paylanman\u0131n pulsuz olmayan versiyas\u0131 var",
     "matrix-fullinstall-facette-scope-out-of-the-box-long_description": "Laz\u0131mi b\u00fct\u00fcn proqramlar\u0131 qura\u015fd\u0131r\u0131r",
@@ -48,8 +51,8 @@
     "matrix-supports-privacy-facette-privacy-no-connections-unless-wanted-long_description": "Yaln\u0131z onlayn xidm\u0259tl\u0259rd\u0259n istifad\u0259 edildikd\u0259 m\u0259lumat toplay\u0131r",
     "matrix-privacy-thirdparty-facette-okay-when-working-long_description": "Defolt olaraq \u00fc\u00e7\u00fcnc\u00fc t\u0259r\u0259f xidm\u0259tl\u0259rin\u0259 qo\u015fulur",
     "matrix-appstore-facette-app-store-gui-long_description": "Proqram t\u0259minat\u0131n\u0131n qura\u015fd\u0131r\u0131lmas\u0131 proqram ma\u011fazas\u0131ndan istifad\u0259 etm\u0259kl\u0259 h\u0259yata ke\u00e7iril\u0259 bil\u0259r",
-    "matrix-console-facette-install-from-source-long_description": "Proqram t\u0259minat\u0131n\u0131n qura\u015fd\u0131r\u0131lmas\u0131 terminal vasit\u0259sil\u0259 h\u0259yata ke\u00e7iril\u0259 bil\u0259r",
-    "matrix-administration-shell-facette-install-from-source-long_description": "\u0130dar\u0259etm\u0259 \u0259sas\u0259n shell \u0259mrl\u0259rind\u0259n istifad\u0259 etm\u0259kl\u0259 h\u0259yata ke\u00e7irilir",
+    "matrix-console-facette-software-admin-answer-console-long_description": "Proqram t\u0259minat\u0131n\u0131n qura\u015fd\u0131r\u0131lmas\u0131 terminal vasit\u0259sil\u0259 h\u0259yata ke\u00e7iril\u0259 bil\u0259r",
+    "matrix-administration-shell-facette-software-admin-answer-console-long_description": "\u0130dar\u0259etm\u0259 \u0259sas\u0259n shell \u0259mrl\u0259rind\u0259n istifad\u0259 etm\u0259kl\u0259 h\u0259yata ke\u00e7irilir",
     "matrix-uses-systemd-facette-no-systemd-long_description": "Systemd istifad\u0259 edir",
     "matrix-avoids-systemd-facette-no-systemd-long_description": "Systemd'd\u0259n yay\u0131n\u0131r",
     "systemd-is-avoidable-per-selection-facette-no-systemd-long_description": "\u0130stifad\u0259\u00e7i se\u00e7imin\u0259 g\u00f6r\u0259 Systemd-d\u0259n yay\u0131nmaq olar",
@@ -64,5 +67,9 @@
     "slow-release-model-facette-prefer-stable-long_description": "M\u00f6vcud proqram t\u0259minat\u0131 versiyalar\u0131 sat\u0131c\u0131n\u0131n \u0259n son versiyas\u0131ndan k\u00f6hn\u0259 ola bil\u0259r",
     "requires-payment-facette-pricing-free-long_description": "Uzun m\u00fcdd\u0259tli istifad\u0259 \u00f6d\u0259ni\u015f t\u0259l\u0259b edir",
     "matrix-general-remark-additional-eula-facette-privacy-no-connections-unless-wanted-long_description": "Qura\u015fd\u0131rma zaman\u0131 paylanman\u0131n m\u0259xfilik siyas\u0259ti diqq\u0259tl\u0259 oxunmal\u0131d\u0131r",
-    "matrix-general-remark-additional-eula-facette-okay-when-working-long_description": "Qura\u015fd\u0131rma zaman\u0131 paylanman\u0131n m\u0259xfilik siyas\u0259ti diqq\u0259tl\u0259 oxunmal\u0131d\u0131r"
+    "matrix-general-remark-additional-eula-facette-okay-when-working-long_description": "Qura\u015fd\u0131rma zaman\u0131 paylanman\u0131n m\u0259xfilik siyas\u0259ti diqq\u0259tl\u0259 oxunmal\u0131d\u0131r",
+    "matrix-oldpc-no-32bit-desc-facette-no64bit-long_description": null,
+    "matrix-console-facette-install-from-source-long_description": null,
+    "matrix-administration-shell-facette-install-from-source-long_description": null,
+    "matrix-configuration-from-shell-desc-facette-many-choices-gui-long_description": null
 }

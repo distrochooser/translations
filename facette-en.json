@@ -29,5 +29,8 @@
     "scope-out-of-the-box-selectable_description": "I prefer a distribution shipping all the basic programs I need to start working immediately after installation",
     "scope-own-selection-selectable_description": "I want to choose the basic programs to install myself",
     "prefer-stable-selectable_description": "I prefer stable updates",
-    "prefer-fast-selectable_description": "I prefer fast updates"
+    "prefer-fast-selectable_description": "I prefer fast updates",
+    "ux-concept-answer-windows-like-selectable_description": "I prefer a windows-like user interface",
+    "ux-concept-answer-mac-like-selectable_description": "I prefer a macOS-like user interface",
+    "software-admin-answer-console-selectable_description": "I want to install software mostly using terminal commands"
 }

@@ -1,4 +1,6 @@
 {
+    "version-page-text": "You can select a simplified questionaire edition, which removes some super technical questions",
+    "linux-knowledge-page-text": "How would you rate your knowledge with the Linux operating system?",
     "scenario-page-text": "\u6709\u4e9b\u767c\u884c\u7248\u9069\u7528\u65bc\u7279\u6b8a\u60c5\u6cc1\uff0c\u5176\u4ed6\u5247\u9069\u5408\u65e5\u5e38\u7684\u4f7f\u7528\u3002\u60a8\u9700\u8981\u4ec0\u9ebc\u5462\uff1f",
     "pc-knowledge-page-text": "\u60a8\u5c0d\u96fb\u8166\u7684\u719f\u6089\u7a0b\u5ea6\u5982\u4f55\u5462\uff1f",
     "installation-page-text": "\u60a8\u5e0c\u671b\u5728\u5b89\u88dd\u904e\u7a0b\u4e2d\u81ea\u884c\u8abf\u6574\u591a\u5c11\u7cfb\u7d71\u8a2d\u5b9a\uff1f\u60a8\u5e0c\u671b\u4f7f\u7528\u9810\u8a2d\u7684\u8a2d\u5b9a\u53c8\u6709\u591a\u5c11\u5462\uff1f",
@@ -13,5 +15,20 @@
     "privacy-page-text": "\u6709\u4e9b\u767c\u884c\u7248\u4f7f\u7528\u7dda\u4e0a\u670d\u52d9\u4f86\u63d0\u5347\u4f7f\u7528\u8005\u9ad4\u9a57\u3002\u4f7f\u7528\u9019\u985e\u670d\u52d9\u53ef\u80fd\u4f7f\u7528\u8005\u88ab\u8ffd\u8e64\uff0c\u9032\u800c\u5f71\u97ff\u5230\u4f7f\u7528\u8005\u7684\u96b1\u79c1\u3002",
     "administration-page-text": "\u7ba1\u7406 Linux \u767c\u884c\u7248\u6709\u8a31\u591a\u65b9\u6cd5\uff0c\u6bd4\u5982\u8aaa\u5b89\u88dd\u8edf\u9ad4\u3002",
     "administration-page-help": "\u4e00\u4e9b\u767c\u884c\u7248\u6703\u70ba\u7279\u6b8a\u76ee\u7684\u8a2d\u8a08\u3002\u60a8\u9700\u8981\u4ee5\u4e0b\u54ea\u4e9b\u529f\u80fd\u5462\uff1f",
-    "updates-page-text": "\u6709\u7684\u767c\u884c\u7248\u6703\u63d0\u4f9b\u8f03\u983b\u7e41\u7684\u66f4\u65b0\uff0c\u9019\u53ef\u80fd\u6703\u5f71\u97ff\u7cfb\u7d71\u7a69\u5b9a\u6027\u3002\u60a8\u60f3\u8981\u600e\u9ebc\u6a23\u7684\u66f4\u65b0\u5462\uff1f"
+    "updates-page-text": "\u6709\u7684\u767c\u884c\u7248\u6703\u63d0\u4f9b\u8f03\u983b\u7e41\u7684\u66f4\u65b0\uff0c\u9019\u53ef\u80fd\u6703\u5f71\u97ff\u7cfb\u7d71\u7a69\u5b9a\u6027\u3002\u60a8\u60f3\u8981\u600e\u9ebc\u6a23\u7684\u66f4\u65b0\u5462\uff1f",
+    "welcome-page-text": null,
+    "welcome-page-help": null,
+    "version-page-help": null,
+    "scenario-page-help": null,
+    "pc-knowledge-page-help": null,
+    "linux-knowledge-page-help": null,
+    "installation-page-help": null,
+    "help-page-help": null,
+    "ux-page-help": null,
+    "pricing-page-help": null,
+    "scope-page-help": null,
+    "privacy-page-help": null,
+    "updates-page-help": null,
+    "result-page-text": null,
+    "result-page-help": null
 }

@@ -29,5 +29,8 @@
     "scope-out-of-the-box-selectable_description": "I m\u00f6cht, dass aui Programm wo h\u00fc\u00fcfig brucht w\u00e4rde, dir\u00e4kt mitinstalliert w\u00e4rde, demit i dir\u00e4kt cha losleg\u00e4. ",
     "scope-own-selection-selectable_description": "I m\u00f6cht s\u00e4uber usw\u00e4hle, weli Programm ig installiere. ",
     "prefer-stable-selectable_description": "I m\u00f6cht d Aktualisierige lieber ersch we si w\u00fcrk stabiu si, o we das chli lenger cha duure. ",
-    "prefer-fast-selectable_description": "I m\u00f6cht d Aktualisierige so schn\u00e4u wie m\u00fcglech, o we das ch\u00f6nnt zu Problem f\u00fcehre. "
+    "prefer-fast-selectable_description": "I m\u00f6cht d Aktualisierige so schn\u00e4u wie m\u00fcglech, o we das ch\u00f6nnt zu Problem f\u00fcehre. ",
+    "ux-concept-answer-windows-like-selectable_description": "I ha am liebschte \u00e4 Windows-\u00e4hnlechi Desktopoberfl\u00e4chi. ",
+    "ux-concept-answer-mac-like-selectable_description": "I bevorzuge e Oberfl\u00e4chi wo \u00e4hnlech wie macOS isch. ",
+    "software-admin-answer-console-selectable_description": "I kenne mi mit de Konsolebef\u00e4uh us u m\u00f6cht Programm \u00fcber d Paketverwautig oder \u00fcbere Quelltext vo de Programm installiere. "
 }

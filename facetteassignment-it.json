@@ -36,6 +36,9 @@
     "matrix-lightweight-facette-no64bit-long_description": "Distribuzione leggera",
     "matrix-tutorial-facette-manuals-long_description": "Esistono tutorial per la risoluzione dei problemi e problem-solving",
     "matrix-user-exchange-facette-need-human-help-long_description": "Esistono comunita' di utenti per la condivisione delle conoscenze",
+    "matrix-has-windows-like-variant-cinnamon-facette-ux-concept-answer-windows-like-long_description": "Una variante include l'ambiente desktop 'cinnamon', che ha un aspetto simile a Windows",
+    "matrix-has-windows-like-variant-facette-ux-concept-answer-windows-like-long_description": "Ha varianti con un'interfaccia utente simile a Windows",
+    "matrix-mac-like-facette-ux-concept-answer-mac-like-long_description": "Il concetto di GUI (interfaccia grafica) ha elementi di macOS",
     "matrix-without-fee-facette-pricing-free-long_description": "Utilizzabile senza spese",
     "matrix-paid-version-existing-facette-paid-support-ok-long_description": "Esiste una versione non gratuita di questa distribuzione",
     "matrix-fullinstall-facette-scope-out-of-the-box-long_description": "Installa tutti i programmi necessari",
@@ -48,8 +51,8 @@
     "matrix-supports-privacy-facette-privacy-no-connections-unless-wanted-long_description": "Raccoglie dati solo quando vengono utilizzati i servizi online",
     "matrix-privacy-thirdparty-facette-okay-when-working-long_description": "Si collega a servizi di terzi per impostazione predefinita",
     "matrix-appstore-facette-app-store-gui-long_description": "L'installazione del software pu\u00f2 essere eseguita utilizzando un app store",
-    "matrix-console-facette-install-from-source-long_description": "L'installazione del software pu\u00f2 essere eseguita utilizzando il terminale",
-    "matrix-administration-shell-facette-install-from-source-long_description": "L'amministrazione viene eseguita principalmente utilizzando i comandi della shell",
+    "matrix-console-facette-software-admin-answer-console-long_description": "L'installazione del software pu\u00f2 essere eseguita utilizzando il terminale",
+    "matrix-administration-shell-facette-software-admin-answer-console-long_description": "L'amministrazione viene eseguita principalmente utilizzando i comandi della shell",
     "matrix-uses-systemd-facette-no-systemd-long_description": "usa systemd",
     "matrix-avoids-systemd-facette-no-systemd-long_description": "Evita systemd",
     "systemd-is-avoidable-per-selection-facette-no-systemd-long_description": "Systemd pu\u00f2 essere evitato per selezione dell'utente",
@@ -64,5 +67,9 @@
     "slow-release-model-facette-prefer-stable-long_description": "Le versioni software disponibili possono essere pi\u00f9 vecchie dell'ultima versione del fornitore",
     "requires-payment-facette-pricing-free-long_description": "Uso a pagamento",
     "matrix-general-remark-additional-eula-facette-privacy-no-connections-unless-wanted-long_description": "L'informativa sulla privacy della distribuzione deve essere letta attentamente durante l'installazione.",
-    "matrix-general-remark-additional-eula-facette-okay-when-working-long_description": "L'informativa sulla privacy della distribuzione deve essere letta attentamente durante l'installazione."
+    "matrix-general-remark-additional-eula-facette-okay-when-working-long_description": "L'informativa sulla privacy della distribuzione deve essere letta attentamente durante l'installazione.",
+    "matrix-oldpc-no-32bit-desc-facette-no64bit-long_description": null,
+    "matrix-console-facette-install-from-source-long_description": null,
+    "matrix-administration-shell-facette-install-from-source-long_description": null,
+    "matrix-configuration-from-shell-desc-facette-many-choices-gui-long_description": null
 }

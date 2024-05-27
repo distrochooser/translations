@@ -29,5 +29,8 @@
     "scope-out-of-the-box-selectable_description": "\u6211\u66f4\u559c\u6b22\u53d1\u884c\u7248\u80fd\u9884\u5148\u5b89\u88c5\u7684\u6240\u6709\u57fa\u672c\u7a0b\u5e8f\uff0c\u6211\u9700\u8981\u5728\u5b89\u88c5\u540e\u7acb\u5373\u5f00\u59cb\u5de5\u4f5c",
     "scope-own-selection-selectable_description": "\u6211\u60f3\u81ea\u5df1\u5b89\u88c5\u57fa\u672c\u7684\u5e94\u7528\u7a0b\u5e8f",
     "prefer-stable-selectable_description": "\u6211\u60f3\u8981\u7a33\u5b9a\u7684\u66f4\u65b0",
-    "prefer-fast-selectable_description": "\u6211\u60f3\u8981\u9891\u7e41\u7684\u66f4\u65b0"
+    "prefer-fast-selectable_description": "\u6211\u60f3\u8981\u9891\u7e41\u7684\u66f4\u65b0",
+    "ux-concept-answer-windows-like-selectable_description": "\u6211\u66f4\u559c\u6b22 Windows \u98ce\u683c\u7684\u7528\u6237\u754c\u9762",
+    "ux-concept-answer-mac-like-selectable_description": "\u6211\u66f4\u559c\u6b22 macOS \u98ce\u683c\u7684\u7528\u6237\u754c\u9762",
+    "software-admin-answer-console-selectable_description": "\u6211\u4e3b\u8981\u60f3\u901a\u8fc7\u7ec8\u7aef\u547d\u4ee4\u6765\u5b89\u88c5\u5e94\u7528\u8f6f\u4ef6"
 }

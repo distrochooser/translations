@@ -36,6 +36,9 @@
     "matrix-lightweight-facette-no64bit-long_description": "Lekka dystrybucja",
     "matrix-tutorial-facette-manuals-long_description": "Posiada poradniki pomagaj\u0105ce w rozwi\u0105zywaniu problem\u00f3w",
     "matrix-user-exchange-facette-need-human-help-long_description": "Posiada spo\u0142eczno\u015b\u0107 u\u017cytkownik\u00f3w do dzielenia si\u0119 wiedz\u0105",
+    "matrix-has-windows-like-variant-cinnamon-facette-ux-concept-answer-windows-like-long_description": "Posiada \u015brodowisko graficzne \"Cinnamon\", kt\u00f3re przypomina system Windows",
+    "matrix-has-windows-like-variant-facette-ux-concept-answer-windows-like-long_description": "Posiada interfejs u\u017cytkownika typowy dla Windows",
+    "matrix-mac-like-facette-ux-concept-answer-mac-like-long_description": "Posiada interfejs u\u017cytkownika typowy dla macOS",
     "matrix-without-fee-facette-pricing-free-long_description": "Mo\u017cliwo\u015b\u0107 korzystania bez op\u0142at",
     "matrix-paid-version-existing-facette-paid-support-ok-long_description": "Istnieje p\u0142atna wersja tej dystrybucji",
     "matrix-fullinstall-facette-scope-out-of-the-box-long_description": "Instaluje wszystkie niezb\u0119dne programy",
@@ -48,8 +51,8 @@
     "matrix-supports-privacy-facette-privacy-no-connections-unless-wanted-long_description": "Zbiera dane tylko wtedy, gdy korzysta si\u0119 z us\u0142ug online",
     "matrix-privacy-thirdparty-facette-okay-when-working-long_description": "Domy\u015blnie \u0142\u0105czy si\u0119 z us\u0142ugami firm trzecich",
     "matrix-appstore-facette-app-store-gui-long_description": "Instalacja oprogramowania mo\u017ce odbywa\u0107 si\u0119 za pomoc\u0105 sklepu z aplikacjami",
-    "matrix-console-facette-install-from-source-long_description": "Instalacj\u0119 oprogramowania mo\u017cna przeprowadzi\u0107 za pomoc\u0105 terminala",
-    "matrix-administration-shell-facette-install-from-source-long_description": "Administracja odbywa si\u0119 g\u0142\u00f3wnie za pomoc\u0105 polece\u0144 pow\u0142oki (terminala)",
+    "matrix-console-facette-software-admin-answer-console-long_description": "Instalacj\u0119 oprogramowania mo\u017cna przeprowadzi\u0107 za pomoc\u0105 terminala",
+    "matrix-administration-shell-facette-software-admin-answer-console-long_description": "Administracja odbywa si\u0119 g\u0142\u00f3wnie za pomoc\u0105 polece\u0144 pow\u0142oki (terminala)",
     "matrix-uses-systemd-facette-no-systemd-long_description": "Korzysta z systemd",
     "matrix-avoids-systemd-facette-no-systemd-long_description": "Unika korzystania z systemd",
     "systemd-is-avoidable-per-selection-facette-no-systemd-long_description": "Systemd mo\u017ce zosta\u0107 wykluczony przez u\u017cytkownika",
@@ -64,5 +67,9 @@
     "slow-release-model-facette-prefer-stable-long_description": "Dost\u0119pne wersje oprogramowania mog\u0105 by\u0107 starsze ni\u017c najnowsza wersja od wydawcy",
     "requires-payment-facette-pricing-free-long_description": "D\u0142ugookresowe u\u017cytkowanie wymaga zap\u0142aty",
     "matrix-general-remark-additional-eula-facette-privacy-no-connections-unless-wanted-long_description": "Podczas instalacji nale\u017cy dok\u0142adnie zapozna\u0107 si\u0119 z polityk\u0105 prywatno\u015bci dystrybucji",
-    "matrix-general-remark-additional-eula-facette-okay-when-working-long_description": "Podczas instalacji nale\u017cy dok\u0142adnie zapozna\u0107 si\u0119 z polityk\u0105 prywatno\u015bci dystrybucji"
+    "matrix-general-remark-additional-eula-facette-okay-when-working-long_description": "Podczas instalacji nale\u017cy dok\u0142adnie zapozna\u0107 si\u0119 z polityk\u0105 prywatno\u015bci dystrybucji",
+    "matrix-oldpc-no-32bit-desc-facette-no64bit-long_description": null,
+    "matrix-console-facette-install-from-source-long_description": null,
+    "matrix-administration-shell-facette-install-from-source-long_description": null,
+    "matrix-configuration-from-shell-desc-facette-many-choices-gui-long_description": null
 }
