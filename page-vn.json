@@ -15,20 +15,5 @@
     "privacy-page-text": "M\u1ed9t s\u1ed1 b\u1ea3n ph\u00e2n ph\u1ed1i s\u1eed d\u1ee5ng c\u00e1c d\u1ecbch v\u1ee5 tr\u1ef1c tuy\u1ebfn \u0111\u1ec3 c\u1ea3i thi\u1ec7n tr\u1ea3i nghi\u1ec7m ng\u01b0\u1eddi d\u00f9ng. \u0110i\u1ec1u n\u00e0y c\u00f3 th\u1ec3 \u1ea3nh h\u01b0\u1edfng \u0111\u1ebfn quy\u1ec1n ri\u00eang t\u01b0 c\u1ee7a ng\u01b0\u1eddi d\u00f9ng, t\u1ee9c l\u00e0 ng\u01b0\u1eddi d\u00f9ng c\u00f3 th\u1ec3 b\u1ecb theo d\u00f5i khi s\u1eed d\u1ee5ng c\u00e1c t\u00ednh n\u0103ng tr\u1ef1c tuy\u1ebfn \u0111\u00f3.",
     "administration-page-text": "C\u00f3 nhi\u1ec1u c\u00e1ch \u0111\u1ec3 qu\u1ea3n l\u00fd b\u1ea3n ph\u00e2n ph\u1ed1i Linux, vd. \u0111\u1ec3 c\u00e0i \u0111\u1eb7t ph\u1ea7n m\u1ec1m.",
     "administration-page-help": "Nhi\u1ec1u b\u1ea3n ph\u00e2n ph\u1ed1i s\u1eed d\u1ee5ng 'systemd' \u0111\u1ec3 t\u1ef1 kh\u1edfi \u0111\u1ed9ng h\u1ec7 \u0111i\u1ec1u h\u00e0nh. M\u1ed9t s\u1ed1 b\u1ea3n ph\u00e2n ph\u1ed1i tr\u00e1nh systemd \u0111\u1ec3 \u1ee7ng h\u1ed9 c\u00e1c gi\u1ea3i ph\u00e1p thay th\u1ebf v\u00e0 \u0111\u00f4i khi nh\u1eb9 h\u01a1n",
-    "updates-page-text": "M\u1ed9t s\u1ed1 b\u1ea3n ph\u00e2n ph\u1ed1i cung c\u1ea5p c\u00e1c b\u1ea3n c\u1eadp nh\u1eadt nhanh h\u01a1n, \u0111i\u1ec1u n\u00e0y c\u00f3 th\u1ec3 \u1ea3nh h\u01b0\u1edfng \u0111\u1ebfn s\u1ef1 \u1ed5n \u0111\u1ecbnh c\u1ee7a h\u1ec7 th\u1ed1ng. B\u1ea1n th\u00edch th\u1ebf n\u00e0o h\u01a1n?",
-    "welcome-page-text": null,
-    "welcome-page-help": null,
-    "version-page-help": null,
-    "scenario-page-help": null,
-    "pc-knowledge-page-help": null,
-    "linux-knowledge-page-help": null,
-    "installation-page-help": null,
-    "help-page-help": null,
-    "ux-page-help": null,
-    "pricing-page-help": null,
-    "scope-page-help": null,
-    "privacy-page-help": null,
-    "updates-page-help": null,
-    "result-page-text": null,
-    "result-page-help": null
+    "updates-page-text": "M\u1ed9t s\u1ed1 b\u1ea3n ph\u00e2n ph\u1ed1i cung c\u1ea5p c\u00e1c b\u1ea3n c\u1eadp nh\u1eadt nhanh h\u01a1n, \u0111i\u1ec1u n\u00e0y c\u00f3 th\u1ec3 \u1ea3nh h\u01b0\u1edfng \u0111\u1ebfn s\u1ef1 \u1ed5n \u0111\u1ecbnh c\u1ee7a h\u1ec7 th\u1ed1ng. B\u1ea1n th\u00edch th\u1ebf n\u00e0o h\u01a1n?"
 }

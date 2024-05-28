@@ -15,20 +15,5 @@
     "privacy-page-text": "Manche Distributionen nutzen Onlinedienste, um die Benutzererfahrung zu verbessern. Dadurch ist es dem Anbieter der Onlinedienste jedoch m\u00f6glich, Benutzergewohnheiten zu protokollieren und den Benutzer zu tracken. ",
     "administration-page-text": "Unter Linux werden Programme h\u00e4ufig \u00fcber eine Paketverwaltung installiert und aktualisiert. Manche Programme werden aus ihrem Quellcode erstellt und dann installiert. Welchen Weg bevorzuge ich?",
     "administration-page-help": "Ich wei\u00df was \"systemd\" ist und m\u00f6chte dieses meiden. ",
-    "updates-page-text": "Wann Updates f\u00fcr Programmpakete auf den Distributionen erscheinen h\u00e4ngt von den Zielen der Distribution ab. Manche Distribution bieten schnelle Updates, was sich aber negativ auf die Stabilit\u00e4t des Systems auswirken kann.",
-    "welcome-page-text": null,
-    "welcome-page-help": null,
-    "version-page-help": null,
-    "scenario-page-help": null,
-    "pc-knowledge-page-help": null,
-    "linux-knowledge-page-help": null,
-    "installation-page-help": null,
-    "help-page-help": null,
-    "ux-page-help": null,
-    "pricing-page-help": null,
-    "scope-page-help": null,
-    "privacy-page-help": null,
-    "updates-page-help": null,
-    "result-page-text": null,
-    "result-page-help": null
+    "updates-page-text": "Wann Updates f\u00fcr Programmpakete auf den Distributionen erscheinen h\u00e4ngt von den Zielen der Distribution ab. Manche Distribution bieten schnelle Updates, was sich aber negativ auf die Stabilit\u00e4t des Systems auswirken kann."
 }

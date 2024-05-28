@@ -15,20 +15,5 @@
     "privacy-page-text": "Beberapa distribusi menggunakan layanan online untuk meningkatkan pengalaman pengguna. Hal ini dapat memengaruhi privasi pengguna, contoh: Pengguna dapat dilacak ketika menggunakan fitur online semacam itu.",
     "administration-page-text": "Ada banyak cara untuk mengelola distribusi linux, Contoh: menginstal perangkat lunak.",
     "administration-page-help": "Banyak distribusi menggunakan 'systemd' untuk menjalankan sistem operasi itu sendiri. Beberapa distribusi menghindarinya demi alternatif yang dapat menjadi solusi lebih ringan",
-    "updates-page-text": "Beberapa distribusi menawarkan pembaruan yang cepat, yang dapat memengaruhi kestabilan sistem. Yang mana yang anda lebih suka?",
-    "welcome-page-text": null,
-    "welcome-page-help": null,
-    "version-page-help": null,
-    "scenario-page-help": null,
-    "pc-knowledge-page-help": null,
-    "linux-knowledge-page-help": null,
-    "installation-page-help": null,
-    "help-page-help": null,
-    "ux-page-help": null,
-    "pricing-page-help": null,
-    "scope-page-help": null,
-    "privacy-page-help": null,
-    "updates-page-help": null,
-    "result-page-text": null,
-    "result-page-help": null
+    "updates-page-text": "Beberapa distribusi menawarkan pembaruan yang cepat, yang dapat memengaruhi kestabilan sistem. Yang mana yang anda lebih suka?"
 }

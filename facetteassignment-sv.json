@@ -65,11 +65,5 @@
     "slow-release-model-facette-prefer-stable-long_description": "Tillg\u00e4ngliga programvaruversioner kan vara \u00e4ldre \u00e4n den senaste versionen fr\u00e5n leverant\u00f6ren",
     "requires-payment-facette-pricing-free-long_description": "L\u00e5ngtidsanv\u00e4ndning kr\u00e4ver betalning",
     "matrix-general-remark-additional-eula-facette-privacy-no-connections-unless-wanted-long_description": "Integritetspolicyn f\u00f6r distributionen b\u00f6r l\u00e4sas noggrant under installationen",
-    "matrix-general-remark-additional-eula-facette-okay-when-working-long_description": "Integritetspolicyn f\u00f6r distributionen b\u00f6r l\u00e4sas noggrant under installationen",
-    "matrix-oldpc-no-32bit-desc-facette-no64bit-long_description": null,
-    "matrix-console-facette-install-from-source-long_description": null,
-    "matrix-administration-shell-facette-install-from-source-long_description": null,
-    "matrix-avoids-systemd-facette-no-systemd-long_description": null,
-    "systemd-is-avoidable-per-selection-facette-no-systemd-long_description": null,
-    "matrix-configuration-from-shell-desc-facette-many-choices-gui-long_description": null
+    "matrix-general-remark-additional-eula-facette-okay-when-working-long_description": "Integritetspolicyn f\u00f6r distributionen b\u00f6r l\u00e4sas noggrant under installationen"
 }
