@@ -20,7 +20,7 @@
     "BTN_MARK": "Mark this question",
     "BTN_UNMARK": "Unmark this question",
     "LINK_IMPRINT": "Imprint",
-    "DEBUG_MODE_ON_DESCRIPTION": "The debug mode is ON. Expect additional output.",
+    "DEBUG_MODE_ON_DESCRIPTION": "The debug mode is ON. Expect errors and additional output.",
     "LANGUAGE_CHANGE": "Change language",
     "BOOKMARKED_STEP": "Marked",
     "FULL_VERSION": "Full version",
@@ -52,5 +52,7 @@
     "PRIVACY_PAGE_STORED_TEXT_WHY": "We store this information to allow us to create statistics about the usage of the service. The data is generic and is not related to specific users and has the goal to identify issues with the service itself",
     "IMPRINT_TITLE": "Imprint",
     "IMPRINT_DISCLAIMER_TITLE": "Disclaimer",
-    "IMPRINT_DISCLAIMER_TEXT": "We do not take any liability for the pages linked in this service. If you find a malicous link on this website, please inform us using our contact information."
+    "IMPRINT_DISCLAIMER_TEXT": "We do not take any liability for the pages linked in this service. If you find a malicous link on this website, please inform us using our contact information.",
+    "ASSIGNMENT_FLAG_TOGGLE": "Toggle critera report",
+    "WELCOME_WIDGET_FLAG": "You can mark certain aspects in your result if you think they are incorrect. This helps us to improve the results!"
 }
