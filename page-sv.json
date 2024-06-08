@@ -15,5 +15,20 @@
     "privacy-page-text": "Vissa distributioner anv\u00e4nder onlinetj\u00e4nster f\u00f6r att f\u00f6rb\u00e4ttra anv\u00e4ndarupplevelsen. Detta kan p\u00e5verka anv\u00e4ndarens integritet, det vill s\u00e4ga att anv\u00e4ndaren kan sp\u00e5ras n\u00e4r man anv\u00e4nder s\u00e5dana onlinefunktioner.",
     "administration-page-text": "Det finns m\u00e5nga s\u00e4tt att administrera en Linux-distribution, t.ex. f\u00f6r att installera mjukvara.",
     "administration-page-help": "M\u00e5nga distributioner anv\u00e4nder \"systemd\" f\u00f6r att starta sj\u00e4lva operativsystemet. Vissa distributioner undviker systemd till f\u00f6rm\u00e5n f\u00f6r alternativa och ibland l\u00e4ttare l\u00f6sningar",
-    "updates-page-text": "Vissa distributioner erbjuder snabbare uppdateringar, vilket kan p\u00e5verka systemets stabilitet. Vad f\u00f6redrar du?"
+    "updates-page-text": "Vissa distributioner erbjuder snabbare uppdateringar, vilket kan p\u00e5verka systemets stabilitet. Vad f\u00f6redrar du?",
+    "welcome-page-text": null,
+    "welcome-page-help": null,
+    "version-page-help": null,
+    "scenario-page-help": null,
+    "pc-knowledge-page-help": null,
+    "linux-knowledge-page-help": null,
+    "installation-page-help": null,
+    "help-page-help": null,
+    "ux-page-help": null,
+    "pricing-page-help": null,
+    "scope-page-help": null,
+    "privacy-page-help": null,
+    "updates-page-help": null,
+    "result-page-text": null,
+    "result-page-help": null
 }

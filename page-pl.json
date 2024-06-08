@@ -15,5 +15,20 @@
     "privacy-page-text": "Niekt\u00f3re dystrybucje korzystaj\u0105 z us\u0142ug online w celu poprawy do\u015bwiadczenia u\u017cytkownika. Mo\u017ce to wp\u0142yn\u0105\u0107 na prywatno\u015b\u0107 u\u017cytkownika, tzn. u\u017cytkownik mo\u017ce by\u0107 \u015bledzony podczas korzystania z takich funkcji.",
     "administration-page-text": "Istnieje wiele sposob\u00f3w aby zarz\u0105dza\u0107 dystrybucj\u0105 Linuksa, np. instalowa\u0107 oprogramowanie.",
     "administration-page-help": "Wiele dystrybucji u\u017cywa \"systemd\" do uruchamiania systemu operacyjnego. Niekt\u00f3re dystrybucje unikaj\u0105 systemd na rzecz alternatywnych i czasem bardziej lekkich rozwi\u0105za\u0144",
-    "updates-page-text": "Niekt\u00f3re dystrybucje oferuj\u0105 szybsze aktualizacje, co mo\u017ce wp\u0142yn\u0105\u0107 na stabilno\u015b\u0107 systemu. Jak\u0105 opcj\u0119 preferujesz?"
+    "updates-page-text": "Niekt\u00f3re dystrybucje oferuj\u0105 szybsze aktualizacje, co mo\u017ce wp\u0142yn\u0105\u0107 na stabilno\u015b\u0107 systemu. Jak\u0105 opcj\u0119 preferujesz?",
+    "welcome-page-text": null,
+    "welcome-page-help": null,
+    "version-page-help": null,
+    "scenario-page-help": null,
+    "pc-knowledge-page-help": null,
+    "linux-knowledge-page-help": null,
+    "installation-page-help": null,
+    "help-page-help": null,
+    "ux-page-help": null,
+    "pricing-page-help": null,
+    "scope-page-help": null,
+    "privacy-page-help": null,
+    "updates-page-help": null,
+    "result-page-text": null,
+    "result-page-help": null
 }
