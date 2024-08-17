@@ -1,6 +1,6 @@
 {
-    "version-page-text": "Contrasto elevato",
-    "linux-knowledge-page-text": "Puoi selezionare un'edizione semplificata del questionario, che rimuove alcune domande super tecniche",
+    "version-page-text": "You can select a simplified questionaire edition, which removes some super technical questions",
+    "linux-knowledge-page-text": "How would you rate your knowledge with the Linux operating system?",
     "scenario-page-text": "Alcune distribuzioni sono state create per uno scopo specifico, altre per l'utilizzo giornaliero. Cosa ti serve?",
     "pc-knowledge-page-text": "Come valuteresti le tue competenze nell'usare il computer?",
     "installation-page-text": "Quante impostazioni desideri modificare da solo durante l'installazione? Quante variabili di configurazione devono essere riempite con valori predefiniti?",
@@ -15,20 +15,5 @@
     "privacy-page-text": "Alcune distribuzioni utilizzano servizi online per migliorare l'esperienza dell'utente. Ci\u00f2 pu\u00f2 influire sulla privacy dell'utente, vale a dire che l'utente pu\u00f2 essere monitorato quando utilizza tali funzionalit\u00e0 online.",
     "administration-page-text": "Esistono molti modi per amministrare una distribuzione Linux, e. g. per installare i software.",
     "administration-page-help": "Molte distribuzioni usano 'systemd' per avviare il sistema operativo stesso. Alcune distribuzioni evitano systemd a favore di soluzioni alternative e talvolta pi\u00f9 leggere",
-    "updates-page-text": "Alcune distribuzioni offrono aggiornamenti pi\u00f9 rapidi, che possono influire sulla stabilit\u00e0 del sistema. Cosa preferisci?",
-    "welcome-page-text": null,
-    "welcome-page-help": null,
-    "version-page-help": null,
-    "scenario-page-help": null,
-    "pc-knowledge-page-help": null,
-    "linux-knowledge-page-help": null,
-    "installation-page-help": null,
-    "help-page-help": null,
-    "ux-page-help": null,
-    "pricing-page-help": null,
-    "scope-page-help": null,
-    "privacy-page-help": null,
-    "updates-page-help": null,
-    "result-page-text": null,
-    "result-page-help": null
+    "updates-page-text": "Alcune distribuzioni offrono aggiornamenti pi\u00f9 rapidi, che possono influire sulla stabilit\u00e0 del sistema. Cosa preferisci?"
 }

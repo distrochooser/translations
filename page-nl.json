@@ -1,6 +1,6 @@
 {
-    "version-page-text": "openSUSE streeft ernaar een stabiele en gebruiksvriendelijke distributie te leveren, vooral voor eindgebruikers",
-    "linux-knowledge-page-text": "Over dit project",
+    "version-page-text": "You can select a simplified questionaire edition, which removes some super technical questions",
+    "linux-knowledge-page-text": "How would you rate your knowledge with the Linux operating system?",
     "scenario-page-text": "Sommige distributies zijn gemaakt voor een speciaal doel, andere voor dagelijks gebruik. Wat heb je nodig?",
     "pc-knowledge-page-text": "Hoe zou je je computervaardigheid beoordelen?",
     "installation-page-text": "Hoeveel instellingen wilt je zelf aanpassen tijdens de installatie? Hoeveel configuratievariabelen zouden al ingevuld moeten zijn met standaardwaarden?",
@@ -15,20 +15,5 @@
     "privacy-page-text": "Sommige distributies gebruiken online diensten om de gebruikerservaring te verbeteren. Dit kan de privacy van de gebruiker aantasten, d.w.z. de gebruiker kan worden gevolgd bij het gebruik van dergelijke online functies.",
     "administration-page-text": "Er zijn veel manieren om een \u200b\u200bLinux-distributie te beheren, bijvoorbeeld om software te installeren.",
     "administration-page-help": "Veel distributies gebruiken 'systemd' om het besturingssysteem zelf te starten. Sommige distributies vermijden systemd ten gunste van alternatieve en soms lichtere oplossingen",
-    "updates-page-text": "Sommige distributies bieden snellere updates, die de stabiliteit van het systeem kunnen be\u00efnvloeden. Wat heeft jouw voorkeur?",
-    "welcome-page-text": null,
-    "welcome-page-help": null,
-    "version-page-help": null,
-    "scenario-page-help": null,
-    "pc-knowledge-page-help": null,
-    "linux-knowledge-page-help": null,
-    "installation-page-help": null,
-    "help-page-help": null,
-    "ux-page-help": null,
-    "pricing-page-help": null,
-    "scope-page-help": null,
-    "privacy-page-help": null,
-    "updates-page-help": null,
-    "result-page-text": null,
-    "result-page-help": null
+    "updates-page-text": "Sommige distributies bieden snellere updates, die de stabiliteit van het systeem kunnen be\u00efnvloeden. Wat heeft jouw voorkeur?"
 }

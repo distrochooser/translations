@@ -15,20 +15,5 @@
     "privacy-page-text": "Algumas distribui\u00e7\u00f5es utilizam servi\u00e7os em segundo plano para melhorar a experi\u00eancia de usu\u00e1rio. Isso pode afetar a privacidade do usu\u00e1rio, p. ex. o usu\u00e1rio pode ser rastreado quando usa esses servi\u00e7os.",
     "administration-page-text": "Existem muitas formas de administrar uma distribui\u00e7\u00e3o Linux, por exemplo, para instalar software.",
     "administration-page-help": "V\u00e1rias distribui\u00e7\u00f5es usam 'systemd' para iniciar o pr\u00f3pio sistema operacional. Algunas distribui\u00e7\u00f5es evitam o systemd em favor de solu\u00e7\u00f5es alternativas e algumas mais leves",
-    "updates-page-text": "Algumas distribui\u00e7\u00f5es oferecem atualiza\u00e7\u00f5es r\u00e1pidas, o que pode afetar a estabilidade do sistema. \u00c9 isso o que prefere?",
-    "welcome-page-text": null,
-    "welcome-page-help": null,
-    "version-page-help": null,
-    "scenario-page-help": null,
-    "pc-knowledge-page-help": null,
-    "linux-knowledge-page-help": null,
-    "installation-page-help": null,
-    "help-page-help": null,
-    "ux-page-help": null,
-    "pricing-page-help": null,
-    "scope-page-help": null,
-    "privacy-page-help": null,
-    "updates-page-help": null,
-    "result-page-text": null,
-    "result-page-help": null
+    "updates-page-text": "Algumas distribui\u00e7\u00f5es oferecem atualiza\u00e7\u00f5es r\u00e1pidas, o que pode afetar a estabilidade do sistema. \u00c9 isso o que prefere?"
 }
