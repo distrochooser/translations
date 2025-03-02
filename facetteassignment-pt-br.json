@@ -67,5 +67,7 @@
     "slow-release-model-facette-prefer-stable-long_description": "As vers\u00f5es do software dispon\u00edveis podem ser mais antigas que a \u00faltima vers\u00e3o do fornecedor",
     "requires-payment-facette-pricing-free-long_description": "Suporte a longo prazo requer pagamento",
     "matrix-general-remark-additional-eula-facette-privacy-no-connections-unless-wanted-long_description": "A pol\u00edtica de privacidade da distribui\u00e7\u00e3o deve ser lida cuidadosamente durante a instala\u00e7\u00e3o",
-    "matrix-general-remark-additional-eula-facette-okay-when-working-long_description": "A pol\u00edtica de privacidade da distribui\u00e7\u00e3o deve ser lida cuidadosamente durante a instala\u00e7\u00e3o"
+    "matrix-general-remark-additional-eula-facette-okay-when-working-long_description": "A pol\u00edtica de privacidade da distribui\u00e7\u00e3o deve ser lida cuidadosamente durante a instala\u00e7\u00e3o",
+    "matrix-oldpc-no-32bit-desc-facette-no64bit-long_description": null,
+    "matrix-configuration-from-shell-desc-facette-many-choices-gui-long_description": null
 }

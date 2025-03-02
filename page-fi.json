@@ -15,5 +15,22 @@
     "privacy-page-text": "Tietyt jakelut k\u00e4ytt\u00e4v\u00e4t verkkopohjaisia palveluja jotta k\u00e4ytt\u00f6kokemus parantuisi. T\u00e4m\u00e4 voi vaikuttaa vaikuttaa k\u00e4ytt\u00e4j\u00e4n yksityisyyteen, esim. k\u00e4ytt\u00e4j\u00e4n seurantaa voi ilmet\u00e4 k\u00e4ytt\u00e4ess\u00e4 hy\u00f6dyksi tuollaisia verkko-ominaisuuksia.",
     "administration-page-text": "On lukuisia eri tapoja hallinnoida Linux jakelua, esim. kuten ohjelmien asennuksen kohdalla.",
     "administration-page-help": "Monet jakelut k\u00e4ytt\u00e4v\u00e4t palvelua nimelt\u00e4 'systemd' aloittaakseen itse k\u00e4ytt\u00f6j\u00e4rjestelm\u00e4n. Jotkut jakelut taas eiv\u00e4t k\u00e4yt\u00e4 systemd:t\u00e4 ja ovat valinneet vaihtoehtoisen ja joskus siten kevyemm\u00e4nkin ratkaisun",
-    "updates-page-text": "Jotkut jakelut tarjoavat p\u00e4ivitykset eritt\u00e4in pikaisesti, mutta t\u00e4m\u00e4 saattaa sitten vaikuttaa ajoittain k\u00e4ytt\u00f6j\u00e4rjestelm\u00e4n vakauteen. Millaista mallia ajattelisit suosivasi?"
+    "updates-page-text": "Jotkut jakelut tarjoavat p\u00e4ivitykset eritt\u00e4in pikaisesti, mutta t\u00e4m\u00e4 saattaa sitten vaikuttaa ajoittain k\u00e4ytt\u00f6j\u00e4rjestelm\u00e4n vakauteen. Millaista mallia ajattelisit suosivasi?",
+    "welcome-page-text": null,
+    "welcome-page-help": null,
+    "version-page-help": null,
+    "scenario-page-help": null,
+    "pc-knowledge-page-help": null,
+    "linux-knowledge-page-help": null,
+    "installation-page-help": null,
+    "help-page-help": null,
+    "ux-page-help": null,
+    "pricing-page-help": null,
+    "scope-page-help": null,
+    "privacy-page-help": null,
+    "updates-page-help": null,
+    "result-page-text": null,
+    "result-page-help": null,
+    "personal-requirements-page-text": null,
+    "personal-requirements-page-help": null
 }

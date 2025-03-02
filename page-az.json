@@ -15,5 +15,22 @@
     "privacy-page-text": "B\u0259zi paylanmalar istifad\u0259\u00e7i t\u0259cr\u00fcb\u0259sini yax\u015f\u0131la\u015fd\u0131rmaq \u00fc\u00e7\u00fcn onlayn xidm\u0259tl\u0259rd\u0259n istifad\u0259 edir. Bu, istifad\u0259\u00e7inin m\u0259xfiliyin\u0259 t\u0259sir g\u00f6st\u0259r\u0259 bil\u0259r, y\u0259ni istifad\u0259\u00e7i bu c\u00fcr onlayn funksiyalardan istifad\u0259 ed\u0259rk\u0259n izl\u0259nil\u0259 bil\u0259r.",
     "administration-page-text": "Linux paylanmas\u0131n\u0131 idar\u0259 etm\u0259yin bir \u00e7ox yolu var, m\u0259s. proqram t\u0259minat\u0131 qura\u015fd\u0131rmaq \u00fc\u00e7\u00fcn.",
     "administration-page-help": "Bir \u00e7ox paylanma \u0259m\u0259liyyat sisteminin \u00f6z\u00fcn\u00fc i\u015f\u0259 salmas\u0131 \u00fc\u00e7\u00fcn 'systemd' istifad\u0259 edir. B\u0259zi paylanmalar alternativ v\u0259 b\u0259z\u0259n daha y\u00fcng\u00fcl h\u0259ll\u0259rin xeyrin\u0259 systemd'd\u0259n yay\u0131n\u0131r",
-    "updates-page-text": "B\u0259zi paylanmalar sistemin sabitliyin\u0259 t\u0259sir ed\u0259 bil\u0259c\u0259k daha s\u00fcr\u0259tli yenil\u0259m\u0259l\u0259r t\u0259klif edir. Siz n\u0259y\u0259 \u00fcst\u00fcnl\u00fck verirsiniz?"
+    "updates-page-text": "B\u0259zi paylanmalar sistemin sabitliyin\u0259 t\u0259sir ed\u0259 bil\u0259c\u0259k daha s\u00fcr\u0259tli yenil\u0259m\u0259l\u0259r t\u0259klif edir. Siz n\u0259y\u0259 \u00fcst\u00fcnl\u00fck verirsiniz?",
+    "welcome-page-text": null,
+    "welcome-page-help": null,
+    "version-page-help": null,
+    "scenario-page-help": null,
+    "pc-knowledge-page-help": null,
+    "linux-knowledge-page-help": null,
+    "installation-page-help": null,
+    "help-page-help": null,
+    "ux-page-help": null,
+    "pricing-page-help": null,
+    "scope-page-help": null,
+    "privacy-page-help": null,
+    "updates-page-help": null,
+    "result-page-text": null,
+    "result-page-help": null,
+    "personal-requirements-page-text": null,
+    "personal-requirements-page-help": null
 }

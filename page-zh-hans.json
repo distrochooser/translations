@@ -15,5 +15,22 @@
     "privacy-page-text": "\u6709\u7684\u53d1\u884c\u7248\u4f7f\u7528\u5728\u7ebf\u670d\u52a1\u6765\u63d0\u9ad8\u7528\u6237\u4f53\u9a8c\u3002\u4f7f\u7528\u8fd9\u7c7b\u670d\u52a1\u7684\u7528\u6237\u53ef\u80fd\u4f1a\u88ab\u8ffd\u8e2a\uff0c\u8fd9\u4f1a\u5f71\u54cd\u5230\u7528\u6237\u7684\u9690\u79c1\u3002",
     "administration-page-text": "\u7ba1\u7406 Linux \u53d1\u884c\u7248\u6709\u8bb8\u591a\u65b9\u6cd5\uff0c\u4f8b\u5982\u5b89\u88c5\u8f6f\u4ef6\u3002",
     "administration-page-help": "\u8bb8\u591a\u53d1\u884c\u7248\u4f7f\u7528\u300csystemd\u300d\u6765\u542f\u52a8\u64cd\u4f5c\u7cfb\u7edf\u672c\u8eab\u3002\u6709\u4e9b\u53d1\u884c\u7248\u4f1a\u907f\u514d\u4f7f\u7528 systemd\uff0c\u5e76\u91c7\u7528\u53ef\u9009\u7684\u3001\u6709\u65f6\u66f4\u8f7b\u91cf\u7684\u89e3\u51b3\u65b9\u6848",
-    "updates-page-text": "\u6709\u7684\u53d1\u884c\u7248\u4f1a\u63d0\u4f9b\u975e\u5e38\u9891\u7e41\u7684\u66f4\u65b0\uff0c\u4f46\u53ef\u80fd\u4f1a\u5f71\u54cd\u7cfb\u7edf\u7a33\u5b9a\u6027\u3002\u60a8\u60f3\u8981\u600e\u6837\u7684\u66f4\u65b0\uff1f"
+    "updates-page-text": "\u6709\u7684\u53d1\u884c\u7248\u4f1a\u63d0\u4f9b\u975e\u5e38\u9891\u7e41\u7684\u66f4\u65b0\uff0c\u4f46\u53ef\u80fd\u4f1a\u5f71\u54cd\u7cfb\u7edf\u7a33\u5b9a\u6027\u3002\u60a8\u60f3\u8981\u600e\u6837\u7684\u66f4\u65b0\uff1f",
+    "welcome-page-text": null,
+    "welcome-page-help": null,
+    "version-page-help": null,
+    "scenario-page-help": null,
+    "pc-knowledge-page-help": null,
+    "linux-knowledge-page-help": null,
+    "installation-page-help": null,
+    "help-page-help": null,
+    "ux-page-help": null,
+    "pricing-page-help": null,
+    "scope-page-help": null,
+    "privacy-page-help": null,
+    "updates-page-help": null,
+    "result-page-text": null,
+    "result-page-help": null,
+    "personal-requirements-page-text": null,
+    "personal-requirements-page-help": null
 }

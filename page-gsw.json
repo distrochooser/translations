@@ -15,5 +15,22 @@
     "privacy-page-text": "Es paar Distributione ben\u00fctze Onlinedienscht, f\u00fcr d Benutzererfahrig z verbessere. D\u00fcr das isches am Abieter vo de Onlinedienschte aber m\u00fcglech, d Benutzergwohnheite z protokolliere u dr Benutzer z tracke.",
     "administration-page-text": "Unger Linux w\u00e4rde d Programm h\u00fcfig \u00fcber e Paketverwaltig installiert u aktualisiert. Es paar Programm w\u00e4rde us Ihrem Quellcode erstellt u denn installiert. Wele w\u00e4g bevorzugeni?",
     "administration-page-help": "I weiss was \"systemd\" isch u m\u00f6cht das lieber vermide. ",
-    "updates-page-text": "Wenn n\u00f6ii Updates f\u00fcr Programmpaket uf de Distributione erschine, hanget vo de Ziel vor Distribution ab. Es paar Distributione biete schn\u00e4ui Updates a, was sech aber negativ uf d Stabilit\u00e4t vom System ch\u00f6nnt usw\u00fcrke. "
+    "updates-page-text": "Wenn n\u00f6ii Updates f\u00fcr Programmpaket uf de Distributione erschine, hanget vo de Ziel vor Distribution ab. Es paar Distributione biete schn\u00e4ui Updates a, was sech aber negativ uf d Stabilit\u00e4t vom System ch\u00f6nnt usw\u00fcrke. ",
+    "welcome-page-text": null,
+    "welcome-page-help": null,
+    "version-page-help": null,
+    "scenario-page-help": null,
+    "pc-knowledge-page-help": null,
+    "linux-knowledge-page-help": null,
+    "installation-page-help": null,
+    "help-page-help": null,
+    "ux-page-help": null,
+    "pricing-page-help": null,
+    "scope-page-help": null,
+    "privacy-page-help": null,
+    "updates-page-help": null,
+    "result-page-text": null,
+    "result-page-help": null,
+    "personal-requirements-page-text": null,
+    "personal-requirements-page-help": null
 }

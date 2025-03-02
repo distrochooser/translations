@@ -15,5 +15,22 @@
     "privacy-page-text": "Algunas distribuciones utilizan servicios en l\u00ednea para mejorar la experiencia del usuario. Esto puede afectar la privacidad del usuario, es decir, el usuario puede ser rastreado cuando usa dichas funciones en l\u00ednea.",
     "administration-page-text": "Hay muchas formas de administrar una distribuci\u00f3n de Linux, por ejemplo, para instalar software.",
     "administration-page-help": "Muchas distribuciones usan 'systemd' para iniciar el propio sistema operativo. Algunas distribuciones evitan systemd en favor de soluciones alternativas y, a veces, m\u00e1s ligeras.",
-    "updates-page-text": "Algunas distribuciones ofrecen actualizaciones m\u00e1s r\u00e1pidas, lo que puede afectar la estabilidad del sistema. \u00bfQu\u00e9 prefieres?"
+    "updates-page-text": "Algunas distribuciones ofrecen actualizaciones m\u00e1s r\u00e1pidas, lo que puede afectar la estabilidad del sistema. \u00bfQu\u00e9 prefieres?",
+    "welcome-page-text": null,
+    "welcome-page-help": null,
+    "version-page-help": null,
+    "scenario-page-help": null,
+    "pc-knowledge-page-help": null,
+    "linux-knowledge-page-help": null,
+    "installation-page-help": null,
+    "help-page-help": null,
+    "ux-page-help": null,
+    "pricing-page-help": null,
+    "scope-page-help": null,
+    "privacy-page-help": null,
+    "updates-page-help": null,
+    "result-page-text": null,
+    "result-page-help": null,
+    "personal-requirements-page-text": null,
+    "personal-requirements-page-help": null
 }

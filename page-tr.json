@@ -15,5 +15,22 @@
     "privacy-page-text": "Baz\u0131 da\u011f\u0131t\u0131mlar, kullan\u0131c\u0131 deneyimini geli\u015ftirmek i\u00e7in \u00e7evrim i\u00e7i hizmetleri kullan\u0131r. Bu, kullan\u0131c\u0131n\u0131n gizlili\u011fini etkileyebilir, yani kullan\u0131c\u0131 \u00e7evrim i\u00e7i \u00f6zellikler kullan\u0131rken takip edilebilir-izlenebilir.",
     "administration-page-text": "Bir Linux da\u011f\u0131t\u0131m\u0131n\u0131 y\u00f6netmenin bir\u00e7ok yolu vard\u0131r. \u00d6rne\u011fin uygulama kurmak.",
     "administration-page-help": "Bir\u00e7ok da\u011f\u0131t\u0131m, i\u015fletim sistemini ba\u015flatmak i\u00e7in 'systemd' kullan\u0131r. Baz\u0131 da\u011f\u0131t\u0131mlar, alternatif ve bazen daha hafif \u00e7\u00f6z\u00fcmleri i\u00e7in 'systemd'den ka\u00e7\u0131n\u0131r",
-    "updates-page-text": "Baz\u0131 Da\u011f\u0131t\u0131mlar, sistem kararl\u0131l\u0131\u011f\u0131n\u0131 etkileyebilecek daha h\u0131zl\u0131 g\u00fcncellemeler sunar. Hangisini tercih edersin?"
+    "updates-page-text": "Baz\u0131 Da\u011f\u0131t\u0131mlar, sistem kararl\u0131l\u0131\u011f\u0131n\u0131 etkileyebilecek daha h\u0131zl\u0131 g\u00fcncellemeler sunar. Hangisini tercih edersin?",
+    "welcome-page-text": null,
+    "welcome-page-help": null,
+    "version-page-help": null,
+    "scenario-page-help": null,
+    "pc-knowledge-page-help": null,
+    "linux-knowledge-page-help": null,
+    "installation-page-help": null,
+    "help-page-help": null,
+    "ux-page-help": null,
+    "pricing-page-help": null,
+    "scope-page-help": null,
+    "privacy-page-help": null,
+    "updates-page-help": null,
+    "result-page-text": null,
+    "result-page-help": null,
+    "personal-requirements-page-text": null,
+    "personal-requirements-page-help": null
 }

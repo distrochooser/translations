@@ -67,5 +67,7 @@
     "slow-release-model-facette-prefer-stable-long_description": "Tarjolla olevat ohjelmaversiot voivat olla vanhempia kuin viimeisin tekij\u00e4n toimittama versio",
     "requires-payment-facette-pricing-free-long_description": "Pitk\u00e4n tuen k\u00e4ytt\u00f6 vaatii maksullisuutta",
     "matrix-general-remark-additional-eula-facette-privacy-no-connections-unless-wanted-long_description": "Jakelun tietosuojak\u00e4yt\u00e4nt\u00f6 on luettava huolellisesti asennuksen aikana.",
-    "matrix-general-remark-additional-eula-facette-okay-when-working-long_description": "Jakelun tietosuojak\u00e4yt\u00e4nt\u00f6 on luettava huolellisesti asennuksen aikana."
+    "matrix-general-remark-additional-eula-facette-okay-when-working-long_description": "Jakelun tietosuojak\u00e4yt\u00e4nt\u00f6 on luettava huolellisesti asennuksen aikana.",
+    "matrix-oldpc-no-32bit-desc-facette-no64bit-long_description": null,
+    "matrix-configuration-from-shell-desc-facette-many-choices-gui-long_description": null
 }
